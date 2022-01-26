@@ -7,6 +7,7 @@ module.exports = {
     entry: [
         'title_page.md',
         { rel: 'contents', },
+        'dedication.md',
         'chapter_0.md', // `title` is automatically guessed from the file (frontmatter > first heading).
         'chapter_1.md',
         'chapter_2.md',
