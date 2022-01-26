@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+
+body {
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'EB Garamond', serif;
+}
+
+hr {
+    border: none;
+}
+
+hr::before {
+    content: "✺";
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: x-small;
+}
+
+p {
+    font-size: small;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    text-indent: 1.5em;
+    orphans: 2;
+    widows: 2;
+    hyphens: auto;
+}
+
+h1 {
+    font-size: medium;
+    text-align: center;
+    letter-spacing: .1em;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: large;
+    text-align: center;
+    font-weight: 500;
+    font-variant: all-small-caps;
+    letter-spacing: .1em;
+    string-set: chapter-title content()
+}
+
+p:first-of-type {
+    text-indent: 0;
+}
+
+p:first-of-type::first-line {
+    font-style: italic;
+    letter-spacing: .1em;
+    font-weight: 400;
+}
+
+p:first-of-type::first-letter {
+    font-size: 2em;
+    line-height: 1;
+    padding-right: 1px;
+}
+
+@page {
+    font-family: 'EB Garamond', serif;
+
+    @top-center {
+        font-variant: small-caps;
+        letter-spacing: .1em;
+        font-size: small;
+    }
+}
+
+@page :left {
+    margin: .5in;
+    margin-right: .75in;
+
+    @top-center {
+        content: 'The Word of Iron'
+    }
+
+    @top-left {
+        content: counter(page);
+        font-size: small;
+    }
+}
+
+@page :right {
+    margin: .5in;
+    margin-left: .75in;
+
+    @top-center {
+        content: string(chapter-title, first);
+    }
+
+    @top-right {
+        content: counter(page);
+        font-size: small;
+    }
+}
+
+@page :nth(1) {
+    @top-center {
+        content: ""
+    }
+
+    @top-right {
+        content: ""
+    }
+
+    @top-left {
+        content: ""
+    }
+}
