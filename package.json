@@ -1,16 +1,17 @@
 {
-  "name": "the-word-of-iron",
-  "description": "the-word-of-iron",
-  "version": "0.0.0",
-  "author": "Zach Hannum <zacharyhannum@gmail.com>",
-  "scripts": {
-    "build": "vivliostyle build",
-    "preview": "vivliostyle preview"
-  },
-  "dependencies": {
-    "@vivliostyle/cli": "latest",
-    "@vivliostyle/theme-gutenberg": "^0.1.0"
-  },
-  "license": "AGPL-3.0",
-  "private": true
+    "name": "the-word-of-iron",
+    "description": "the-word-of-iron",
+    "version": "0.0.0",
+    "author": "Zach Hannum <zacharyhannum@gmail.com>",
+    "scripts": {
+        "print": "vivliostyle build -o build/the-word-of-iron.pdf -f pdf",
+        "web": "vivliostyle build -o build/ -f webpub --theme theme.web.css && copyfiles theme.print.css build",
+        "preview": "vivliostyle preview"
+    },
+    "dependencies": {
+        "@vivliostyle/cli": "latest",
+        "copyfiles": "^2.4.1"
+    },
+    "license": "AGPL-3.0",
+    "private": true
 }

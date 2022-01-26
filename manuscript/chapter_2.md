@@ -1,4 +1,7 @@
-# Chapter 2
+---
+title: "Chapter Two: Ridge Walking"
+---
+# Chapter Two
 ## Ridge Walking
 
 Night fell over the camp, a dark blanket that smothered the last tendrils of light peering over the horizon. Marcus waited for his new team, standing just past the eastern guard post, his torch a beacon in the darkness. He watched his flickering shadow dance back and forth. 

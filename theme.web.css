@@ -1,0 +1,7 @@
+@import url('theme.print.css');
+body {
+    max-width: 500px;
+    margin: auto;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}

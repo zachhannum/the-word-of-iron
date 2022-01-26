@@ -1,4 +1,7 @@
-# Chapter 1
+---
+title: "Chapter One: Ash and Words"
+---
+# Chapter One
 ## Ash and Words
 
 Sieges were always hell. Marcus had seen it before. Soldiers clustered in groups around campfires, sharing food and conversation. Most looked to be in good spirits, but they had only been here for a few days. When their food began to run out, and disease began to spread, this camp would begin to look very different. 
