@@ -5,6 +5,7 @@ module.exports = {
     size: '5in 8in', // paper size.
     theme: 'theme.print.css', // .css or local dir or npm package. default to undefined.
     entry: [
+        'title_page.md',
         { rel: 'contents', },
         'chapter_0.md', // `title` is automatically guessed from the file (frontmatter > first heading).
         'chapter_1.md',
