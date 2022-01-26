@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: The Stone Falls"
+title: "Chapter Five: The Stone Falls"
 ---
 # Chapter Five
 ## The Stone Falls

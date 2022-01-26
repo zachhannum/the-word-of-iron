@@ -4,6 +4,15 @@ The Word of Iron Book
 
 > created by [create-book](https://github.com/vivliostyle/create-book).
 
+## Installation
+
+Python 3 and Pip must be installed.
+
+```
+yarn install
+pip install beautifulsoup4
+```
+
 ## References
 
 - VFM <https://vivliostyle.github.io/vfm/#/vfm>
