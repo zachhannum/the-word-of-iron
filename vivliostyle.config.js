@@ -2,7 +2,7 @@ module.exports = {
     title: 'The Word of Iron', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
     author: 'Zach Hannum <zacharyhannum@gmail.com>', // default to `author` in `package.json` or undefined.
     // language: 'ja', // default to undefined.
-    size: '5.5in 8.25in', // paper size.
+    size: '5in 8in', // paper size.
     theme: 'theme.print.css', // .css or local dir or npm package. default to undefined.
     entry: [
         { rel: 'contents', },

@@ -15,11 +15,11 @@ hr::before {
     text-align: center;
     margin: auto;
     display: block;
-    font-size: 12pt;
+    font-size: var(--standard-font-size);
 }
 
 p {
-    font-size: 12pt;
+    font-size: 11pt;
     line-height: 1.5;
     margin-top: 0em;
     margin-bottom: 0em;
@@ -87,7 +87,7 @@ nav li {
 }
 
 nav li a {
-    font-size: 12pt;
+    font-size: 11pt;
     line-height: 1.5;
     display: inline-flex;
     width: 100%;
@@ -115,24 +115,24 @@ nav li a::before {
 }
 
 @page {
-    margin: .6in;
-    margin-top: .8in;
+    margin: .5in;
+    margin-top: 1in;
     font-family: 'EB Garamond', serif;
     @top-center {
         font-variant: small-caps;
         letter-spacing: .1em;
-        font-size: 12pt;
+        font-size: 11pt;
     }
     @top-left {
-        font-size: 12pt;
+        font-size: 11pt;
     }
     @top-right {
-        font-size: 12pt;
+        font-size: 11pt;
     }
 }
 
 @page :left {
-    margin-right: .8in;
+    margin-right: .75in;
     @top-center {
         content: 'The Word of Iron'
     }
