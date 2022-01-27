@@ -8,6 +8,10 @@ The Word of Iron Book
 
 ## Installation
 
+### press-ready deps
+https://www.ghostscript.com/download/gsdnld.html
+http://www.xpdfreader.com/download.html
+
 ```
 yarn install
 ```
