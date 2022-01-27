@@ -1,6 +1,6 @@
 # The Word Of Iron
 
-[![build-book Actions Status](https://github.com/midnightprioriem/the-word-of-iron/workflows/build-book/badge.svg)](https://github.com/midnightprioriem}/the-word-of-iron/actions)
+[![build-book Actions Status](https://github.com/midnightprioriem/the-word-of-iron/workflows/build-book/badge.svg)](https://github.com/midnightprioriem/the-word-of-iron/actions)
 
 The Word of Iron Book 
 
