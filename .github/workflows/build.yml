@@ -21,6 +21,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - run: npm install
-      - run: npm run build --if-present
-      - run: npm test
+      - name: Install Yarn
+        run: npm install -g yarn
+      - name: Install Dependencies
+        run: yarn install
+      - name: Build Book
+        run: yarn build
