@@ -6,8 +6,9 @@
     "scripts": {
         "build": "yarn build_web && yarn build_print && yarn build_press_ready",
         "build_print": "vivliostyle build -o build/the-word-of-iron.pdf -f pdf",
-        "build_web": "yarn vivliostyle_web && yarn copy_web_css",
+        "build_web": "yarn vivliostyle_web && yarn copy_web_css && yarn copy_index",
         "copy_web_css": "copyfiles css/*.css build",
+        "copy_index": "copyfiles index.html build",
         "vivliostyle_web": "vivliostyle build -o build/  -f webpub --theme ./css/theme.web.css",
         "preview": "vivliostyle preview",
         "build_press_ready": "press-ready build --input ./build/the-word-of-iron.pdf --output ./build/the-word-of-iron-print.pdf && del-cli ./build/the-word-of-iron.pdf"

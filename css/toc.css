@@ -37,3 +37,8 @@ nav li a::before {
     order: 1;
     flex: auto;
 }
+
+nav {
+    max-width: 5in;
+    margin: auto;
+}
