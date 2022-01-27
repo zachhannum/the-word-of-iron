@@ -3,11 +3,20 @@ module.exports = {
     author: 'Zach Hannum <zacharyhannum@gmail.com>', // default to `author` in `package.json` or undefined.
     // language: 'ja', // default to undefined.
     size: '5in 8in', // paper size.
-    theme: 'theme.print.css', // .css or local dir or npm package. default to undefined.
+    theme: 'css/theme.print.css', // .css or local dir or npm package. default to undefined.
     entry: [
-        'title_page.md',
-        { rel: 'contents', },
-        'dedication.md',
+        {
+          path: 'title_page.md',
+          theme: 'css/title.css'
+        },
+        { rel: 'contents', 
+          path: 'toc.md',
+          theme: 'css/toc.css'
+        },
+        {
+          path: 'dedication.md',
+          theme: 'css/dedication.css'
+        },
         'chapter_0.md', // `title` is automatically guessed from the file (frontmatter > first heading).
         'chapter_1.md',
         'chapter_2.md',

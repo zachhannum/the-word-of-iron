@@ -1,9 +1,9 @@
+
 <div class="title">
-
-# The Word of Iron
-
-## Book One of the Sourcegate Trilogy
+The Word
+<br/>
+of Iron
+</div>
 
 ## Zach Hannum
 
-</div>
