@@ -181,7 +181,7 @@ After a round of introductions, it was Rykker that spoke next. "Let's say we agr
 
 At this, Hawthorne stepped forward smoothly, like a reed blowing in the wind. Mara had offered him a chair, but he refused. He spoke softly, but with a deep reverberating basso. "Our intelligence has narrowed Vanen's location to a region south of Saurkar, in Western Antuza."
 
-Saurkar was a long way from Senna. Rykker had never been to the continent of Kador, but it lay across the narrow Plys Sea and required the charter of a ship to make the journey. "Wouldn't that take weeks?"a
+Saurkar was a long way from Senna. Rykker had never been to the continent of Antuza, but it lay across the narrow Plys Sea and required the charter of a ship to make the journey. "Wouldn't that take weeks?"a
 
 "If you're taking a direct route, yes. But we will not be," explained Hawthorne.
 
