@@ -1,6 +1,3 @@
----
-title: "Chapter Two: Ridge Walking"
----
 # Chapter Two
 ## Ridge Walking
 
@@ -58,9 +55,9 @@ Looking at the rest of Sev's body, he got the impression that whoever had create
 
 ***
 
-They marched through the trees for hours with nothing but the dim light of Rykker's engine to guide them. As they ventured deeper into the forest, the trees grew denser. The terrain became more rocky. The land to the west of Valla was rife with canyons created by meandering rivers and streams that wound their way towards the sea. The going was slow, as Marcus had decided to avoid well-known trails to minimize their chances of coming into contact with Kadoran forces. Although their destination was just outside the perimeter established by the enemy, there was always the chance of running into a scouting party.
+They marched through the trees for hours with nothing but the dim light of Rykker's engine to guide them. As they ventured deeper into the forest, the trees grew denser. The terrain became more rocky. The land to the west of Valla was rife with canyons created by meandering rivers and streams that wound their way towards the sea. The going was slow, as Marcus had decided to avoid well-known trails to minimize their chances of coming into contact with Antuzan forces. Although their destination was just outside the perimeter established by the enemy, there was always the chance of running into a scouting party.
 
-For awhile, the only sounds were the quiet crunching of their boots on forest detritus. It reminded Marcus of a time long before. Two decades ago, when the Kadorans had first crossed Plys sea and waged the first war against Ilris for the glory of Odeth, he had been a fresh recruit. He lost his hand on a similar night, in a similar forest.
+For awhile, the only sounds were the quiet crunching of their boots on forest detritus. It reminded Marcus of a time long before. Two decades ago, when the Antuzans had first crossed Plys sea and waged the first war against Ilris for the glory of Odeth, he had been a fresh recruit. He lost his hand on a similar night, in a similar forest.
 
 Viggo eventually broke the silence. He had found some sourleaf and was idling chewing on a piece. "I’ve been giving this some thought, and there’s one thing I don’t quite get. How are we actually supposed to find this tunnel? In the middle of the night? In the dark? I’m assuming it isn’t just out in plain sight."
 
@@ -98,17 +95,17 @@ Marcus held up a hand for silence. Up ahead, he could barely make out the faint 
 
 "My hearing is quite good," Sev said. "There are three humans near the river. Conversing, but I cannot make out what they are saying. Their accents are strange."
 
-"Kadorans." *Shit*. Why was his luck always so poor? He was afraid that this would happen. He always hated what came next. "It has to be."
+"Antuzans." *Shit*. Why was his luck always so poor? He was afraid that this would happen. He always hated what came next. "It has to be."
 
 Marcus motioned for them to crouch down. They huddled in the brush, and he could see their hesitation.
 
 "Can we sneak past them? Use the river to mask our sounds?" Rykker had dimmed his engine as soon as Sev spoke, but there was still enough light for Marcus to see the doubt flash across his face. He'd probably never been in a fight. Not like this, anyway, where the other side just wanted to put you back into the dirt.
 
-"We can't. It's too risky. If the Kadorans find out what's out here..." He shook his head. "No, there's only one way this ends."
+"We can't. It's too risky. If the Antuzans find out what's out here..." He shook his head. "No, there's only one way this ends."
 
 He looked at his new companions as the doubt across their faces solidified into resolute masks. They had no choice but to fight. Marcus watched as they readied themselves. A crossbow appeared in Rykker's hands. Viggo hefted his hammer, giving it a quick twirl. Sev simply stood, warhammer still grasped in one hand.
 
-On Marcus' command, they crept forward, towards the river. Rykker and Sev moved around to set up a flanking position parallel with the beach. Marcus and Viggo approached head on. As they got closer, Marcus finally heard the voices. Their rough accents confirmed his suspicions that they were Kadorans. Raucous voices carried over the rushing of the river. The four of them stalked all the way up to the edge of the riverbank, just out of view.
+On Marcus' command, they crept forward, towards the river. Rykker and Sev moved around to set up a flanking position parallel with the beach. Marcus and Viggo approached head on. As they got closer, Marcus finally heard the voices. Their rough accents confirmed his suspicions that they were Antuzans. Raucous voices carried over the rushing of the river. The four of them stalked all the way up to the edge of the riverbank, just out of view.
 
 Peering through the bushes, he saw a meager campsite. Three soldiers were clustered around a lively fire, which was their only source of light. A blackened pot hung from a spit over the flames, and the smell of strong spices wafted through the air. They were laughing loudly.
 
@@ -126,7 +123,7 @@ Next to Marcus, the clang of steel began as Viggo engaged with the young man who
 
 A sudden impact hurled Marcus to the ground. The bearded man straddled him, a wild look in his eye. Dark blood matted his beard, and one of his eyes was nearly closed shut, red and swelling. Marcus was barely able to stop the dagger from reaching his throat with his good hand. It hovered mere inches from him, but he held the man's arm at bay. He strained, using all of his strength to push the man back. But his enemy had leverage, and bared down with his weight. He closed his eyes and gritted his teeth, pushing with everything he had. Then there was a crack and the pressure lifted from his chest. He looked up to see Sev standing over him. He offered a hand, and Marcus graciously took it, stumbling to his feet.
 
-Looking around, he surveyed the aftermath. The three Kadorans lay, unmoving, in the sand. Sev had also taken out the third soldier, evidenced by the state of his caved in chest. Though Marcus also noted two crossbow bolts protruding  from the man's soldier. 
+Looking around, he surveyed the aftermath. The three Antuzans lay, unmoving, in the sand. Sev had also taken out the third soldier, evidenced by the state of his caved in chest. Though Marcus also noted two crossbow bolts protruding  from the man's soldier. 
 
 He grimaced as a thought came to him. "We have to hide the bodies. More scouts will eventually come around, and they'll know we were here."
 
@@ -136,13 +133,13 @@ Marcus sighed, unable to argue, and pulled a pair of foldable shovels from his p
 
 ***
 
-The last bit of earth was packed down, leaving no trace of the Kadorans. Marcus wiped dirty sweat from his brow. He eyed Viggo, who looked equally as haggard. "I think I'll take that drink now."
+The last bit of earth was packed down, leaving no trace of the Antuzans. Marcus wiped dirty sweat from his brow. He eyed Viggo, who looked equally as haggard. "I think I'll take that drink now."
 
 Viggo proffered his flask, and Marcus took it, downing a large gulp. The liquid burned with a bitter taste all the way down his throat. Nothing like the warm, sweet licorice drinks they had in the north. No, this was a drink with a singular purpose. To dull the pain. It did its job well.
 
 "It's time to go," he said. "It's still early, but we've got a lot of searching ahead of us."
 
-He groaned as he stood. Pain crept up his spine, a dull, deep pain. He wasn't quite old enough to feel this kind of ache, he thought, but the Kadoran had hit him hard. He'd feel it for a few days at least.
+He groaned as he stood. Pain crept up his spine, a dull, deep pain. He wasn't quite old enough to feel this kind of ache, he thought, but the Antuzan had hit him hard. He'd feel it for a few days at least.
 
 They made their way back to the riverbank, and quickly set about destroying the campsite. They tossed the spears into the river, hid the pot in a bush, and kicked sand to cover what was left of the campfire and spilled stew. The faint scent of spices still permeated the air, intermingled with the smell of blood. 
 
@@ -198,7 +195,7 @@ Sev nodded and stepped up to the crack. Marcus retreated to give him a wide bert
 
 The opening was now wide enough to allow even Sev to fit through. They stared into the darkness that even Rykker's engine could not penetrate.
 
-"On second thought, I'll just stay here and wait for the Kadorans to come along. I think I prefer them to whatever is waiting for us inside that cave." Viggo took another swig from his flask.
+"On second thought, I'll just stay here and wait for the Antuzans to come along. I think I prefer them to whatever is waiting for us inside that cave." Viggo took another swig from his flask.
 
 "I'm with the medic on this one," Rykker said. "I've led archeological digs before, but wandering into a dark tunnel, in the dead of night, surrounded by enemies seems like a death wish. What if there isn’t anything on the other side, and when we return they are waiting for us?"
 

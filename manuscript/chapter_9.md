@@ -1,6 +1,3 @@
----
-title: "Chapter Nine: Answers"
----
 # Chapter Nine
 ## Answers
 
@@ -38,7 +35,7 @@ Once he was done, he reached for something beneath the counter, retrieving two b
 
 Without waiting for a response, he turned, picked up the tray of coins, and retreated into the back room.
 
----
+***
 
 Rykker's stomach growled audibly as the sweet aroma of hot food wafted into the dining room. The last decent meal he had was back in Valla, and he'd barely even appreciated it since he was so focused on his research at the time. He resolved to enjoy every bite of this one.
 
@@ -52,7 +49,7 @@ He slid the serving plate to Sev, who sat to his right. Sev looked at the plate 
 
 Others around the table took more serving trays from the center, helping themselves then passing them around in a similar fashion. The meal included a variety of cooked vegetables, a different kind of meat, this one grilled with a brown gravy, and a dark, fluffy bread, round in shape and mostly hollow on the inside.
 
-For a time, they ate in silence, only the occasional clink and scrape of silverware against ceramic. It seemed to Rykker that the others felt similarly to him---it had been a long while since they had had a moment of peace. A moment to relax. 
+For a time, they ate in silence, only the occasional clink and scrape of silverware against ceramic. It seemed to Rykker that the others felt similarly to him—it had been a long while since they had had a moment of peace. A moment to relax. 
 
 He studied Mara, who sat at the head of the table. She had taken some food, but had barely eaten any of it. Rykker wasn't sure what to make of her. In the presence of Vanen, there had been an overwhelming sense of *wrongness*. Marcus and Viggo had mentioned it as an almost physical reaction, and while it hadn't been that extreme for him, there *was* something. Some feeling that he had. To him, the feeling was akin to walking through a house that was on a slant, as if it hadn't been built properly. Something broken that couldn't be fixed unless it was destroyed. On the other hand, Vanen had known what Sev was. An Aeonnar. He seemed to have answers to questions that Rykker had been asking since the day he had dug Sev from the dirt. 
 
@@ -114,7 +111,7 @@ Mara stood up and began to pace her side of the room, hands clasped behind her b
 
 "For now, at least, not all Entra is gone. But where it was once in abundance, now is terribly scarce, found only in the smallest of quanitites. Residuals of an age long past. To most, almost gone and *gone* are indistinguishable. But for some, they have an extraordinary gift, and aptitude to sense these residuals, and, in some cases, harness them. Annet is one of such disposition.
 
-"The Scathe, are, by many definitions, an perversion against the natural order of the world as we know it. I do not know when they came about, only that it was some time after the Dark Age began. They worship a dark god---it has gone by many names, but the one you may be familiar with is Odeth. A Scathe is created when a human makes, willingly, a deal with Odeth. With this pact, they are free to *consume* the Entra within others in a way that gives them power far beyond mortal capabilities. What their greater scheme is, I do not know. But one thing is clear: they are growing in numbers. All across Ilris and beyond, individuals like Annet are being taken. Individuals that I have kept a careful eye on---and yet they manage to spirit them away all the same. I fear the capabilities of a Scathe with the innate talent of someone like Annet."
+"The Scathe, are, by many definitions, an perversion against the natural order of the world as we know it. I do not know when they came about, only that it was some time after the Dark Age began. They worship a dark god—it has gone by many names, but the one you may be familiar with is Odeth. A Scathe is created when a human makes, willingly, a deal with Odeth. With this pact, they are free to *consume* the Entra within others in a way that gives them power far beyond mortal capabilities. What their greater scheme is, I do not know. But one thing is clear: they are growing in numbers. All across Ilris and beyond, individuals like Annet are being taken. Individuals that I have kept a careful eye on—and yet they manage to spirit them away all the same. I fear the capabilities of a Scathe with the innate talent of someone like Annet."
 
 "So, what? They are going to turn her into one of these... things?" asked Len.
 
@@ -144,7 +141,7 @@ Mara smiled at that. "You have a very skeptical mind."
 
 "But you are also very quick to blind yourself. I'm not selling you anything, Rykker. I think you will find that you more than most are tied to what will unfold, whether you like it or not." She addressed the table again. "I know each and every one of you will have your own doubts and fears at what I have to say. But I also see in each of you a hunger. A drive to know. Let me assure you that the path I offer has what you seek."
 
-Rykker thought about Sev. About the countless years he had spent trying to understand where he came from. Libraries all across Ilris---access to Universities and personal collections of scholars, governors, and socialites. None of it had turned up a shred of insight into the nature of Sev's being. And then, after all that, Vanen had just *known*. How much knowledge was locked away, hidden within this clandestine world of Magic and monsters? The possibilities of what he could learn where limitless.
+Rykker thought about Sev. About the countless years he had spent trying to understand where he came from. Libraries all across Ilris—access to Universities and personal collections of scholars, governors, and socialites. None of it had turned up a shred of insight into the nature of Sev's being. And then, after all that, Vanen had just *known*. How much knowledge was locked away, hidden within this clandestine world of Magic and monsters? The possibilities of what he could learn where limitless.
 
 "I guess I've got nothing better to do," he said, adopting a mock casual tone.
 
@@ -166,7 +163,7 @@ Mara tapped her finger along her jaw. "Now that is the question, isn't it? In th
 
 "Simple terms, yeah."
 
-"I said simple, not easy. At this point, you all know the conditions of what I ask. For what you seek---knowledge, power---I offer in exchange for your complaisance. If that is not enough, know that you will be serving a greater good. I am not alone in my crusade against the rising darkness to the West. You could think of it as joining a sizeable but decentralized organization dedicated to fighting the war that your armies cannot. A terrible fate awaits your lands at the hand of the Empire and the Scathe should you not act."
+"I said simple, not easy. At this point, you all know the conditions of what I ask. For what you seek—knowledge, power—I offer in exchange for your complaisance. If that is not enough, know that you will be serving a greater good. I am not alone in my crusade against the rising darkness to the West. You could think of it as joining a sizeable but decentralized organization dedicated to fighting the war that your armies cannot. A terrible fate awaits your lands at the hand of the Empire and the Scathe should you not act."
 
 Before anyone could answer, a sharp, formal knock rattled the door.
 

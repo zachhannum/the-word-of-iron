@@ -1,20 +1,17 @@
----
-title: "Chapter Four: The Siege of Valla"
----
 # Chapter Four
 ## The Siege of Valla
 
-The citizens of Valla were suffering. Viggo could see the evidence in their faces. They looked more like trapped animals than people. Surrounded on all sides by the enemy, forced to suffer the slow agony of starvation and disease---It was a wonder that stayed sane. It had been the better part of a month since Kadoran forces closed in. An entire month for food stores to run low, and clean sources of water to run dry. Prices were increasing, eventually leaving the poorest of them without a means to eat.
+The citizens of Valla were suffering. Viggo could see the evidence in their faces. They looked more like trapped animals than people. Surrounded on all sides by the enemy, forced to suffer the slow agony of starvation and disease—It was a wonder that stayed sane. It had been the better part of a month since Antuzan forces closed in. An entire month for food stores to run low, and clean sources of water to run dry. Prices were increasing, eventually leaving the poorest of them without a means to eat.
 
 He walked down a cobbled street, towards the marketplace they had passed the night before. *What in Teldur's name was he doing here*? When he had awoken early that morning, he left the Prioriem without letting anyone know. He had just walked right out the front doors, without stopping to talk to anyone or tell them where he was going. Why, he couldn't say. He only knew he had to move his legs. The distraction helped him think. 
 
-The isolation, the *captivity* was crushing the common people of Valla. In a matter of minutes, he spotted dozens of grimy country folk who had been forced from their homes outside the city. Used to the open spaces of their farms, they now clustered in small pockets, seeking shelter in alleys and under rudimentary tents. Their bodies were thin---beginning to waste away to nothing. The sight was enough to make him shake with frustration.
+The isolation, the *captivity* was crushing the common people of Valla. In a matter of minutes, he spotted dozens of grimy country folk who had been forced from their homes outside the city. Used to the open spaces of their farms, they now clustered in small pockets, seeking shelter in alleys and under rudimentary tents. Their bodies were thin—beginning to waste away to nothing. The sight was enough to make him shake with frustration.
 
 They could evacuate through the passage, if the council allowed it. Make their way north, or perhaps west to Cenna. Could he be sure, though, that they would be safe? Who was he anyway to determine the fate of so many lives? 
 
 A feeling of helplessness threatened to overtake him. It was familiar, like an old enemy, or maybe friend, that he was long acquainted with. There were many times in his life in which he had faced circumstances beyond his control. The mirror showed a very different man than five years ago. Those experiences had shaped who he was today. He supposed this one would, too.
 
-He sighed and continued onward, towards Founder's Square, an outdoor pavilion a few blocks away from the Prioriem. Before retiring last night, Len had mentioned that this was one of the few marketplaces that still operated in the city. When he arrived, he found that many of the merchant stalls were still deserted. Only a few remained open, selling the most basic of necessities---dried meats, hard cheeses, breads, and alcohol. Not many could afford much else, given the circumstances. Though, few people were actually purchasing any goods. Even here, in one of the wealthier parts of the city, peasants and beggars alike filled the square. Most loitered near the public sitting areas, looking for reprieve. Some, however, were hoping one of the merchants would take pity and provide hand-outs. So far, none had.
+He sighed and continued onward, towards Founder's Square, an outdoor pavilion a few blocks away from the Prioriem. Before retiring last night, Len had mentioned that this was one of the few marketplaces that still operated in the city. When he arrived, he found that many of the merchant stalls were still deserted. Only a few remained open, selling the most basic of necessities—dried meats, hard cheeses, breads, and alcohol. Not many could afford much else, given the circumstances. Though, few people were actually purchasing any goods. Even here, in one of the wealthier parts of the city, peasants and beggars alike filled the square. Most loitered near the public sitting areas, looking for reprieve. Some, however, were hoping one of the merchants would take pity and provide hand-outs. So far, none had.
 
 He bought a small bottle of cheap ale for an exorbitant amount of gold from one of the vendors, exhausting a sizeable portion of his reserves. It was still early, but his flask had run out again last night. He took a long pull from the bottle. The liquid was lukewarm, but the familiar flavor eased him.
 
@@ -22,7 +19,7 @@ A quiet bench near a statue depicting Vallandra herself became the ideal spot fo
 
 Dark thoughts brewed in his mind as he swigged the warm ale. Worse, then. All throughout the city, people struggled against the oppression of the siege. And yet the leaders of Valla refused to act. A decision, *any* decision, would be better than nothing. It disgusted him. In his experience, those in power rarely cared about the common folk. The theme seemed common among Ilrian nobility. They acted in their own interests, rather than the interests of the people they swore to serve. 
 
-For a time, he sat in the square, watching people come and go through the marketplace, buying what they needed---if they could afford it---to survive. They always walked away with too little for too much.
+For a time, he sat in the square, watching people come and go through the marketplace, buying what they needed—if they could afford it—to survive. They always walked away with too little for too much.
 
 “I don’t know why, but I knew I’d find you here.”
 
@@ -30,7 +27,7 @@ Viggo turned to see Len, her azure armor significantly more disheveled than the 
 
 “I like the solitude." He shrugged, sliding over to make room for her on the bench. "Did you even sleep last night?”
 
-“Would you believe me if I told you I went to bed wearing this?” She gestured to her armor, giving a half-smile---though her eyes looked serious.
+“Would you believe me if I told you I went to bed wearing this?” She gestured to her armor, giving a half-smile—though her eyes looked serious.
 
 “You know, I think I would. You seem the sort.” He took another sip from his glass, then offered it to her. She shook her head, eying at the bottle. “Hey, it’s good stuff. The lukewarm temperature really brings out the flavor.”
 
@@ -38,7 +35,7 @@ Viggo turned to see Len, her azure armor significantly more disheveled than the 
 
 She looked up at the statue that stood over them. "You know, she supposedly founded this city to out-do her sister, Cennadra. The story goes that each of them attempted to one-up the other, until one day they both founded cities, claiming that theirs would outshine the other."
 
-"I don't think I've heard that one," Viggo said. "I'm also familiar with the twin sister story---that much is the same. The way I've heard it told, though, is that the cities were founded to maintain balance. Each sister, and by extension each city, needed one another. One could not have been established without the other."
+"I don't think I've heard that one," Viggo said. "I'm also familiar with the twin sister story—that much is the same. The way I've heard it told, though, is that the cities were founded to maintain balance. Each sister, and by extension each city, needed one another. One could not have been established without the other."
 
 "A very Caeteran way of looking at it. You're not some religious fanatic, are you?"
 
@@ -68,7 +65,7 @@ The alley, as it turned out, was completely deserted. Not a trace of the shadowy
 
 "I... I don't know. It was just a quick glimpse." It was true that he didn't get a good look, but he had *felt* something. He couldn't explain away the feeling. Eerily, the wrongness had seemed familiar to him. That frightened him more than anything.
 
- "Fact is, even if someone really was there, snooping around an alleyway---while it is kinda creepy---isn't really a crime. Maybe someone was just confused at the Ilrian soldier loitering in the square drinking expensive alcohol," she said, a hint of mocking in her tone." We should be getting back now anyways. We've got larger concerns. The council met again this morning."
+ "Fact is, even if someone really was there, snooping around an alleyway—while it is kinda creepy—isn't really a crime. Maybe someone was just confused at the Ilrian soldier loitering in the square drinking expensive alcohol," she said, a hint of mocking in her tone." We should be getting back now anyways. We've got larger concerns. The council met again this morning."
 
 Viggo, taking one last glance back down the alley, not sure what he was hoping for, turned to go. They left the dark shadows of the alley, heading back into the main pavilion.
 
@@ -80,7 +77,7 @@ They began their stroll back to the Prioriem, making small talk, trying to avoid
 
 The rumbling basso of a horn sounded throughout the city, drowning out their conversation. It persisted for a few moments before stopping. The sound bounced off the walls of buildings, reverberating loudly.  
 
- “What in the hell was---“ Viggo’s voice was drowned out by a second blast of the horn. It was distant, but still carried a tremendous volume of sound throughout the city.
+ “What in the hell was—“ Viggo’s voice was drowned out by a second blast of the horn. It was distant, but still carried a tremendous volume of sound throughout the city.
 
  Len held up a hand in a wait-a-minute gesture. A few moments later, a third horn rang out.
 
@@ -100,11 +97,11 @@ Oh. *Oh gods above. This is bad.*
 
 "The Prioriem," Len shouted over the din.
 
-In that moment, Viggo realized what direction they were headed, his feet carrying him without thought. The Prioriem.  It's courtyard was only a block away. The Kadorans were trying to *bomb* the Prioriem.
+In that moment, Viggo realized what direction they were headed, his feet carrying him without thought. The Prioriem.  It's courtyard was only a block away. The Antuzans were trying to *bomb* the Prioriem.
 
 He heard the sound of a third fireball crash into the street, no more than a hundred paces behind them. A harrowing scream, unlike anything Viggo had ever heard, pierced through the veil of sound around him. 
 
-He turned to look back, nearly stumbling in the process, and could see a young girl on her hands and knees. By some miracle the fireball had missed her---had it landed a few feet to one side, she would have been crushed. He watched as she tried to crawl closer to the point of impact, but the rock was still on fire, and the heat was too intense. She shied back, tears streaming down her face.
+He turned to look back, nearly stumbling in the process, and could see a young girl on her hands and knees. By some miracle the fireball had missed her—had it landed a few feet to one side, she would have been crushed. He watched as she tried to crawl closer to the point of impact, but the rock was still on fire, and the heat was too intense. She shied back, tears streaming down her face.
 
 *No time to think*. He pulled himself away from Len, pivoted, and sprinted back towards the girl. Len called out behind him, but his attention already focused ahead. His feet flew, and he skidded to a stop in front of the massive crater. He had misjudged. The rock was closer to three or four span across, about the size of a horse-drawn carriage.  He caught a glimpse of a body underneath the rock, crushed beneath the weight. An outstretched hand peeked from below, now blackened from the fire. It seemed to be reaching for the girl. Only his years of medical training allowed him to keep his composure. Who was it? Her Mother? Father?
 
@@ -118,7 +115,7 @@ Viggo followed Len as they navigated their way to safety, down a flight of steep
 
 ***
 
-The basement turned out to be an entire furnished floor---extra bedrooms, living spaces, and even a library. Len explained that the space had been used to harbor fugitives during the collapse of the Sovereignty. This city seemed to have fragmented memories of the old world everywhere.
+The basement turned out to be an entire furnished floor—extra bedrooms, living spaces, and even a library. Len explained that the space had been used to harbor fugitives during the collapse of the Sovereignty. This city seemed to have fragmented memories of the old world everywhere.
 
 The entire Council of Valla and their families, Lord Governor Gareth Finn and his daughter Annet, Marcus, Rykker, and Sev, and the entirety of the staff had already taken refuge below. They sat in one of the parlor rooms, scattered across a mishmash of chairs that they had pulled together. Conversation was sparse, most sat huddled in small groups, talking nervously. 
 
@@ -128,11 +125,11 @@ He sat the girl sat down in a chair next to him, and she finally released her gr
 
 Len brought the girl some water and asked her what her name was. She took one sip, responded "Mel" and then returned to her empty staring. Len tried to pry more out of her, but Mel simply ignored her.
 
-Viggo---looking for a distraction---noticed Annet, sitting across the parlor talking quietly with her father. She was only slightly younger than him, he guessed. She was also beautiful. The though was probably innapropriate, considering their situation, but the thought barged into his mind, without regard for social propriety. Given her father's looks, her beauty surprised him. She was, in fact, taller than her father, and had none of his stocky features. Her lively green eyes were their only shared feature. With a start, he realized that she was staring back at him with a discerning look. He pulled his gaze away, scratching the back of his head sheepishly.
+Viggo—looking for a distraction—noticed Annet, sitting across the parlor talking quietly with her father. She was only slightly younger than him, he guessed. She was also beautiful. The though was probably innapropriate, considering their situation, but the thought barged into his mind, without regard for social propriety. Given her father's looks, her beauty surprised him. She was, in fact, taller than her father, and had none of his stocky features. Her lively green eyes were their only shared feature. With a start, he realized that she was staring back at him with a discerning look. He pulled his gaze away, scratching the back of his head sheepishly.
 
 After an hour of waiting, Len left to investigate the situation top-side. She returned a few minutes later to give the all clear. The bombardment had stopped.
 
-Together, they made their way back upstairs. The girl stuck close to Viggo. Although she hadn't said a single word to him, it seemed that she considered him her guardian for the time being. Her eyes were still fixed wide with perpetual shock. Dirt---or maybe it was soot---smudged her face. She did manage to hold on to his hand, though, as he guided her.
+Together, they made their way back upstairs. The girl stuck close to Viggo. Although she hadn't said a single word to him, it seemed that she considered him her guardian for the time being. Her eyes were still fixed wide with perpetual shock. Dirt—or maybe it was soot—smudged her face. She did manage to hold on to his hand, though, as he guided her.
 
 "I can take her from here," Len said as they came to the front entrance. "She said her name was Mel. I think her parents run the smithy down the street."
 
@@ -150,7 +147,7 @@ Viggo touched the hammer that hung from his belt. Years ago he had earned it wor
 
 Other than the sign, there were no other adornments decorating the facade. Len wrapped her knuckles on the door.
 
-"Please, have you seen---" A woman's voice, frantic, called out as the door swung open. Her eyes were wide with panic, cheeks streaked with tears. As soon as she saw Mel, she collapsed to her knees and embraced her, pulling the girl in close. "Oh, thank the Trinity. They told us to stay inside but---but I coudn't find her." She sobbed between words. She grabbed at the girl, patting her down as if to check for injuries.
+"Please, have you seen—" A woman's voice, frantic, called out as the door swung open. Her eyes were wide with panic, cheeks streaked with tears. As soon as she saw Mel, she collapsed to her knees and embraced her, pulling the girl in close. "Oh, thank the Trinity. They told us to stay inside but—but I coudn't find her." She sobbed between words. She grabbed at the girl, patting her down as if to check for injuries.
 
 "She's alright. We found her wandering the street when the raid began," Len said, her voice careful and soft.
 
@@ -162,7 +159,7 @@ When she caught the pained look on Viggo's face, a choking sob caught in her thr
 
 "How?"
 
-The solitary word carried a heavy burden with it. "I don't think---" Viggo began.
+The solitary word carried a heavy burden with it. "I don't think—" Viggo began.
 
 "Please," she begged, still on her knees. "Tell me how he died."
 
@@ -180,9 +177,9 @@ After they left, Len flagged down a pair of guards and tasked them with removing
 
 Len kicked a loose rock down the cobbled road. Her expression was sour. "I’m afraid so. It’s been like this for a month now. Every week at least. It’s not always rocks either. A week ago it was the rotting remains of livestock from the farms we abandoned.” She scrunched her face in disgust. “It's hard to clean up hundreds of corpses off the street. Not before hundreds of people end up in the hospital, ill from disease."
 
-A thought occurred to him, something curious he had nearly forgotten in the heat of the moment. “During the attack, you suggested that the Kadorans were targeting the Prioriem. How did they know where it is?”
+A thought occurred to him, something curious he had nearly forgotten in the heat of the moment. “During the attack, you suggested that the Antuzans were targeting the Prioriem. How did they know where it is?”
 
-She shook her head. “They don’t. Well, not exactly, anyways. The Prioriem came first, everything else in Valla built around it. To this day, it lies in the exact center of the city. I guess the Kadorans have been trying to estimate exactly where the center is with each go around. And they've been getter closer each time."
+She shook her head. “They don’t. Well, not exactly, anyways. The Prioriem came first, everything else in Valla built around it. To this day, it lies in the exact center of the city. I guess the Antuzans have been trying to estimate exactly where the center is with each go around. And they've been getter closer each time."
 
 "I still don't understand," he said. "Why go for the Prioriem in the first place? Why not just target the walls and storm the city? They greatly outnumber us. They have to know we are surviving by a thread. Not to mention the strange vial. It doesn't seem to add up. Why all the theatrics?"
 
@@ -192,7 +189,7 @@ Len shook her head and shrugged. "I wish I knew, Viggo. One thing is for sure, t
 
 "Indeed," she nodded, her face twisted in a defeated smirk. "I just hope we can get out or beat them back before it's too late. Maybe Fastaar will pull through."
 
-They walked the remainder of the way in silence, giving Viggo time to think. The city was cracking under the weight of the Kadorans. They applied pressure from all sides. He did not know what their end game was, or why they had not simply overwhelmed the city with an attack. But it was only a matter of time before the force of their efforts came crashing down, crushing the people below. And yet those in power, both in and outside of the city, those with the power to act, did nothing. Deliberation was a luxury they could not afford. Although he hated to admit it, the Lord of Valla could be right---beginning evacuations as soon as possible might be the only way.
+They walked the remainder of the way in silence, giving Viggo time to think. The city was cracking under the weight of the Antuzans. They applied pressure from all sides. He did not know what their end game was, or why they had not simply overwhelmed the city with an attack. But it was only a matter of time before the force of their efforts came crashing down, crushing the people below. And yet those in power, both in and outside of the city, those with the power to act, did nothing. Deliberation was a luxury they could not afford. Although he hated to admit it, the Lord of Valla could be right—beginning evacuations as soon as possible might be the only way.
 
 On the other hand, Vallans were tougher than they appeared. Mel's Mother was proof of that. He had seen a fire in her eyes. A burning hatred for their common enemy. She showed immeasurable strength in the face of her tragedy. Perhaps they could rally the people, stand, and fight. Gather every able-bodied soul and push back. Would they stand a better chance at survival? They could even motivate Fastaar to join the fight, and surround their attackers.
 

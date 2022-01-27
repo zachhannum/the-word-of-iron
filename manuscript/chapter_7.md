@@ -1,6 +1,3 @@
----
-title: "Chapter Seven: The Man With Gray Eyes"
----
 # Chapter Seven
 ## The Man With Gray Eyes
 
@@ -40,7 +37,7 @@ Together, they slowly backed around the corner, out of earshot. They breathed a 
 
 Annet grabbed his arm. “What? Don’t be stupid. We should leave. I don’t know what this is all about, but it isn’t worth staying around for.”
 
-He met her eyes and pulled away from her. “I just---I have to, okay? Stay here, out of sight. Don’t come out no matter what. If something happens, just run. Go east, you should eventually find the road to Senna.”
+He met her eyes and pulled away from her. “I just—I have to, okay? Stay here, out of sight. Don’t come out no matter what. If something happens, just run. Go east, you should eventually find the road to Senna.”
 
 His legs carried him around the corner and towards the atrium before she had a chance to respond.
 
@@ -114,7 +111,7 @@ Rykker gritted his teeth. “Just answer the question.”
 
 “That’s not fair.”
 
-Vanen seemed to consider, then said, “I suppose it would be a shame to end it so soon, so I’ll tell you this much: the Aeonnar are eternal constructs made by the magi of old---those of the Veritas Guild. They were made to serve the ancient magi, but when the world fell, they vanished. You’re friend there might very well be the last of them. Truly rare and exceptional.”
+Vanen seemed to consider, then said, “I suppose it would be a shame to end it so soon, so I’ll tell you this much: the Aeonnar are eternal constructs made by the magi of old—those of the Veritas Guild. They were made to serve the ancient magi, but when the world fell, they vanished. You’re friend there might very well be the last of them. Truly rare and exceptional.”
 
 Rykker seemed to understand what Vanen was talking about, though Viggo had never heard of this guild.
 

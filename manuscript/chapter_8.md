@@ -1,6 +1,3 @@
----
-title: "Chapter Eight: Refuge"
----
 # Chapter Eight
 ## Refuge
 
@@ -60,11 +57,11 @@ Len broke the silence. She spoke softly. "Viggo, I'm so sorry that happened to y
 
 "I think I might know." Wincing, Len leaned forward to stand up.
 
-"You're leg---" Viggo began.
+"You're leg—" Viggo began.
 
 "It's okay," she made a placating gesture, and straightened her leg, still wrapped in a splint. "It feels much better."
 
-"But how---"
+"But how—"
 
 She picked at the wrappings and unraveled them, loop by loop, until the splint fell away. "It's stiff, but I should be able to walk on it."
 
@@ -100,7 +97,7 @@ Marcus shrugged. "It *is* the closest city. Any survivors from Valla will probab
 
 The rest of the party agreed to the plan, and decided to leave at first light. Sleep did not come to Viggo that night, and so he spent the hours before dawn keeping watch over the camp, peering into the smoldering embers of the dying fire.
 
----
+—
 
 The way to Senna was not particularly difficult, but was made more-so by their avoidance of any well-traveled roads. Marcus thought it was for the best, in case the Antuzans employed scouts along main paths to look for survivors of the siege. So they stayed deep within the forest, Marcus' expert tracking preventing their course from straying.
 
@@ -114,13 +111,13 @@ On the sixth day since the fall of Valla, their division of refugees arrived at 
 
 Senna, the twin-sister city of Valla, looked much the same from the exterior, with tall gray-beige walls, round turrets evenly dispersed in either direction. They came to one of the gates, a tall wood-iron arch, where a small garrison of guards stood watch atop a parapet.
 
-As they approached, Sev pulled the hood of his cloak over his head, covering most of his features in shadow. It took Marcus a moment to realize that he was hiding himself. Over the past few weeks, he had grown accustomed to the Aeonnar's look and size. Even the refugees from Valla had not taken much notice at first---though they had more pressing concerns, to be fair---and by the end of their journey to Senna barely gave him a passing glance. Still, he supposed it always payed to be cautious around strangers. Likely it was standard practice for Rykker and Sev wherever they went.
+As they approached, Sev pulled the hood of his cloak over his head, covering most of his features in shadow. It took Marcus a moment to realize that he was hiding himself. Over the past few weeks, he had grown accustomed to the Aeonnar's look and size. Even the refugees from Valla had not taken much notice at first—though they had more pressing concerns, to be fair—and by the end of their journey to Senna barely gave him a passing glance. Still, he supposed it always payed to be cautious around strangers. Likely it was standard practice for Rykker and Sev wherever they went.
 
 Marcus pushed his way to the front of the crowd and called up at them. "Hello there! My name is Captain Marcus Wyr of the Royal Army. With me are refugees from Valla. The Antuzan Empire has invaded Ilris, and Valla has fallen. You must open your gates to any and all survivors. They have no where else to go."
 
 A few of the guards ducked out of view in response, and for a few moments there was no response.
 
-"Please," Marcus shouted. "Many of them are tired, and haven't eaten in days. There are only---"
+"Please," Marcus shouted. "Many of them are tired, and haven't eaten in days. There are only—"
 
 His words were cut off by a series of metallic clanks. The doors of the gate slowly opened.
 
@@ -138,7 +135,7 @@ The entire process took less than an hour. Once everyone was inside, Marcus brea
 
 Len tore her eyes from the procession, and Marcus caught a look of sadness or anger, or perhaps both. "Some of them may have family here to stay with, or kept enough coin on them to pay their way. For those that have neither, the guard will set up refugee camps. It won't be much, but it'll be enough. For them."
 
-Marcus felt a pang of sympathy for her. In the midst of all that had happened to them, he'd forgotten that she *was* Vallan. *Her* people---friends, family, loved ones---had just lost everything.
+Marcus felt a pang of sympathy for her. In the midst of all that had happened to them, he'd forgotten that she *was* Vallan. *Her* people—friends, family, loved ones—had just lost everything.
 
 He placed a hand on her shoulder. One corner of her mouth twitched up in a half-hearted smile, acknowledging the gesture of good will.
 
@@ -146,9 +143,9 @@ He placed a hand on her shoulder. One corner of her mouth twitched up in a half-
 
 For a moment, standing in her armor, blue cloak of Valla, now tarnished with mud from the road, trailing behind her, Len looked as if she would take on the legions of Antuza by herself. Then she deflated with a sigh. "I suppose it can wait, though. After everything, a hot meal and a warm bed sounds better than revenge right now."
 
----
+—
 
-The streets of Senna were more narrow than the wide two-lane roads of Valla. Buildings along either side of the main thoroughfare clustered tightly together---some sharing walls, others leaving even narrower, dark alleyways.
+The streets of Senna were more narrow than the wide two-lane roads of Valla. Buildings along either side of the main thoroughfare clustered tightly together—some sharing walls, others leaving even narrower, dark alleyways.
 
 It was nearly sundown, and the occasional two-story building cast long shadows across the street, leaving strips of golden sunlight between them. It would be dark soon, so Marcus led them deeper into the city in search of an inn for the night. What little change they had left between them would not afford them much.
 
@@ -166,13 +163,13 @@ Rykker groaned, making no attempt to hide his surprise.
 
 "Shh!" exclaimed Viggo, nearly as quiet as Marcus. "Not so loud. What's you're move?"
 
-*What should they do?* Marcus feared that if their stalker was anything like Vanen, there wasn't much they *could* do. Run and hide? Stand and fight? Neither option seemed like it had a winning chance. The streets at this time of the evening were bustling. What if innocent bystanders got hurt? Or saw something they shouldn't see? Marcus had no way of knowing how secretive Vanen, and others like him---if there *were* others like him, were prone to being. If word got out that the Antuzans had allies that could create portals and crush your windpipe with their bare hands... he shuddered to think of the consequences.
+*What should they do?* Marcus feared that if their stalker was anything like Vanen, there wasn't much they *could* do. Run and hide? Stand and fight? Neither option seemed like it had a winning chance. The streets at this time of the evening were bustling. What if innocent bystanders got hurt? Or saw something they shouldn't see? Marcus had no way of knowing how secretive Vanen, and others like him—if there *were* others like him, were prone to being. If word got out that the Antuzans had allies that could create portals and crush your windpipe with their bare hands... he shuddered to think of the consequences.
 
 "Just keep walking, then follow my lead."
 
 He led them a few more blocks down the main street, waiting for the crowds to thin at least a little bit. Then, without warning, he moved. He pivoted on his heel and dashed down one of the narrow alleys.
 
-The walls here were claustrophobic, less than an arm span. It was also dark---the light from the setting sun did not make it's way to the dark recesses between the buildings. Marcus ran deeper into the alley, and only when he came to a stop did he turn. His party was fast on his heels, but their would-be assailant was no where to be seen.
+The walls here were claustrophobic, less than an arm span. It was also dark—the light from the setting sun did not make it's way to the dark recesses between the buildings. Marcus ran deeper into the alley, and only when he came to a stop did he turn. His party was fast on his heels, but their would-be assailant was no where to be seen.
 
 "Did we lose them?" puffed Rykker between ragged breaths. Cleary the engineer did not have much in the way of athletic ability.
 
@@ -188,7 +185,7 @@ Without giving an answer, Marcus pushed past them, taking a few steps closer bac
 
 A dry, feminine laugh rattled down the alley.
 
-A short figure, cloaked in flat gray robes, stepped from around the corner. Their face was obscured by a wide hood. As they stepped closer, delicate hands reached up to remove the hood, revealing a pale face, round as the moon, framed by thick black curls of hair, tumbling down to her shoulders. Her eyes, a bright amber, seemed to pierce into Marcus' very soul. There was an otherworldly look about her---something that he could not place. It was as if she had all the wisdom of a battle-hardened marshal behind those eyes, but she could not have been more then twenty-five.
+A short figure, cloaked in flat gray robes, stepped from around the corner. Their face was obscured by a wide hood. As they stepped closer, delicate hands reached up to remove the hood, revealing a pale face, round as the moon, framed by thick black curls of hair, tumbling down to her shoulders. Her eyes, a bright amber, seemed to pierce into Marcus' very soul. There was an otherworldly look about her—something that he could not place. It was as if she had all the wisdom of a battle-hardened marshal behind those eyes, but she could not have been more then twenty-five.
 
 "I'm sorry," the woman said with a smile. "I did not mean to startle you. To be frank, I'm surprised you noticed me at all."
 
@@ -206,7 +203,7 @@ The woman frowned, looking down as if suddenly distracted by something. When she
 
 "Yeah, well, clearly that didn't happen," Marcus said flatly.
 
-Something was different about this woman. Around Vanen, Marcus had felt almost sick, as if looking at the man--creature, or whatever he was---was enough to give one vertigo. She, on the other hand, had no such effect. Clearly she had some of the same knowledge that Vanen did, but he got the impression that she was genuinely surprised that Annet and Lord Gareth were not with them, which meant she did not know that Vanen had taken Annet.
+Something was different about this woman. Around Vanen, Marcus had felt almost sick, as if looking at the man--creature, or whatever he was—was enough to give one vertigo. She, on the other hand, had no such effect. Clearly she had some of the same knowledge that Vanen did, but he got the impression that she was genuinely surprised that Annet and Lord Gareth were not with them, which meant she did not know that Vanen had taken Annet.
 
 "They're gone," Viggo said. Evidently the medic had the same intuition about trusting her that Marcus did. "A man that went by the name of Vanen killed the Lord Governor and took Annet."
 

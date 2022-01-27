@@ -1,6 +1,3 @@
----
-title: "Prologue: Excommunication"
----
 # Prologue
 ## Excommunication
 

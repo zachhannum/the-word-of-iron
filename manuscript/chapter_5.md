@@ -1,6 +1,3 @@
----
-title: "Chapter Five: The Stone Falls"
----
 # Chapter Five
 ## The Stone Falls
 
@@ -10,7 +7,7 @@ Rykker carefully placed the round vial of dark liquid on the table before the le
 
 "That much we surmised when you called this meeting," Lord Gareth said. "Any less would have been detrimental to your authority. Please continue." 
 
-Rykker ground his teeth, forcing himself to hold back a retort. The Lord Governor of Valla dragged every word through a slurry of nobility and meaningless babble in a way that made Rykker want to damn the whole thing and escape while he still could. But he knew he couldn't. This was bigger than a single---if infuriating---man.
+Rykker ground his teeth, forcing himself to hold back a retort. The Lord Governor of Valla dragged every word through a slurry of nobility and meaningless babble in a way that made Rykker want to damn the whole thing and escape while he still could. But he knew he couldn't. This was bigger than a single—if infuriating—man.
 
 "My initial assumption was that this was some type of alchemical reagent. At first, I extracted a small sample of the liquid, ensuring it remained in a vacuum. I couldn't rule out air as a potential catalyst. Many alchemical bombs are made this way, to react violently with the air when thrown and broken against their target.
 
@@ -46,7 +43,7 @@ The man, dressed in the uniformed attire of the Ilyrian military, looked wide-ey
 
 After delivering his message, the soldier looked as if he wanted to collapse. He glanced at Brixom, awaiting orders. With a nod from his commanding officer, he retreated back through the doors with haste.
 
-“It seems as if this alchemy is the least of our concerns now, council,” Brixom said through pursed lips. He stood and pushed back his chair. Rykker thought he almost saw the mask slip---a glimpse of the real face behind the harsh, blunt exterior. A face of fear. “If you’ll excuse me, I've a city to defend.” He strode from the chambers, leaving a stunned council behind.
+“It seems as if this alchemy is the least of our concerns now, council,” Brixom said through pursed lips. He stood and pushed back his chair. Rykker thought he almost saw the mask slip—a glimpse of the real face behind the harsh, blunt exterior. A face of fear. “If you’ll excuse me, I've a city to defend.” He strode from the chambers, leaving a stunned council behind.
 
 Rykker could see the rest of their masks slipping. Cracks of fear began to shine through. Noble or poor, the city was as good as a paper cage surrounded by hungry wolves. 
 
@@ -62,7 +59,7 @@ Soon, the city would fall. An optimist might hope that they could ward off their
 
 Once they breached the city walls, the vicious invaders would  sack the city, burning homes, looting, and killing. If you were lucky, you’d be killed quickly. He figured, given hearsay of the Antuzan’s savage nature, that most would not be so lucky. If one was truly blessed by the forsaken gods themselves, they might be taken prisoner and shipped to the Empire to become a slave. The Antuzans were not known for their restraint or mercy. He continued pacing through the halls of the Prioriem for nearly half an hour, his thoughts grew dark, but his resolve was hardening.
 
-His head was beginning to clear now, and see the full picture. He had to leave. Get out now, while he still could. He needed to head back to his rooms, retrieve Sev and his belongings, and make his way to the passage. Len had said they were granted special access. He thought he could remember the way back to camp. Straight up the river, then due west. Once he was back to camp, he could---
+His head was beginning to clear now, and see the full picture. He had to leave. Get out now, while he still could. He needed to head back to his rooms, retrieve Sev and his belongings, and make his way to the passage. Len had said they were granted special access. He thought he could remember the way back to camp. Straight up the river, then due west. Once he was back to camp, he could—
 
 His thoughts were cut off when he nearly crashed into Marcus, who had appeared from around a corner. “Shit!” He called, stumbling back.
 
@@ -116,13 +113,13 @@ Rykker stopped, hand on the door. Groaning, he let it close. He retreated back i
 
 Rykker felt a twinge of guilt. He was acting a coward. A selfish coward. But why shouldn’t he? He wasn’t a soldier. There was no need for him to risk his life over this. The justification felt hollow. The moment he had stepped outside of camp, he had become a soldier. He had joined the fight. And now he’d have to see it through. Nilos take him, he had to stay. “Alright, Sev. You win.”
 
-He emptied his pack onto the bed, and kept only the essentials---his crossbow, bolts, engine, and a pair of binoculars. “Come on. Time to save a city.”
+He emptied his pack onto the bed, and kept only the essentials—his crossbow, bolts, engine, and a pair of binoculars. “Come on. Time to save a city.”
 
 ***
 
 The only emotion Viggo could muster as he watched the Antuzan army approach was terror. The black and white clad soldiers looked formidable as they marched to the beat of a drum that thundered a steady rhythm, like a heartbeat. Perhaps it was meant to represent the beating heart of Valla, drawing its last breaths, he thought. Their only hope was that High Marshal Faastar would act, bringing the full might of his regiment with him.
 
-Standing with Marcus upon the ramparts, he looked out across the fields in which the Antuzans made their approach. Four siege towers, built of wood and wrought iron, were slowly being pushed towards the walls. A group of ten men carried a large wooden pillar on its side---a battering ram. Bringing up the rear was a row of trebuchets, more than likely the same that had launched the attack against the Prioriem nearly a week ago. Viggo guessed that they still had a little less than a mile until they reached the walls. The archers would begin shooting long before that.
+Standing with Marcus upon the ramparts, he looked out across the fields in which the Antuzans made their approach. Four siege towers, built of wood and wrought iron, were slowly being pushed towards the walls. A group of ten men carried a large wooden pillar on its side—a battering ram. Bringing up the rear was a row of trebuchets, more than likely the same that had launched the attack against the Prioriem nearly a week ago. Viggo guessed that they still had a little less than a mile until they reached the walls. The archers would begin shooting long before that.
 
 Major Brixom had climbed to a high perch on the ramparts and was addressing the battalions that manned the wall, a mixture of Ilyrian soldiers and city guardsmen. No doubt his speech was rousing, but Viggo wasn't listening. His hand traced the handle of his hammer as the beating of the drums thundered through his chest. Surely they could not be that loud, given their distance. And yet, the pounding was there. Or perhaps that was his own heartbeat? Either way, it was impossible to hear anything over the thumping.
 
@@ -152,7 +149,7 @@ The walls were in chaos. Their line of bowmen was broken, and soldiers lay dead 
 
 The second of the siege towers made its final approach. The draw bridge began to lower, and Viggo saw Antuzan spearmen on the other side ready themselves for battle.
 
-Marcus stood upon the ramparts, shouting to the soldiers that remained on the wall. "Get up, soldiers! It's time to meet the Maker face-to-face. We've a city of thirty thousand souls to defend. We're not going to let these invaders come to our home and take what they desire. Get up---if you can stand---and fight with me!"
+Marcus stood upon the ramparts, shouting to the soldiers that remained on the wall. "Get up, soldiers! It's time to meet the Maker face-to-face. We've a city of thirty thousand souls to defend. We're not going to let these invaders come to our home and take what they desire. Get up—if you can stand—and fight with me!"
 
 And so they did. A surprising number of survivors remained on the wall, and rallied to Marcus. When the bridge finally came down upon the wall, he led the charge against the enemy. Viggo ran alongside him, into the fray.
 
@@ -206,11 +203,11 @@ Marcus took the flask wordlessly and brought the metal container to his lips, to
 
 Viggo set to work on the gash, first cleaning the wound and surrounding area with an alcohol solution, and then beginning to stitch the skin back together. Luckily, it was a clean slice, and he was able to close the gash up easily. He glanced up from his work, surveying the battle. They were losing. The Vallans fought well, but this was a war of attrition, and more Antuzans continued to pour through seige towers. 
 
-He returned to his work, shaking his head. All of this, everything they had fought for---finding Tharin's Passage, warning the Council, it was going to be for nothing. He didn't know High Marshal Fastaar personally, but odds were Viggo would dislike the man. He was a coward, and the reason they were all going to die.
+He returned to his work, shaking his head. All of this, everything they had fought for—finding Tharin's Passage, warning the Council, it was going to be for nothing. He didn't know High Marshal Fastaar personally, but odds were Viggo would dislike the man. He was a coward, and the reason they were all going to die.
 
 Finishing the suture, clipped the excess thread and gave the wound one last once-over with alcohol. After returning his equipment to his bag, he lowered himself beside Marcus, resting his back against the parapet. He was still young, but the fighting had exhausted him. Now that he had stopped moving, a fire was swelling in his arms and legs. The strain of the battle had taken its toll. He felt worse than he had after an entire day of swinging a hammer in the forges.
 
-"So this is it, huh?" He said aloud. He wasn't really talking to Marcus in particular, just thinking out loud. For all the twists and turns his life had taken---to end up here, farther South than he had ever been in his entire life, was not what he had expected.
+"So this is it, huh?" He said aloud. He wasn't really talking to Marcus in particular, just thinking out loud. For all the twists and turns his life had taken—to end up here, farther South than he had ever been in his entire life, was not what he had expected.
 
 "I guess so," Marcus answered, not realizing Viggo had spoken rhetorically.
 
@@ -320,7 +317,7 @@ Marcus came to a stop. "What?"
 
 "Of course," Marcus said, his face lighting up with recognition.
 
-The kitchens were undisturbed by the marks of battle. Rows of dishes and silverware were stacked neatly on shelves near the back wall. Dry goods---a variety of spices, powders, dried fruits, and pastas, lay carefully arranged along the counters. An abandoned pot simmered quietly on a stove-top burner, puffs of steam rising to the ceiling.
+The kitchens were undisturbed by the marks of battle. Rows of dishes and silverware were stacked neatly on shelves near the back wall. Dry goods—a variety of spices, powders, dried fruits, and pastas, lay carefully arranged along the counters. An abandoned pot simmered quietly on a stove-top burner, puffs of steam rising to the ceiling.
 
 Viggo took the lead, pushing his way to the back of one of the pantries, and pushed the sliding door, hidden in plain view, aside. Down the winding staircase, they came to a cozy sitting area, and found what they had been searching for.
 
@@ -360,7 +357,7 @@ He cleaned and dressed the wound, wrapping it tightly with linen. They broke dow
 
 “Thank you,” Annet said, just as he finished tying the last strap in place. “You couldn’t know how much it means to me.”
 
-“I---it was nothing, really. It’s what I do,” he said, rubbing the back of his neck.
+“I—it was nothing, really. It’s what I do,” he said, rubbing the back of his neck.
 
 She turned away and looked at Len, watching her chest rise and fall. Viggo stared after her, and he could not make sense of his emotions.
 
@@ -368,6 +365,6 @@ He did not get the chance. He looked up at a tap on his shoulder and found Marcu
 
 “I’ve talked with the Lord Governor,” he said. “We decides that our best chance is to head for the passage.”
 
-“You mean---“
+“You mean—“
 
 Marcus nodded. “We’re headed towards the breach.”

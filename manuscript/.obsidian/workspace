@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter_0.md",
+            "file": "dedication.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kador",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter_0.md",
+                "file": "dedication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,15 @@
   },
   "active": "51404fe253df2160",
   "lastOpenFiles": [
+    "dedication.md",
+    "chapter_10.md",
+    "chapter_9.md",
+    "chapter_8.md",
+    "chapter_7.md",
+    "chapter_6.md",
     "chapter_0.md",
-    "chapter_1.md"
+    "chapter_5.md",
+    "chapter_4.md",
+    "chapter_3.md"
   ]
 }

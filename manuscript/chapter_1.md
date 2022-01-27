@@ -1,6 +1,3 @@
----
-title: "Chapter One: Ash and Words"
----
 # Chapter One
 ## Ash and Words
 
@@ -8,7 +5,7 @@ Sieges were always hell. Marcus had seen it before. Soldiers clustered in groups
 
 Marcus made his way through the grounds, towards the red and gold flags that fluttered above the white tents, marking his destination. He passed row upon row of pitch tents—hundreds of them, placed meticulously to form an almost perfect grid. High Marshal Fastaar certainly liked his strict formations.
 
-When word of Valla's besiegement had reached the capitol, reinforcements had been hastily assembled and sent south to Valla. Enemy forces had seemingly appeared out of thin air, surrounding the city. Not a single Ilrian spy gave warning of the attack. All of Ilris' resources had not even indicated that the Antuzans were amassing their forces. It was as if the legions of the empire had been displaced, out of time, directly onto Valla’s doorstep. And now that reinforcements were here, what could they do against a force so much greater their own?
+When word of Valla's besiegement had reached the capitol, reinforcements had been hastily assembled and sent south to Valla. Enemy forces had seemingly appeared out of thin air, surrounding the city. Not a single Ilrian spy gave warning of the attack. All of Ilris' resources had not even indicated that Antuza was amassing its forces. It was as if the legions of the empire had been displaced, out of time, directly onto Valla’s doorstep. And now that reinforcements were here, what could they do against a force so much greater their own?
 
 He arrived at his destination less than ten minutes later, peering inside to find his old companion and commanding officer Vincent Reld, along with his second, Sigmund Rowe. They were examining a large wooden table with a map of the region placed on it, little wooden pieces representing armies strewn about with no real order.
 
@@ -34,7 +31,7 @@ Marcus laughed. Last time he saw Vincent he'd still been a fresh recruit, and Vi
 
 Vincent sobered. "No, of course not, my boy. I didn't bring you here simply to reminisce over old times, and certainly not to dig up painful memories. I've got a favor to ask you." He walked back towards the table, and beckoned for Marcus to follow.
 
-Vincent pointed at the city labelled Valla on the map. There were at least ten wooden soldiers, painted black, placed in a circle around the city. "The Kadorans have completely besieged Valla. Our best estimates put them at ten thousand, but they've spread themselves out to cover the land surrounding the city. Still, their investment is strong. They run constistent patrols between encampments. We've been able to engage them in several skirmishes so far, testing the waters. But I fear what we are doing isn't enough. The Vallans are not prepared to hold out through an extended siege. They're bound to run out of supplies soon enough. Fastaar bides his time, and while a slow burning front is beneficial on our side—especially as more reinforcements are being dispatched from Achenar—the city of Valla will starve long before we can help them at the rate we're going."
+Vincent pointed at the city labelled Valla on the map. There were at least ten wooden soldiers, painted black, placed in a circle around the city. "The Antuzans have completely besieged Valla. Our best estimates put them at ten thousand, but they've spread themselves out to cover the land surrounding the city. Still, their investment is strong. They run constistent patrols between encampments. We've been able to engage them in several skirmishes so far, testing the waters. But I fear what we are doing isn't enough. The Vallans are not prepared to hold out through an extended siege. They're bound to run out of supplies soon enough. Fastaar bides his time, and while a slow burning front is beneficial on our side—especially as more reinforcements are being dispatched from Achenar—the city of Valla will starve long before we can help them at the rate we're going."
 
 Marcus leaned on the table and surveyed the map. It showed the south eastern region of Ilris, the two major cities, Valla to the east and Cenna to the west, along with a number of fishing villages along the eastern coast. Far to the west, the Spine of Karna snaked north to south. He nodded. This information was not not entirely new to him, but hearing it from Vincent confirmed that Fastaar had no intention of breaking the siege on his own. "I understand, Vince. But, what does that have to do with me?"
 
@@ -118,7 +115,7 @@ While Rykker talked with the newcomer, Sev stood quietly by the back of the tent
 
 Rykker removed his leather apron and was beginning to place his tools back into their respective places. "I'll be honest with you, my friend. Being cooped up in this tent has been driving me mad. I can't imagine why Reld would want me, but I have a feeling I won't be missed here. When do we leave?"
 
-"Nightfall. Best to make our way past Kadoran forces under the cover of darkness." With that, Marcus turned to leave.
+"Nightfall. Best to make our way past Antuzan forces under the cover of darkness." With that, Marcus turned to leave.
 
 Rykker called after him. "I do have one condition, though. My companion travels with me. Don't worry, though. He won't be a liability. In fact, he's quite good with a hammer."
 

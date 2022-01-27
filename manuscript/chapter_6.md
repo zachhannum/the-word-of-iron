@@ -1,10 +1,7 @@
----
-title: "Chapter Six: Escape"
----
 # Chapter Six
 ## Escape
 
-The pain in Marcus’ arm grew worse. He tried to ignore the sharp sensations as they crept up his shoulder. He led the way through a ruined alley, keeping to the shadows. As they approached the entrance to Tharin’s Passage, Kadoran forces became more frequent, and remaining unseen became more difficult. Each intersection they came to presented a new challenge.
+The pain in Marcus’ arm grew worse. He tried to ignore the sharp sensations as they crept up his shoulder. He led the way through a ruined alley, keeping to the shadows. As they approached the entrance to Tharin’s Passage, Antuzan forces became more frequent, and remaining unseen became more difficult. Each intersection they came to presented a new challenge.
 
 He peered back at his companions. The Lord Governor followed close behind him. Annet and Viggo partially supported Len as she limped along, putting her weight on her still-good leg. Rykker and Sev brought up the rear. Marcus hoped that Sev's keen senses would prevent anyone from getting the jump on them.
 
@@ -16,7 +13,7 @@ The windows had been broken in, and angry flames snaked from them, curling up th
 
 *Shit*. Of all the houses the brutes had decided to burn down, Marcus thought, why did it have to be this one?
 
-Then he saw the bodies. Vallan guards, no doubt the ones who where assigned to watch over the house lay in a bloody pile on the side of the road, tossed carelessly to the side. He thought perhaps the Kadorans realized something was special about the house, but did not know what, so they decided to burn it to the ground.
+Then he saw the bodies. Vallan guards, no doubt the ones who where assigned to watch over the house lay in a bloody pile on the side of the road, tossed carelessly to the side. He thought perhaps the Antuzans realized something was special about the house, but did not know what, so they decided to burn it to the ground.
 
 He turned back to the group. They looked tired. More than that, they looked like they had been to the blightlands and back. They were broken and battered, and had been through too much this day.
 
@@ -62,7 +59,7 @@ After a span of minutes, the door swung open. Sev poked his head through and wav
 
 They all but darted across the street and up the stairs. Viggo and Annet struggled to pull Len along. They were taking too long, exposed out in the open, but with Len's injury, they could only move so fast.
 
-Just as they made it to the bottom of the stairs, Marcus' worst nightmare came true. A group of Kadorans turned the corner onto the avenue, nearly a hundred yards away. They all wore bold black and white uniforms and carried wicked spears, save for one of them, who was dressed differently, carrying no weapon that Marcus could see. He tried to look more closely, but there was no time. By the time Len made it to the top of the stairs, the Kadorans had spotted them, and sprinted towards the house.
+Just as they made it to the bottom of the stairs, Marcus' worst nightmare came true. A group of Antuzans turned the corner onto the avenue, nearly a hundred yards away. They all wore bold black and white uniforms and carried wicked spears, save for one of them, who was dressed differently, carrying no weapon that Marcus could see. He tried to look more closely, but there was no time. By the time Len made it to the top of the stairs, the Antuzans had spotted them, and sprinted towards the house.
 
 Marcus let his companions pass, then slammed the door behind them.
 
@@ -138,7 +135,7 @@ After few minutes of jogging down the tunnel, they caught up with the rest of th
 
 He came to a stop before them, placing is hands on his knees, breathing hard. He looked up, slowing his breathing, and his heartbeat receded back into his ribcage, no longer threatening to explode from his chest. 
 
-"Did you just---" Viggo stopped himself, unable to find the words.
+"Did you just—" Viggo stopped himself, unable to find the words.
 
 "Yeah. Yeah, we did," he gasped.
 
@@ -154,19 +151,19 @@ He came to a stop before them, placing is hands on his knees, breathing hard. He
 
 Marcus estimated they were nearly half way to the opening they had created on their way in to the city. He only hoped he had remembered the path correctly, since they could no longer turn back.
 
-Free of the chase, he finally had time to think and reflect on the events of the day. Valla was lost. The Kadorans surely had swept across the entire city. Evidently, the attack at the southern gate was nothing more than a distraction, so that they could get close enough to the eastern wall and breach it with the explosion. It was such a simple gambit to be fooled by. Such a simple mistake to have caused the destruction of an entire city. Perhaps some people made it out, though, through the southern gates.
+Free of the chase, he finally had time to think and reflect on the events of the day. Valla was lost. The Antuzans surely had swept across the entire city. Evidently, the attack at the southern gate was nothing more than a distraction, so that they could get close enough to the eastern wall and breach it with the explosion. It was such a simple gambit to be fooled by. Such a simple mistake to have caused the destruction of an entire city. Perhaps some people made it out, though, through the southern gates.
 
-His thoughts turned to Vincent, and the rest of their Ilrian battalion that had been lying in wait outside of Valla. Why had they not come to Valla's aid? Did the boy Brixom sent never make it to his destination? Or perhaps Fastaar acted the coward and decided Valla was a lost cause. Marcus did not know whether their intervention would have turned the tides of the battle, but any chance would have been better than what they were given. He could only hope that next time, they would be more prepared. The next target for the Kadorans would likely be Cenna, but nothing about this invasion made any sense, so it felt a fool's gambit trying to guess their enemy's plans. Why this far south? Why Valla? The mystery of how an entire legion of Kadoran soldiers evaded detection for so long also troubled him. Something felt off about it all, like a picture on the wall that's slightly crooked.
+His thoughts turned to Vincent, and the rest of their Ilrian battalion that had been lying in wait outside of Valla. Why had they not come to Valla's aid? Did the boy Brixom sent never make it to his destination? Or perhaps Fastaar acted the coward and decided Valla was a lost cause. Marcus did not know whether their intervention would have turned the tides of the battle, but any chance would have been better than what they were given. He could only hope that next time, they would be more prepared. The next target for the Antuzans would likely be Cenna, but nothing about this invasion made any sense, so it felt a fool's gambit trying to guess their enemy's plans. Why this far south? Why Valla? The mystery of how an entire legion of Antuzan soldiers evaded detection for so long also troubled him. Something felt off about it all, like a picture on the wall that's slightly crooked.
 
-More concerning, though, was the strange figure he caught a glimpse of with the Kadoran soldiers just before they escaped through the tunnels. He did not appear to be a part of the Kadoran legion for lack of any uniform. He tried to recall any details about the man---all he could muster was that the mysterious figure had been bald, remembering the glint of sunlight across the shining dome.
+More concerning, though, was the strange figure he caught a glimpse of with the Antuzan soldiers just before they escaped through the tunnels. He did not appear to be a part of the Antuzan legion for lack of any uniform. He tried to recall any details about the man—all he could muster was that the mysterious figure had been bald, remembering the glint of sunlight across the shining dome.
 
-What could the man have been doing in Valla, working with the Kadorans? It confounded Marcus. The man had honed in on the house like a bloodhound leading his pack to prey. He realized that he terrified him, even though he had no right to. He knew nothing of the man beyond his alliance with the Kadorans and his lack of hair. And yet, something about the mere thought of the man sent shivers down his spine and curdled his blood. Marcus was equal parts confused and frightened.
+What could the man have been doing in Valla, working with the Antuzans? It confounded Marcus. The man had honed in on the house like a bloodhound leading his pack to prey. He realized that he terrified him, even though he had no right to. He knew nothing of the man beyond his alliance with the Antuzans and his lack of hair. And yet, something about the mere thought of the man sent shivers down his spine and curdled his blood. Marcus was equal parts confused and frightened.
 
 His fear melted into excitement when he spotted daylight ahead.
 
 The world opened into a small clearing, flanked on all sides by cliffs. The monotonous drone of nature filled his ears, as he hopped down out of the tunnel, landing on the soft ground below, his descent cushioned by dry leaves.
 
-It was early evening, and the sun set the treetops ablaze, casting a warm glow into the clearing. Marcus listened for any sounds of fighting, but only the quiet sound of cicadas greeted him. It seemed the tunnels had carried them far enough away from the city to avoid the battle. He allowed himself a moment of serenity. If he closed his eyes, he could almost forget about the horrors of the day---beyond the drone of insects, he heard the gentle breeze nudging the trees, imploring them to part with their leaves. Moments such as this one transported him twenty-five years and a thousand miles. 
+It was early evening, and the sun set the treetops ablaze, casting a warm glow into the clearing. Marcus listened for any sounds of fighting, but only the quiet sound of cicadas greeted him. It seemed the tunnels had carried them far enough away from the city to avoid the battle. He allowed himself a moment of serenity. If he closed his eyes, he could almost forget about the horrors of the day—beyond the drone of insects, he heard the gentle breeze nudging the trees, imploring them to part with their leaves. Moments such as this one transported him twenty-five years and a thousand miles. 
 
 But then the moment is gone, unfrozen by the rest of his companions as they climbed from the tunnel, blinking at the light. 
 
@@ -190,7 +187,7 @@ Viggo began to clear a space in the brush, then pulled out a tinder kit.
 
 "What, why?"
 
-"We're still too close to the city. We can't risk it." Marcus shook his head. "And... I know everyone won't want to here this, but, we have to keep moving until dark. We must further our distance from the city as much as possible. The Kadorans are sure to send out hunting parties looking for survivors sooner than later, and we'll want to be as far away as we can before that happens."
+"We're still too close to the city. We can't risk it." Marcus shook his head. "And... I know everyone won't want to here this, but, we have to keep moving until dark. We must further our distance from the city as much as possible. The Antuzans are sure to send out hunting parties looking for survivors sooner than later, and we'll want to be as far away as we can before that happens."
 
 The disappointment in their faces was palpable.
 
@@ -230,7 +227,7 @@ They made their way through the open entrance, the doors having long since rotte
 
 Here, they set up camp. Marcus permitted a small fire; given the distance they put behind them today, he guessed that they would be safe. The fall days were getting cooler, and the warmth was worth the small risk.
 
-Marcus cooked a basic soup using equipment and some provisions they had pilfered from the Prioriem kitchens---some broth, mushrooms, leafy greens, and a pinch of salt hardly made a meal, but to his ravenous appetite, it smelled amazing.
+Marcus cooked a basic soup using equipment and some provisions they had pilfered from the Prioriem kitchens—some broth, mushrooms, leafy greens, and a pinch of salt hardly made a meal, but to his ravenous appetite, it smelled amazing.
 
 He looked up from his preparations and saw that Viggo and Annet were missing from the group. He looked to Gareth, arching an eyebrow. 
 

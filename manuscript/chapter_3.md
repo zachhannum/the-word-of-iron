@@ -1,13 +1,10 @@
----
-title: "Chapter Three: Midnight Prioriem"
----
 # Chapter Three
 ## Midnight Prioriem
 Cold and damp. Those were the only feelings that Rykker could muster as he walked through the dark tunnel. He had wanted to stay behind. He *really* had. But he was going to be damned if he let Marcus go alone. They had been walking for over an hour now, and the uneven rocky terrain was causing his feet to ache.
 
 He glanced back at Sev, who was strolling down the tunnel, easily keeping pace with the rest of the group. It must be nice not to feel any discomfort. *Oh Sev, who followed him no matter how stupid the idea. Fantastic idea, Rykker. Follow the crazy, one-handed soldier into a dark cave. I'm right behind you.*
 
-His mind, struggling to distract from the dark, rocky tunnel, wondered for the thousandth time since finding him what compelled Sev. Humans, of course, had biological drives at their core. Some semblance of design by nature that gave them purpose. But Sev wasn’t human. He had been designed by *someone*. Or *something*. Every since he had uncovered the automaton---he never really had worked out *what* Sev really was---they became inseparable. Why had Sev *chosen* him? Simply because he was the first person Sev saw? He unconsciously fingered the ring on his right middle finger, the one he had also found amongst the artifacts uncovered that day. Sev remembered nothing from his time before Rykker had awoken him.
+His mind, struggling to distract from the dark, rocky tunnel, wondered for the thousandth time since finding him what compelled Sev. Humans, of course, had biological drives at their core. Some semblance of design by nature that gave them purpose. But Sev wasn’t human. He had been designed by *someone*. Or *something*. Every since he had uncovered the automaton—he never really had worked out *what* Sev really was—they became inseparable. Why had Sev *chosen* him? Simply because he was the first person Sev saw? He unconsciously fingered the ring on his right middle finger, the one he had also found amongst the artifacts uncovered that day. Sev remembered nothing from his time before Rykker had awoken him.
 
 Marcus' rough voice cut through the silence, disrupting his train of thought. "I think I see something up ahead."
 
@@ -19,7 +16,7 @@ The passageway led them to a set of stone stairs that spiraled up out of view. T
 
 "It's not like we have a choice at this point," muttered Rykker.
 
-They ascended the stairs, and as they did the air grew slightly warmer---though it still retained the stale, slightly mildew quality that reminder Rykker of week's old bread.
+They ascended the stairs, and as they did the air grew slightly warmer—though it still retained the stale, slightly mildew quality that reminder Rykker of week's old bread.
 
 Eventually, the stairs came to a trapdoor in the ceiling, abruptly blocking their path. There was a handle on the door, and Marcus pulled on it with no success. The door seemed to be sealed shut.
 
@@ -39,19 +36,19 @@ Across the room was a cozy dining nook. An elderly man sat at a table, spoon hal
 
 ***
 
-The man---who called himself Renold---*insisted* on calling the city guard, although Marcus had repeatedly assured him they meant no harm.
+The man—who called himself Renold—*insisted* on calling the city guard, although Marcus had repeatedly assured him they meant no harm.
 
 He had nearly fallen out of his chair when Sev and the engine came into view. Rykker signaled for Sev to put up his hood. It usually helped a little bit. He powered down the engine and stowed it away.
 
-Warning them to stay where they were, as if the old man could have done anything about it, Renold stopped a guard that was passing by on patrol. The guard was surly, with an unfriendly scowl that seemed permanently etched onto his face. Once Marcus explained who they were, his frown deepened even further---if that were at all possible---and left, to Renold's dismay, to go find his captain.
+Warning them to stay where they were, as if the old man could have done anything about it, Renold stopped a guard that was passing by on patrol. The guard was surly, with an unfriendly scowl that seemed permanently etched onto his face. Once Marcus explained who they were, his frown deepened even further—if that were at all possible—and left, to Renold's dismay, to go find his captain.
 
 They waited for an excruciatingly long time, especially since Renold refused to share some of the soup he had been eating, before the captain of Valla's city guard arrived.
 
 Len had dark hair, tied into thick braids that came down to her waist. She bore the deep blue of Valla, adorned with half-plate that looked like it was put to good use. A large sword hung from her hip, and she carried a shield on her back.
 
-She eyed the four of them with an inscrutable expression for a moment. She talked slowly, as if still trying to process what she saw. "So, the four of you are from the Royal Military---a part of High Marshal Fastaar's regiment, to be precise---that has been squating outside our doorstep for the last five days. You found an *ancient* smuggling tunnel and followed it all the way here, to Valla, a city which is currently under siege by a sizeable Kadoran legion."
+She eyed the four of them with an inscrutable expression for a moment. She talked slowly, as if still trying to process what she saw. "So, the four of you are from the Royal Military—a part of High Marshal Fastaar's regiment, to be precise—that has been squating outside our doorstep for the last five days. You found an *ancient* smuggling tunnel and followed it all the way here, to Valla, a city which is currently under siege by a sizeable Antuzan legion."
 
-"Um---yes, that sounds about right," Marcus said. "Our mission is to assess Valla's situation, help any way we can, and report back."
+"Um—yes, that sounds about right," Marcus said. "Our mission is to assess Valla's situation, help any way we can, and report back."
 
 "Valla's *situation* is that we're fucked," Len said flatly, then sighed, shaking her head. "Well, come on then, the council will want to see you as soon as possible."
 
@@ -59,17 +56,17 @@ They left Renold's home and stepped into the warm night air. *Ah, finally*. Rykk
 
 Len took them on a path through the city. As they walked, their surroundings changed from modest but well-built homes to market squares hemmed by taverns and shops, their windows empty. The squares themselves also had vendor stalls, but they too looked barren. Perhaps they would be filled with shopkeepers by morning, or perhaps they had been abandoned, for lack of customers.
 
-Eventually they came upon larger manor homes, and arrived at their destination---an imposing building, ancient looking compared to many of the buildings in the city, built in the architectural style of the Caeteran temples of old, built entirely out of tan stone blocks, with towering spires and a great domed roof.
+Eventually they came upon larger manor homes, and arrived at their destination—an imposing building, ancient looking compared to many of the buildings in the city, built in the architectural style of the Caeteran temples of old, built entirely out of tan stone blocks, with towering spires and a great domed roof.
 
 "Here we are," Len said. "The Prioriem. The Council will still be around, I'm sure. They've been quite busy as of late. Come along." She strode through the gates, and they fell into step behind her.
 
-Inside was perhaps even more impressive. They walked through tall, arched hallways, adorned with historical tapestries, many that looked to be as old as---or older than---the Sovereignty. Rykker supposed it made sense. The original city of Valla was founded during a time before the Sovereignty existed. And has continued to exist long past it's destruction, he mused.
+Inside was perhaps even more impressive. They walked through tall, arched hallways, adorned with historical tapestries, many that looked to be as old as—or older than—the Sovereignty. Rykker supposed it made sense. The original city of Valla was founded during a time before the Sovereignty existed. And has continued to exist long past it's destruction, he mused.
 
 They were led to a set of double doors, ornate and made of a dark wood. Two guards, dressed in a similar fashion to Len, flanked the entrance. Len turned, and she looked almost apprehensive. "Wait here. I'll introduce you."
 
 She opened the right-most door slightly, just enough to slide into the room.
 
-For a brief moment, Rykker could hear voices inside. "---the vial was found on---" a male voice spoke, urgency edging his words to a tenor. And then the door shut, leaving them alone in the hall with the two guards, who refused to blink even once since they arrived.
+For a brief moment, Rykker could hear voices inside. "—the vial was found on—" a male voice spoke, urgency edging his words to a tenor. And then the door shut, leaving them alone in the hall with the two guards, who refused to blink even once since they arrived.
 
 Minutes later, Len opened the door and beckoned for them to come inside. They entered a large chamber; a semi-circular table stood in the very center. The floor was laid with patterns of white marble, and the ceiling rose high above, arching into an impressive dome shape.
 
@@ -77,9 +74,9 @@ There were six people sitting at the table. Four of them, two women and two men,
 
 With no chairs, the four of them stood awkwardly in front of the table, which was raised slightly on a dias, meaning that although the Vallan council was sitting, they were at eye-level with them. Well, except for maybe Sev.
 
-Len spoke in a formal tone. "Lord Governor Finn, Major Brixom, and the Council of Four---I present to you Marcus, a Captain in the Royal Ilrian Military and his companions. I have confirmed that their identities are who they say they are. They have entered the city through an ancient tunnel known as Tharin's Passage, and have come bearing the word of High Marshal Fastaar."
+Len spoke in a formal tone. "Lord Governor Finn, Major Brixom, and the Council of Four—I present to you Marcus, a Captain in the Royal Ilrian Military and his companions. I have confirmed that their identities are who they say they are. They have entered the city through an ancient tunnel known as Tharin's Passage, and have come bearing the word of High Marshal Fastaar."
 
-Marcus cleared his throat. "Yes---well, not exactly. You see, Fastaar didn't send us, per say. Colonel Vincent Reld sent us. He believed that Fastaar has been too modest with his strategy, and sent us to investigate the rumor that there was a way into the city." He stumbled over the words quickly, as if holding on to the words caused him physical pain.
+Marcus cleared his throat. "Yes—well, not exactly. You see, Fastaar didn't send us, per say. Colonel Vincent Reld sent us. He believed that Fastaar has been too modest with his strategy, and sent us to investigate the rumor that there was a way into the city." He stumbled over the words quickly, as if holding on to the words caused him physical pain.
 
 The council was silent for a moment. Perhaps they were in shock, Rykker thought. When said aloud, it certainly sounded crazy to him.
 
@@ -91,7 +88,7 @@ Lord Gareth fumed. "You also seem to forget the ticking clock that looms above u
 
 The man next to Lord Gareth, surly with age, said, “You underestimate the length of time that would be required to evacuate the city. It’s going to take days to mobilize tens of thousands of people and funnel them through the passage.”
 
-While the leaders of Valla bickered, Rykker shuffled over towards where Len was standing. "Er---this feels as if we've walked into something."
+While the leaders of Valla bickered, Rykker shuffled over towards where Len was standing. "Er—this feels as if we've walked into something."
 
 Len's hard face softened slightly. "Yes, I suppose you have no idea what's going on, do you?"
 
@@ -99,29 +96,29 @@ Another of the councilmembers, an older man with frost-white hair, pounded his f
 
 Len leaned in and dropped her voice to a whisper. "The four in the center are the Council of Valla. Elected representatives that speak for the people. To the far right, you have Gareth Finn, the appointed Lord Governor of Valla. Cream of the crop from Achenar. The other man sitting with him is Major Brixom Umrad. He commands the division that is stationed here."
 
-"Hmm. Good to know," Rykker pondered. He could see the appeal in an elected council. But it also meant that the decisions of such a governing body could move against you at every turn. Or---in the case of what he was seeing here---hardly move at all.
+"Hmm. Good to know," Rykker pondered. He could see the appeal in an elected council. But it also meant that the decisions of such a governing body could move against you at every turn. Or—in the case of what he was seeing here—hardly move at all.
 
 "Anyways," Len continued. "If you just stay quiet and listen, you'll be fine. You and your team have done your part."
 
-"There's also the wealth that the Kadorans would be gaining if we simply left," a young man with pitch black hair pointed out. "On the other hand, what value can we place on our citizens lives? This is not a decision to be made lightly."
+"There's also the wealth that the Antuzans would be gaining if we simply left," a young man with pitch black hair pointed out. "On the other hand, what value can we place on our citizens lives? This is not a decision to be made lightly."
 
 The older councilwoman nodded. "I too conclude that more deliberation is required to determination the correct outcome. Too many variables are at play."
 
 "Zigil and Amina, you are undecided, then?" Gareth stared unhappily at the pair. "Time grows shorter by the hour. Deliberation is a luxury we cannot pay for. We'll need a full majority vote from the council for this."
 
-"Well, you know where I stand." The man who sat near Gareth---Brixom Umrad, Rykker figured---who had been sitting quietly and brooding finally spoke up. He frowned at the lot of them. "You distrust your own people with such ease. Men are risking their lives every day to liberate Valla from the Kadoran threat. And you think to just waste that effort because you're afraid of a fight? We *will* fight, and we will win."
+"Well, you know where I stand." The man who sat near Gareth—Brixom Umrad, Rykker figured—who had been sitting quietly and brooding finally spoke up. He frowned at the lot of them. "You distrust your own people with such ease. Men are risking their lives every day to liberate Valla from the Antuzan threat. And you think to just waste that effort because you're afraid of a fight? We *will* fight, and we will win."
 
 The room settled to silence. Eventually, Gareth broke the stillness. "It seems we will not make any more progress tonight. We shall reconvene in the morning to further discuss matters. Perhaps we will reach an agreement at that time."
 
 "There's still the matter of the vial," Zigil said.
 
-"I've tripled the guard patrols along the perimeter walls, but my men are stretched thin as it is." Brixom withdrew a glass sphere, large enough to fit into both palms comfortably, and placed it on the table. It was filled with a dark ichor that swirled chaotically, of it’s own volition, against the glass. "I assure you, if we find any more Kadorans with one of these, they will be apprehended immediately."
+"I've tripled the guard patrols along the perimeter walls, but my men are stretched thin as it is." Brixom withdrew a glass sphere, large enough to fit into both palms comfortably, and placed it on the table. It was filled with a dark ichor that swirled chaotically, of it’s own volition, against the glass. "I assure you, if we find any more Antuzans with one of these, they will be apprehended immediately."
 
 "What is that, exactly?" Rykker cursed himself. The question just slipped out, unconsciously.
 
 The council turned in unison to look at him. For a moment, no one spoke. Then Brixom said, "We... don't know."
 
-"That is to say, we know a Kadoran spy was caught sneaking with this container near the outer perimeter of the city's walls earlier this evening," added Zigil. "Although, as Brixom has pointed out, we know not what it's purpose is."
+"That is to say, we know a Antuzan spy was caught sneaking with this container near the outer perimeter of the city's walls earlier this evening," added Zigil. "Although, as Brixom has pointed out, we know not what it's purpose is."
 
 Rykker knew he should have stopped then and there. He should have just ignored it. But he couldn't help himself. It was *too* damn interesting. "I have a fair hand at alchemy. I could take a look at the vial, try and deduce what's inside."
 
@@ -151,7 +148,7 @@ With that, they were ushered out of the meeting chamber, Len following closely b
 
 "Not much, as of late." Len herself showed signs of exhaustion. Dark circles masked her eyes, which where twinged with red. "They're doing the best they can, I think, given the circumstances."
 
-"Why was Lord Gareth so insistent on beginning an evacuation?" Rykker asked. "It seems a little brash---even reckless---to abandon the safety of the city already."
+"Why was Lord Gareth so insistent on beginning an evacuation?" Rykker asked. "It seems a little brash—even reckless—to abandon the safety of the city already."
 
 Len shifted her eyes towards the doors, then dropped her voice to nearly a whisper. "It's his *daughter*, Annet. It's just been the two of them here in Valla, ever since he was given lordship. He would do anything to get her out of harm's way."
 
@@ -163,7 +160,7 @@ Before they could leave, the doors behind them opened. Brixom stepped out, alone
 
 Marcus looked hesitant. "Oh. Wouldn't it be better to wait until the council decides?"
 
-"I fear that we may be running out of time." He glanced at the vial still in Rykker's hands. "We don't know what *that* is; perhaps the Kadorans do not intend to lay an extended siege."
+"I fear that we may be running out of time." He glanced at the vial still in Rykker's hands. "We don't know what *that* is; perhaps the Antuzans do not intend to lay an extended siege."
 
 Rykker saw conflict in Marcus' face. The soldier clearly wanted to help, but seemed to dislike the idea of disobeying the council. Ironic, considering his reason for being here.
 
@@ -173,7 +170,7 @@ Marcus sighed. "What can I do to help?"
 
 He then turned to the captain of the city guard, her face a mask of concern. "Len?"
 
-She hesitated. "*Nilos incarnate*, Brix. You can't ask me to do that. I've already quarantined the entrance with a dozen guards. No one is going in there without my---and by extension, the council's---permission."
+She hesitated. "*Nilos incarnate*, Brix. You can't ask me to do that. I've already quarantined the entrance with a dozen guards. No one is going in there without my—and by extension, the council's—permission."
 
 "Please, Len. We've got to get word to Fastaar or this city is going to fall apart from the inside. What would Panra would have done? She always wanted you to do what you thought was best."
 
@@ -189,13 +186,13 @@ Clearly he was very skilled at combat, though he carried no weapon. And he was a
 
 She guided them through the halls and led them to a part of the Prioriem that contained guest suites. She showed Viggo to a room, and he bid them farewell.
 
-She tried giving Sev a room, but Rykker had to awkwardly explain that they would be sharing. He was sure she had noticed the glow of Sev's eyes, but she said nothing. It was good when people didn't mind---or at least were indifferent---about Sev.
+She tried giving Sev a room, but Rykker had to awkwardly explain that they would be sharing. He was sure she had noticed the glow of Sev's eyes, but she said nothing. It was good when people didn't mind—or at least were indifferent—about Sev.
 
 Eventually they entered a room that looked to be half-bedroom, half-workshop.
 
 "We used to have a councilwoman who was an alchemist," Len explained. "Ryveria. Brilliant woman. She insisted on having her equipment moved to the Prioriem when she was elected. Lord Gareth decided to keep it here, even after she was gone. It's come in handy a few times. For now, you may use it as you see fit."
 
-Rykker thanked her, and she left. After the door closed, he went over to the bed---dropping the vial on a pillow---and tossed himself onto it, groaning. "Oh, *burned sands*, my feet. What I wouldn't give to be you right now."
+Rykker thanked her, and she left. After the door closed, he went over to the bed—dropping the vial on a pillow—and tossed himself onto it, groaning. "Oh, *burned sands*, my feet. What I wouldn't give to be you right now."
 
 "But you cannot *be me*, Rykker. That is impossible."
 
@@ -207,13 +204,13 @@ Rykker thanked her, and she left. After the door closed, he went over to the bed
 
 For a few minutes, they did not speak. Rykker much preferred the company of Sev in that regard. He was content to sit. Perhaps his thoughts wandered, or perhaps they did not. Either way, Rykker appreciated the time to think. He closed his eyes, letting his mind drift.
 
-This was officially the strangest day he had experienced in a long time. Only a few weeks ago had he decided---on a whim---to join the reserve force when it left to march south. The truth was, he had been bored. His life had grown easy and comfortable in Achenar.
+This was officially the strangest day he had experienced in a long time. Only a few weeks ago had he decided—on a whim—to join the reserve force when it left to march south. The truth was, he had been bored. His life had grown easy and comfortable in Achenar.
 
-A steady, and not insignificant, stream of income was paid to him for his designs. Schematics for more efficient crossbows, binoculars, blast furnaces---all of which had been acquired by the Ilrian military for a handsome sum.
+A steady, and not insignificant, stream of income was paid to him for his designs. Schematics for more efficient crossbows, binoculars, blast furnaces—all of which had been acquired by the Ilrian military for a handsome sum.
 
 Those designs, of course, were made possible by his archaeological discoveries. That was what people usually forgot. He was an archaeologist by trade, if his degree meant anything. But, as it turned out, the old Magi from ages past were quite good at engineering. His studies at the university had given him a wide range of skills, from alchemy to architecture. Still, even the most simple of their designs had taken him months to decipher. Now, even after years of study, understanding of their more complex creations remained a mystery to him.
 
-The greatest of all---as far as he could gather---was Sev. He knew he couldn't be sure. But he *had* found Sev, buried in the ground, not far from the dig site. It was the most logical conclusion.
+The greatest of all—as far as he could gather—was Sev. He knew he couldn't be sure. But he *had* found Sev, buried in the ground, not far from the dig site. It was the most logical conclusion.
 
 He sighed and opened his eyes. Sev still stood, quiet as a statue. Not once had Rykker ever seen him sleep. He didn't think sleep would come from him either. Not yet. He had work to do.
 
@@ -229,6 +226,6 @@ Using rubber gaskets, he attached the syringe, tubing, and chamber. He worked th
 
 Carefully, he inserted the syringe through the cork, wincing as he did so, until the needle entered the liquid. He breathed a sigh of relief when nothing happened. He slowly pulled the plunger on the syringe, allowing it to suck in a small amount of the black ichor. He pressed the plunger back down, and the extracted liquid left through a secondary valve, into the waiting chamber.
 
-He observed his prize---a small glass vial no larger than his thumb containing the dark liquid---with satisfaction. With this small amount, performing experiments on it would hopefully prove to be more safe, if only a little.
+He observed his prize—a small glass vial no larger than his thumb containing the dark liquid—with satisfaction. With this small amount, performing experiments on it would hopefully prove to be more safe, if only a little.
 
 Now the real work could begin.
