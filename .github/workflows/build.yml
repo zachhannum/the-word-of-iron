@@ -21,9 +21,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - name: Install Yarn
+      - name: Install Yarn 🧶
         run: npm install -g yarn
-      - name: Install Node Dependencies
+      - name: Install Node Dependencies ✨
         run: yarn install
-      - name: Build Book
+      - name: Build Book 📖
         run: yarn build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: build # The folder the action should deploy.
