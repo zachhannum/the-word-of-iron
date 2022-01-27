@@ -6,10 +6,9 @@
     "scripts": {
         "build": "yarn build_web && yarn build_print",
         "build_print": "vivliostyle build -o build/the-word-of-iron.pdf -f pdf",
-        "build_web": "yarn vivliostyle_web && yarn web_post && yarn copy_web_css",
+        "build_web": "yarn vivliostyle_web && yarn copy_web_css",
         "copy_web_css": "copyfiles css/*.css build",
         "vivliostyle_web": "vivliostyle build -o build/  -f webpub --theme ./css/theme.web.css",
-        "web_post": "python3 ./python/web_post_process.py",
         "preview": "vivliostyle preview"
     },
     "dependencies": {

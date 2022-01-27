@@ -6,11 +6,8 @@ The Word of Iron Book
 
 ## Installation
 
-Python 3 and Pip must be installed.
-
 ```
 yarn install
-pip install beautifulsoup4
 ```
 
 ## References
