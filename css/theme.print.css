@@ -19,7 +19,7 @@ hr::before {
 }
 
 p {
-    font-size: 11pt;
+    font-size: 10pt;
     line-height: 1.5;
     margin-top: 0em;
     margin-bottom: 0em;
@@ -86,10 +86,10 @@ p:first-of-type::first-line {
         font-size: 11pt;
     }
     @top-left {
-        font-size: 11pt;
+        font-size: 10pt;
     }
     @top-right {
-        font-size: 11pt;
+        font-size: 10pt;
     }
 }
 
@@ -99,7 +99,7 @@ p:first-of-type::first-line {
         content: 'The Word of Iron'
     }
     @top-left {
-        content: counter(page);
+        content: counter(page) " •";
         padding-left: .05in;
     }
 }
@@ -110,7 +110,7 @@ p:first-of-type::first-line {
         content: string(chapter-title, first);
     }
     @top-right {
-        content: counter(page);
+        content: "• " counter(page);
         padding-right: .05in;
     }
 }
