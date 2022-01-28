@@ -31,56 +31,56 @@ Hawthorne released his touch of the monolith and took a step back, looking aroun
 
 The air was thicker here. The effort required to draw breath required that the act be a conscious effort.  Upon closer examination of his surroundings, Marcus saw that the trees here where unlike anything he had ever seen. Pale, knurled trunks thicker than his wingspan ascended to towering heights. Twisting leaves longer than his forearm sprouted from a multitude of branches. They seemed to reach for him, beckoning to step into their dark embrace. A faint dusk cast sleeping shadows that crawled along the undergrowth.
 
-“Inde—What?” said Rykker. He took a few tentative steps towards one of the trees, reaching out slowly as if contemplating whether the thing was going to snatch him up. “What happened? Was that Magic?”
+"Inde—What?" said Rykker. He took a few tentative steps towards one of the trees, reaching out slowly as if contemplating whether the thing was going to snatch him up. "What happened? Was that Magic?"
 
-“Yes.” Hawthorne climbed out of the crater. Dusting off his dark pants, he said, “I wouldn’t touch that if I were you.”
+"Yes." Hawthorne climbed out of the crater. Dusting off his dark pants, he said, "I wouldn’t touch that if I were you."
 
-Rykker’s hand snapped back. “Why not? Is it poisonous?“
+Rykker’s hand snapped back. "Why not? Is it poisonous?"
 
-“I don’t think so, but the Forest doesn’t typically like to be messed with.”
+"I don’t think so, but the Forest doesn’t typically like to be messed with."
 
-“Doesn’t *like* it?” Marcus said. He peered again into the tree line, trying to see if the branches were moving in accordance with the slight breeze or not.
+"Doesn’t *like* it?" Marcus said. He peered again into the tree line, trying to see if the branches were moving in accordance with the slight breeze or not.
 
-Hawthorne shrugged. “I just think it’s best to be safe when it comes to these matters.”
+Hawthorne shrugged. "I just think it’s best to be safe when it comes to these matters."
 
-“Well, Okay,” Viggo said. carefully stepping away from some of the undergrowth. “But you still haven’t explained *where* we are.”
+"Well, Okay," Viggo said. carefully stepping away from some of the undergrowth. "But you still haven’t explained *where* we are."
 
-Their indiscernible guide collected his belongings from the ground and slung them across his back. “Let’s get going. I’ll explain along the way.”
+Their indiscernible guide collected his belongings from the ground and slung them across his back. "Let’s get going. I’ll explain along the way."
 
 ***
 
 As it turned out, the Forest remained docile, even as they tramped through the heavy wood. There was no path to follow, and Marcus wondered how Hawthorne knew the way. It had been at least an hour. Maybe more? It was hard to tell, here—the angle of shadows had not changed in all the time since they had left the clearing. Disconcerted though Marcus was, Hawthorne led on with a confident stride, picking his way through the dense trees.
 
-“Indenos is not of the world you know,” Hawthorne explained. “You could not point to it on any map on Asdel. It is… outside of our world.”
+"Indenos is not of the world you know," Hawthorne explained. "You could not point to it on any map on Asdel. It is… outside of our world."
 
-“We’re on another world?” Rykker gingerly pushed a branch back as he stepped forward.
+"We’re on another world?" Rykker gingerly pushed a branch back as he stepped forward.
 
-“Sort of, I guess you could think of it as such. But it is no so simple. The Forest *was* another world, long ago. It was dying, and the old magi of our world siezed it, lashing it to our own. They bent Indenos for their own needs, warping the land. They created the Monoliths, and now this place is bound to ours in many places. But these links—while they are many miles apart in our world—are not so far in this one. The magi used the Forest to traverse their great Empire, taking journeys of a thousand miles in a few days.”
+"Sort of, I guess you could think of it as such. But it is no so simple. The Forest *was* another world, long ago. It was dying, and the old magi of our world siezed it, lashing it to our own. They bent Indenos for their own needs, warping the land. They created the Monoliths, and now this place is bound to ours in many places. But these links—while they are many miles apart in our world—are not so far in this one. The magi used the Forest to traverse their great Empire, taking journeys of a thousand miles in a few days."
 
-“Unbelievable.” Rykker shook his head with awe. “Sev, you think you’ve been here before?”
+"Unbelievable." Rykker shook his head with awe. "Sev, you think you’ve been here before?"
 
-“I don’t know.” The Aeonnar trod lightly considering his size, keeping to the rear of the pack. IT sometimes amazed Marcus at how invisible the goliath could be. He tended to just blend in to the background most of the time. “I wish I could remember, Rykker.”
+"I don’t know." The Aeonnar trod lightly considering his size, keeping to the rear of the pack. IT sometimes amazed Marcus at how invisible the goliath could be. He tended to just blend in to the background most of the time. "I wish I could remember, Rykker."
 
-The engineer glanced back at Sev and grinned, an uncharacteristic twinkle in his eye. “That’s alright, Sev. We’ll figure you out. Just wait.”
+The engineer glanced back at Sev and grinned, an uncharacteristic twinkle in his eye. "That’s alright, Sev. We’ll figure you out. Just wait."
 
-“So this place,” Marcus said. “It’s going to get us to Antuza?”
+"So this place," Marcus said. "It’s going to get us to Antuza?"
 
-“Yes.” Hawthorne slowed his pace as he worked his way around a thick bush of thorny vines. “I think our path will take us no more than a day, although such timekeeping methods will be all but useless here.”
+"Yes." Hawthorne slowed his pace as he worked his way around a thick bush of thorny vines. "I think our path will take us no more than a day, although such timekeeping methods will be all but useless here."
 
-“Yeah, I’ve notice that.”
+"Yeah, I’ve notice that."
 
-“There is no ‘sun’, so to speak, in Indenos. The light we have here is a remnant of the magi that once maintained it. Eventually, it will go out, and the Forest will be plunged into darkness. Even the trees were cared for by the wizards. It is said that there used to be great avenues leading from one Monolith to the other. The Forest allowed for unmitigated trade between nations all across Asdel. It's no wonder the magi ruled the world.”
+"There is no ‘sun’, so to speak, in Indenos. The light we have here is a remnant of the magi that once maintained it. Eventually, it will go out, and the Forest will be plunged into darkness. Even the trees were cared for by the wizards. It is said that there used to be great avenues leading from one Monolith to the other. The Forest allowed for unmitigated trade between nations all across Asdel. It's no wonder the magi ruled the world."
 
 Marcus looked around at the trees, with their incomprehensibly thick trunks and towering height. They must be thousands of years old. What kind of power must one yield to tame such giants?
 
-“How do you know all of this?” asked Rykker. “I’ve read a lot of books about the magi and I’ve never even heard of this place.”
+"How do you know all of this?" asked Rykker. "I’ve read a lot of books about the magi and I’ve never even heard of this place."
 
-“Most of the books you find about the magi barely have any truth left in them.” Hawthorne spoke matter-of-factly, though Marcus felt Rykker tense up. “But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it was created. Reading the runes. Traversing its expanse.  Unlocking every secret behind every leaf.”
+"Most of the books you find about the magi barely have any truth left in them." Hawthorne spoke matter-of-factly, though Marcus felt Rykker tense up. "But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it was created. Reading the runes. Traversing its expanse.  Unlocking every secret behind every leaf."
 
 Rykker stomped over a bush more forcefully than necessary.
 
-Hawthorne glanced back at the sound of a branch snapping. “I’d be happy to share my knowledge, Mr. Rykker. Should you survive your journey to the Empire, it would be my pleasure to impart what I have learned.”
+Hawthorne glanced back at the sound of a branch snapping. "I’d be happy to share my knowledge, Mr. Rykker. Should you survive your journey to the Empire, it would be my pleasure to impart what I have learned."
 
-“Why would you—”
+"Why would you—"
 
 Before Rykker could finish his sentence, a guttural cry bellowed overhead. 
