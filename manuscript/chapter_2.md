@@ -47,7 +47,7 @@ None of them had much to say to that.
 
 ***
 
-The forest at night is a dark place. Now, the treetops blocked even the moonlight, and their only source of light became the floating engine. It would be a significant trek before they reached the location specified on Vincent's map.
+The forest at night was a dark place. Now, the treetops blocked even the moonlight, and their only source of light became the floating engine. It would be a significant trek before they reached the location specified on Vincent's map.
 
 Marcus studied Sev as they hiked. It was nearly impossible to read any emotion from his flat, stoney face. Underneath his yellow eyes, an angular line bisected his face in a caricature of a grin. He seemed to be unperturbed by the conversation about him. From what he could tell, Sev wasn't *bothered* by anything.
 
