@@ -1,12 +1,10 @@
 # Chapter Ten
 ## The Boundless Forest
 
-Hawthorne took them out of the city and into the forest. He still had not explained what they were doing or where they were headed, and Marcus was beginning to question his decision to come along. Rykker, Sev, and Viggo had also decided to take Mara up on 
-her offer. Len had stayed behind to meet with Senna’s Governor and bring news of Gareth’s death, but also to help the Vallan refugees that found their way to the city. Mara, too, stayed in the city, claiming she had business elsewhere. She had wished them 
-luck, assuring that they were in good hands.
+Hawthorne took them out of the city and into the forest. He still had not explained what they were doing or where they were headed, and Marcus was beginning to question his decision to come along. Rykker, Sev, and Viggo had also decided to take Mara up on her offer. Len had stayed behind to meet with Senna’s Governor and bring news of Gareth’s death, but also to help the Vallan refugees that found their way to the city. Mara, too, stayed in the city, claiming she had business elsewhere. She had wished them luck, assuring that they were in good hands.
 
-Marcus felt as if he was abandoning everything as he always did. But that was what he did, was it not? Run? First Sen, his village, his kinsmen. And now his country. At the first chance he got, he ran from his problems when they became too big for him. In 
-this case, though, did he have a choice? If what Mara said was true—if she was right about the role they had to play in all of this, then just maybe he was where he was supposed to be. He hoped he wasn’t being played for a fool and falling into bad habits.
+Marcus felt as if he was abandoning everything as he always did. But that was what he did, was it not? Run? First Sen, his village, his kinsmen. And now his country. At the first chance he got, he ran from his problems when they became too big for him. In this case, though, did he have a choice? If what Mara said was true—if she was right about the role they had to play in all of this, then just maybe he was where he was supposed to be. He hoped he wasn’t being played for a fool and falling into bad habits.
+
 Their new guide took them deep into the wood north of Senna, outside of any road or well-traveled path. It was early morning, yet the sun barely pierced the thick canopy of the trees. It felt more like a perpetual twilight, and Marcus couldn’t help but imagine that they were in another world entirely. A muffled quiet lay across the wilderness, as if all manner of creature, even insects stayed clear of the area.
 
 Hawthorne led the way through the dense undergrowth without pause or so much as a look back. Surprisingly, Viggo and Rykker had barely said a word since leaving the city. This came as a shock to Marcus—they seemed to always have an opinion on everything. Perhaps the fear of the unknown, of what awaited, gave them pause. Or perhaps they were simply too fixated on their own thoughts. On the things they had learned these past few days. He certainly was.
@@ -29,7 +27,7 @@ When his vision returned, his first thought was that nothing had changed. It did
 
 “Where are we?” he asked.
 
-Hawthorne released his touch of the monolith and took a step back, looking around. For the first time, Marcus noticed a small smile. “This is Indenos. The Boundless Forest. The Wood.”
+Hawthorne released his touch from the monolith and took a step back, looking around. For the first time, Marcus noticed a small smile. “This is Indenos. The Boundless Forest. The Wood.”
 
 The air was thicker here. The effort required to draw breath required that the act be a conscious effort.  Upon closer examination of his surroundings, Marcus saw that the trees here where unlike anything he had ever seen. Pale, knurled trunks thicker than his wingspan ascended to towering heights. Twisting leaves longer than his forearm sprouted from a multitude of branches. They seemed to reach for him, beckoning to step into their dark embrace. A faint dusk cast sleeping shadows that crawled along the undergrowth.
 
@@ -57,12 +55,12 @@ As it turned out, the Forest remained docile, even as they tramped through the h
 
 “We’re on another world?” Rykker gingerly pushed a branch back as he stepped forward.
 
-“Sort of, I guess you could think of it as such. But it is no so simple. The Forest *was* another world, long ago. It was dying, and the old magi of our world siezed it, lashing it to our own. They bent Indenos for their own needs, warping the land. They created the Monoliths, and now this place is bound to ours in many places. But these links—while they are many miles apart in our world—are not so far in this one. The magi used the Forest to traverse their great Empire, taking journeys of a thousand miles 
+“Sort of, I guess you could think of it as such. But it is not so simple. The Forest *was* another world, long ago. It was dying, and the old magi of our world siezed it, lashing it to our own. They bent Indenos for their own needs, warping the land. They created the Monoliths, and now this place is bound to ours in many places. But these links—while they are many miles apart in our world—are not so far in this one. The magi used the Forest to traverse their great Empire, taking journeys of a thousand miles 
 in a few days.”
 
-“Unbelievable.” Rykker shook his head with awe. “Sev, you think you’ve been here before?”
+“Unbelievable.” Rykker shook his head with awe. “Sev, do you think you’ve been here before?”
 
-“I don’t know.” The Aeonnar trod lightly considering his size, keeping to the rear of the pack. IT sometimes amazed Marcus at how invisible the goliath could be. He tended to just blend in to the background most of the time. “I wish I could remember, Rykker.”
+“I don’t know.” The Aeonnar trod lightly considering his size, keeping to the rear of the pack. It sometimes amazed Marcus at how invisible the goliath could be. He tended to just blend in to the background most of the time. “I wish I could remember, Rykker.”
 
 The engineer glanced back at Sev and grinned, an uncharacteristic twinkle in his eye. “That’s alright, Sev. We’ll figure you out. Just wait.”
 
@@ -78,8 +76,7 @@ Marcus looked around at the trees, with their incomprehensibly thick trunks and 
 
 “How do you know all of this?” asked Rykker. “I’ve read a lot of books about the magi and I’ve never even heard of this place.”
 
-“Most of the books you find about the magi barely have any truth left in them.” Hawthorne spoke matter-of-factly, and Marcus felt Rykker tense up. The engineer did not like to be made to feel foolish. “But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it 
-was created. Reading the runes. Traversing its expanse.  Unlocking every secret behind every leaf.”
+“Most of the books you find about the magi barely have any truth left in them.” Hawthorne spoke matter-of-factly, and Marcus felt Rykker tense up. The engineer did not like to be made to feel foolish. “But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it was created. Reading the runes. Traversing its expanse.  Unlocking every secret behind every leaf.”
 
 Rykker stomped over a bush more forcefully than necessary.
 
