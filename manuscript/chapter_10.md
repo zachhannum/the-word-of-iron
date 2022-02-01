@@ -78,7 +78,7 @@ Marcus looked around at the trees, with their incomprehensibly thick trunks and 
 
 “How do you know all of this?” asked Rykker. “I’ve read a lot of books about the magi and I’ve never even heard of this place.”
 
-“Most of the books you find about the magi barely have any truth left in them.” Hawthorne spoke matter-of-factly, though Marcus felt Rykker tense up. “But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it 
+“Most of the books you find about the magi barely have any truth left in them.” Hawthorne spoke matter-of-factly, and Marcus felt Rykker tense up. The engineer did not like to be made to feel foolish. “But I’ve spent my entire life dedicated to learning all that I can about this place. Its history. How it 
 was created. Reading the runes. Traversing its expanse.  Unlocking every secret behind every leaf.”
 
 Rykker stomped over a bush more forcefully than necessary.
@@ -87,4 +87,19 @@ Hawthorne glanced back at the sound of a branch snapping. “I’d be happy to s
 
 “Why would you—”
 
-Before Rykker could finish his sentence, a guttural cry bellowed overhead.
+Before Rykker could finish his sentence, a guttural cry bellowed overhead. The very trees themselves seemed to recoil at the sound, and what little light the dusk offered them shuddered for a moment.
+
+Years of practiced reflexes had ingrained in Marcus what he likened to a sixth sense, which screamed at him to move. *Move*. He dropped to the ground, ignoring the sharp painful impact against his knees. A shadow fell over him, and Marcus rolled to his right. Pushing himself into a crouched stance. 
+
+Before him stood a creature unlike any other natural thing that walked his own world. Taller than him, the beast craned its elongated, jagged maw and loosed a series of foul croaks and clicks in his direction. Leathery wings flapped as it stalked towards Marcus. Dregs of black vapor sloughed off of its body, pooling at it's clawed feet. Snapping jaws and red eyes prowled ever-closer, and Marcus readied himself, rolling to the balls of his heels.
+
+“Don't!” Hawthorne shouted from behind, but it was too late. 
+
+Quicker than he could have imagined, the creature lunged. A bolt sprouted from the monster's eye and it gurgled, swaying to one side, giving Marcus a chance to evade the charge. Using the full weight of his momentum, he swung his metal fist into the beast's jaw. A satisfying crunch. An otherworldly shriek. A rush of air knocked Marcus momentarily off-balance. 
+
+In an instant, the monster took flight, still shrieking its awful melody. Then, the forest was lit by a column of orange fire. Marcus whirled to see Hawthorne, arm raised, his other arm supporting the gesture. Tendrils of smoke still billowed from his closed fist.
+
+The firey blast had missed the creature by a few feet, and as the flames died, the dark form disappeared into the trees, though it's cries still pierced Marcus’ ears.
+
+“Cursed sands.” Hawthorne dropped his arm. “Thats not good.”
+

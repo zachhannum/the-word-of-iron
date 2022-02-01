@@ -2,10 +2,8 @@
 ### Excommunication
 #### Ino/Viggo
 
-# Part 1: The Siege of Valla
-
 ## Chapter 1
-### A New War
+### Ash and Words
 #### Marcus/Sev/Viggo
 
 ## Chapter 2
@@ -39,12 +37,6 @@
 ## Chapter 9
 ### Answers
 #### Rykker
-
-## Interlude
-### Ash and Words
-#### Vincent Reld
-
-# Part 2: Beyond the Veil 
 
 # Chapter 10
 ## The Boundless Forest
@@ -102,6 +94,18 @@
 - Sev learns about his past, and is given a gift
 
 ## Chapter 15
+### A Chance Encounter
+#### Viggo
+
+- Viggo meets Faylen, an unexpected person from his past
+- Faylen recognizes Viggo when he is browsing the library.
+- He confronts her, asking what she wants
+- She tells him she is a scribe at the Aratheum, but that she used to be an acolyte at the Church of the Triumvirate and she recognized him
+- he is suspicious, wondering to himself if she was sent to kill him for disobeying the warning he received all those years ago
+- she tells him her story to convince him otherwise 
+- Faylen was indoctrinated into a sect of the church called the Sanguine Order, specifically for chosen individuals who have the Gift (Magic)
+
+## Chapter 16
 ### 
 
 
