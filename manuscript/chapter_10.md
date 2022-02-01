@@ -88,15 +88,27 @@ Before Rykker could finish his sentence, a guttural cry bellowed overhead. The v
 
 Years of practiced reflexes had ingrained in Marcus what he likened to a sixth sense, which screamed at him to move. *Move*. He dropped to the ground, ignoring the sharp painful impact against his knees. A shadow fell over him, and Marcus rolled to his right. Pushing himself into a crouched stance. 
 
-Before him stood a creature unlike any other natural thing that walked his own world. Taller than him, the beast craned its elongated, jagged maw and loosed a series of foul croaks and clicks in his direction. Leathery wings flapped as it stalked towards Marcus. Dregs of black vapor sloughed off of its body, pooling at it's clawed feet. Snapping jaws and red eyes prowled ever-closer, and Marcus readied himself, rolling to the balls of his heels.
+Before him stood a creature unlike any other natural thing that walked in his own world. Taller than he by half, the beast craned its elongated, jagged maw and loosed a series of foul croaks and clicks in his direction. Dark, leathery wings flapped as it stalked towards Marcus. Dregs of black vapor sloughed off of its body, pooling at it's clawed feet. Snapping jaws gleaming with yellow teeth and red eyes prowled ever-closer, and Marcus readied himself, rolling to the balls of his heels. He brought his fists up to protect his face.
 
-“Don't!” Hawthorne shouted from behind, but it was too late. 
+“Don’t!” Hawthorne shouted from behind. But it was too late. 
 
-Quicker than he could have imagined, the creature lunged. A bolt sprouted from the monster's eye and it gurgled, swaying to one side, giving Marcus a chance to evade the charge. Using the full weight of his momentum, he swung his metal fist into the beast's jaw. A satisfying crunch. An otherworldly shriek. A rush of air knocked Marcus momentarily off-balance. 
+Quicker than he could have imagined, the creature lunged. A feathered bolt sprouted from the monster's eye and it gurgled, swaying to one side, giving Marcus a chance to narrowly evade the charge. Using the full weight of his momentum, he swung his metal fist into the beast's jaw. A satisfying crunch. An otherworldly shriek. A rush of air knocked Marcus momentarily off-balance.
 
 In an instant, the monster took flight, still shrieking its awful melody. Then, the forest was lit by a column of orange fire. Marcus whirled to see Hawthorne, arm raised, his other arm supporting the gesture. Tendrils of smoke still billowed from his closed fist.
 
-The firey blast had missed the creature by a few feet, and as the flames died, the dark form disappeared into the trees, though it's cries still pierced Marcus’ ears.
+The fiery blast had missed the creature by a few feet, and as the flames died, the dark form disappeared into the trees, though it's cries still pierced Marcus’ ears.
 
 “Cursed sands.” Hawthorne dropped his arm. “Thats not good.”
+
+"What. Was. That?" Marcus whispered. His mind reeled, hazey from the magic cast by Hawthorne. Fire magic. Destruction. The shrieks still rang in his ears. They seemed to reverberate in his skull. *That was a close one*. If Rykker hadn't managed to shoot the creature, he wasn't sure if he could have avoided its onslaught.
+
+“I call them Stridors.” Hawthorne straightened, dusting soot from his arms. “Creatures from the outer realms. From beyond the veil of reality. When the magi cultivated the Forest, the boundary to beyond held firm, but now...”
+
+He shook his head, then embarked yet again on his unseen path through the trees, leaving Marcus and the rest in stunned silence.
+
+“Come now, he called. We must hurry, for Stridors travel in packs.”
+
+At this, they hastened to follow, unwilling to be caught by any more of the creatures without their guide.
+
+
 

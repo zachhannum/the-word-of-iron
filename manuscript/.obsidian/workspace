@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "chapter_10.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -19,73 +18,57 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8db48894af1aa535",
-    "type": "split",
+    "id": "c539e67e4d755c08",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "87eff3a7cea294b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a94e95147a32aed3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "31177d16101219c0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d8a620b989b97198",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ca7b0def7c12582e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "0c36cd9dd923e1cc",
-    "type": "split",
+    "id": "ff5189ff7c8efe2a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9dd9bbfc03f3ed21",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "769ffc44bc03f1b6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "chapter_10.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "883b5f0554587221",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "chapter_10.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    ]
   },
   "active": "51404fe253df2160",
   "lastOpenFiles": [
