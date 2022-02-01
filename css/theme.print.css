@@ -19,13 +19,13 @@ hr::before {
 }
 
 p {
-    font-size: 10pt;
+    font-size: 10.5pt;
     line-height: 1.5;
     margin-top: 0em;
     margin-bottom: 0em;
     text-indent: 1.5em;
     orphans: 2;
-    widows: 2;
+    widows: 3;
     hyphens: auto;
 }
 
@@ -99,7 +99,7 @@ p:first-of-type::first-line {
         content: 'The Word of Iron'
     }
     @top-left {
-        content: counter(page) " •";
+        content: counter(page);
         padding-left: .05in;
     }
 }
@@ -110,7 +110,7 @@ p:first-of-type::first-line {
         content: string(chapter-title, first);
     }
     @top-right {
-        content: "• " counter(page);
+        content: counter(page);
         padding-right: .05in;
     }
 }

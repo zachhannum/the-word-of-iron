@@ -146,7 +146,7 @@ He placed a hand on her shoulder. One corner of her mouth twitched up in a half-
 
 For a moment, standing in her armor, blue cloak of Valla, now tarnished with mud from the road, trailing behind her, Len looked as if she would take on the legions of Antuza by herself. Then she deflated with a sigh. “I suppose it can wait, though. After everything, a hot meal and a warm bed sounds better than revenge right now.”
 
-—
+***
 
 The streets of Senna were more narrow than the wide two-lane roads of Valla. Buildings along either side of the main thoroughfare clustered tightly together—some sharing walls, others leaving even narrower, dark alleyways.
 
