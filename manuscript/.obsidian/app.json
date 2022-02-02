@@ -28,5 +28,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "promptDelete": false
 }

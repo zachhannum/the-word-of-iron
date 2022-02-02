@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Chapter Two
 ## Ridge Walking
 

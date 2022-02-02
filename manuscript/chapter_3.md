@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Chapter Three
 ## Midnight Prioriem
 Cold and damp. Those were the only feelings that Rykker could muster as he walked through the dark tunnel. He had wanted to stay behind. He *really* had. But he was going to be damned if he let Marcus go alone. They had been walking for over an hour now, and the uneven rocky terrain was causing his feet to ache.

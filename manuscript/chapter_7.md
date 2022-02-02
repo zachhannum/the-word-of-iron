@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Chapter Seven
 ## The Man With Gray Eyes
 

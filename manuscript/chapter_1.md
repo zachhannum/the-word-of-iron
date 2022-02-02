@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Chapter One
 ## Ash and Words
 

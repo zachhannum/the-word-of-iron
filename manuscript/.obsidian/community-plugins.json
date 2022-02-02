@@ -1,4 +1,6 @@
 [
   "cm-typewriter-scroll-obsidian",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian"
 ]

@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter_9.md",
-            "mode": "source",
-            "source": false
+            "file": "Word Count.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter_9.md",
+                "file": "Word Count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "51404fe253df2160",
   "lastOpenFiles": [
+    "Word Count.md",
+    "chapter_10.md",
+    "toc.md",
+    "dedication.md",
     "chapter_9.md",
-    "chapter_5.md",
-    "chapter_0.md",
-    "chapter_1.md",
-    "chapter_2.md",
-    "chapter_3.md",
-    "chapter_4.md",
-    "chapter_6.md",
+    "chapter_8.md",
     "chapter_7.md",
-    "chapter_8.md"
+    "chapter_6.md",
+    "chapter_5.md",
+    "chapter_4.md"
   ]
 }

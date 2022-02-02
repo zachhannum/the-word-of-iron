@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Chapter Ten
 ## The Boundless Forest
 

@@ -1,3 +1,6 @@
+---
+tags: ['chapter']
+---
 # Prologue
 ## Excommunication
 
