@@ -5,6 +5,8 @@ Hawthorne took them out of the city and into the forest. He still had not explai
 
 Marcus felt as if he was abandoning everything as he always did. But that was what he did, was it not? Run? First Sen, his village, his kinsmen. And now his country. At the first chance he got, he ran from his problems when they became too big for him. In this case, though, did he have a choice? If what Mara said was true—if she was right about the role they had to play in all of this, then just maybe he was where he was supposed to be. He hoped he wasn’t being played for a fool and falling into bad habits.
 
+With everything that had happened since he left Fastaar’s war camp, Marcus couldn’t have just walked away. Something told him that whatever this was—Vanen, Annet, Mara, the Scathe—was important. The Empire *had* arrived rather suddenly at Valla. No Antuzan ships on the horizon, or whispers from Ilrian spies that war was brewing. No, Mara must have been right on that account. The Scathe pulled the strings of the Empire from the dark, and were somehow helping them wage war against Ilris. A shudder ran through Marcus at the thought. His mind raced through the possibilities of what they might be after. It seemed likely they were tied to this religion—Odeth, he thought they called it. Perhaps they just wanted to destroy heretics. But why Ilris? Why not Dei, or Gyim? They were much easier targets than Ilris, who was at least shielded by the narrow sea. He did not know.
+
 Their new guide took them deep into the wood north of Senna, outside of any road or well-traveled path. It was early morning, yet the sun barely pierced the thick canopy of the trees. It felt more like a perpetual twilight, and Marcus couldn’t help but imagine that they were in another world entirely. A muffled quiet lay across the wilderness, as if all manner of creature, even insects stayed clear of the area.
 
 Hawthorne led the way through the dense undergrowth without pause or so much as a look back. Surprisingly, Viggo and Rykker had barely said a word since leaving the city. This came as a shock to Marcus—they seemed to always have an opinion on everything. Perhaps the fear of the unknown, of what awaited, gave them pause. Or perhaps they were simply too fixated on their own thoughts. On the things they had learned these past few days. He certainly was.
@@ -88,7 +90,7 @@ Before Rykker could finish his sentence, a guttural cry bellowed overhead. The v
 
 Years of practiced reflexes had ingrained in Marcus what he likened to a sixth sense, which screamed at him to move. *Move*. He dropped to the ground, ignoring the sharp painful impact against his knees. A shadow fell over him, and Marcus rolled to his right. Pushing himself into a crouched stance. 
 
-Before him stood a creature unlike any other natural thing that walked in his own world. Taller than he by half, the beast craned its elongated, jagged maw and loosed a series of foul croaks and clicks in his direction. Dark, leathery wings flapped as it stalked towards Marcus. Dregs of black vapor sloughed off of its body, pooling at it's clawed feet. Snapping jaws gleaming with yellow teeth and red eyes prowled ever-closer, and Marcus readied himself, rolling to the balls of his heels. He brought his fists up to protect his face.
+Before him stood a creature unlike any other natural thing that walked in his own world. Taller than he by half, the beast craned its elongated, jagged maw and loosed a series of foul croaks and clicks in his direction. Dark, leathery wings flapped as it stalked towards Marcus. Dregs of black vapor sloughed off of its body, pooling at its clawed feet. Snapping jaws gleaming with yellow teeth and red eyes prowled ever-closer, and Marcus readied himself, rolling to the balls of his heels. He brought his fists up to protect his face.
 
 “Don’t!” Hawthorne shouted from behind. But it was too late. 
 
@@ -98,7 +100,7 @@ In an instant, the monster took flight, still shrieking its awful melody. Then, 
 
 The fiery blast had missed the creature by a few feet, and as the flames died, the dark form disappeared into the trees, though it's cries still pierced Marcus’ ears.
 
-“Cursed sands.” Hawthorne dropped his arm. “Thats not good.”
+“Cursed sands.” Hawthorne dropped his arm. His body seemed to sag under its weight, as if the magic had taken a great deal out of him. “Thats not good.”
 
 "What. Was. That?" Marcus whispered. His mind reeled, hazey from the magic cast by Hawthorne. Fire magic. Destruction. The shrieks still rang in his ears. They seemed to reverberate in his skull. *That was a close one*. If Rykker hadn't managed to shoot the creature, he wasn't sure if he could have avoided its onslaught.
 
@@ -106,9 +108,30 @@ The fiery blast had missed the creature by a few feet, and as the flames died, t
 
 He shook his head, then embarked yet again on his unseen path through the trees, leaving Marcus and the rest in stunned silence.
 
-“Come now, he called. We must hurry, for Stridors travel in packs.”
+“Come now,” he called. “We must hurry, for Stridors travel in packs.”
 
 At this, they hastened to follow, unwilling to be caught by any more of the creatures without their guide.
 
+Marcus’ senses were on high alert. He kept his head on a swivel. Viggo hefted his blacksmith’s hammer in one hand. Rykker’s fingers stayed locked on on his crossbow. Sev held up the rear, his great warhammer poised in deft, stony hands.
 
+Hawthorne’s pace quickened, his long legs carrying him swiftly. They set into a steady march to keep up.
 
+It did not take long for the howling shrieks to begin again.
+
+The din seemed to resonate from all around them, bouncing off the trees, a cacaphony of dissonance that made Marcus want to lie down and plug his ears. Hawthorne jogged faster now, setting the pace to a near sprint. He did not look back. Marcus slowed, allowing Viggo and Rykker to pass, and he fell into step beside Sev.
+
+He cast a sidelong glance at the behemonth, already starting to pant as he spoke between short breaths. “We always find ourselves here, huh?”
+
+“We protect, Marcus.” Sev’s golden eyes beamed with an intensity that shone in the dim light of the Forest.
+
+Marcus afforded a small smile. “That we do, my friend. That we do.”
+
+His smile faded quickly, and he took a quick look behind. Red eyes. They glinted from beyond the darkness. There must have been at least fifty. Maybe more—It was hard to count while running.
+
+“For Teldur’s sake,” Marcus gasped. “There’s so many of them. We can’t keep this up for long.”
+
+A shrill wail rose above the tumult. A glimpse behind revealed that one of the Stridors, bolder than the rest, had broken from the pack. Black wings spewed liquid smoke as it hurled towards them, jaws alight with row upon row of fangs. Marcus readied himself. He dared not stop, not yet. Not until it was closer. The Stridor’s incessant screams grew to unbearable levels.
+
+Marcus waited for his moment. The hairs on the back of his neck prickled as his instincts fired. *Now*. As he turned, he saw Sev. The monster was nearly upon them, mere feet away. Wicked, clawed feet stretched out before the beast, grasping for its prey. The Aeonnar, in one fell motion, pivoted, using his greathammer as a fulcrum, and delivered a blow to the Stridor’s skull. In an instant, the shrieking stopped as festering chunks of flesh and bone painted the forest floor in black blood and swirling smoke. Sev completed his turn and continued to sprint without missing a step.
+
+Protector. Destroyer. Marcus had forgotten the preternatural strength that the otherwise docile goliath possessed.

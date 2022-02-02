@@ -47,7 +47,6 @@
 - Conversation where Hawthorne reveals what he knows about the place
 	- Hawthorne, of course, is one of the Magi who helped build Indenos, but the only way he and Mara have been able to stay sane for thousands of years is by wiping their memories every couple of centuries. Most other Magi have either gone mad or died or killed themselves.
 - On their way, a creature from the Beyond (Outer Realm, The Nightmare, *The Chaos Between Universes*), a leathery winged predator attacks them. Hawthorne is not worried, but warns them to kill it quickly
-- Rykker takes samples from the creature once they’ve killed it. Marcus warns against it, but Hawthorne doesn’t seem to care too much, so he allows it.
 
 # Chapter 11
 ## Valley of Frost
