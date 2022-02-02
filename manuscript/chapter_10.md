@@ -22,7 +22,7 @@ Marcus kept his distance from the thing—it was probably best to be cautious. R
 
 “What is it?” Rykkers eyes did not leave the center of the clearing. He brushed away Hawthorne’s grip.
 
-“It is a gateway. A way to go where we need to go. To the Boundless Forest. Stay here.” Without further explaination, Hawthorne dropped his pack on the ground and climbed down into the crater and approached the monolith. It seemed to shrink in the presence of him. Marcus could not tell if that was a trick of the eye or something else.
+“It is a Lith. A gateway. A way to go where we need to go. To the Boundless Forest. Stay here.” Without further explaination, Hawthorne dropped his pack on the ground and climbed down into the crater and approached the monolith. It seemed to shrink in the presence of him. Marcus could not tell if that was a trick of the eye or something else.
 
 Hawthorne laid a thin hand upon the stone and began to speak. Marcus frowned, realizing that he could not understand what the man was saying. No, that wasn’t quite right. The words themselves vanished before him, snatched from the space between hearing and understanding. He was sure that the Hawthorne was talking, but the harder Marcus tried to focus on them, the more they slipped away. A faint white light shone from beneath the hand on the stone, spreading outwards to encompass the entire pillar.
 
@@ -32,7 +32,7 @@ When his vision returned, his first thought was that nothing had changed. It did
 
 “Where are we?” he asked.
 
-Hawthorne released his touch from the monolith and took a step back, looking around. For the first time, Marcus noticed a small smile. “This is Indenos. The Boundless Forest. The Wood.”
+Hawthorne released his touch from the Lith and took a step back, looking around. For the first time, Marcus noticed a small smile. “This is Indenos. The Boundless Forest. The Wood.”
 
 The air was thicker here. The effort required to draw breath required that the act be a conscious effort.  Upon closer examination of his surroundings, Marcus saw that the trees here where unlike anything he had ever seen. Pale, knurled trunks thicker than his wingspan ascended to towering heights. Twisting leaves longer than his forearm sprouted from a multitude of branches. They seemed to reach for him, beckoning to step into their dark embrace. A faint dusk cast sleeping shadows that crawled along the undergrowth.
 
@@ -146,5 +146,26 @@ Then all at once, the discord receeded. He gasped out a breath and stumbled as h
 “What the—” Marcus stopped. His words sent a billow of cold mist from his lips, and his body involuntarily shuddered as if all at once it recognized the now frigid air. He hugged himself, scrubbing his bare arms in an attempt to generate heat.
 
 Hawthorne frowned. “Something is wrong. There are no seasons in Indenos. The Stridors turned back. They sense it, too.”
+
+A quiet stillness had fallen on the Forest. Hawthorne led them further, and as they progressed, the air grew colder. Soon, the Forest was covered in a thin blanket of snow. White flakes drifted lazily from the sky.
+
+“What is going on?” Hawthorne mumbled. He held out his hand, letting the snow accumulate on his palm. “This shouldn't be possible. Unless...”
+
+“Unless what?” Marcus said.
+
+Hawthorne did not answer. Instead, he took them to the heart of the weather. They emerged into a familiar clearing. A stone monolith stood at the epicenter, nestled into a deep crater. By now, the snow was coming down in flurries of wind, gusts sent a chill through Marcus.
+
+“Is this it? Did we make it?” Marcus stepped up to the edge of the pit, peering down. It seemed deeper than the last. 
+
+“No.” A deep scowl formed on Hawthorne’s thin face. “This is a different place. I fear this weather is no coincidence. A trap has been laid. For us. Whatever magic that has done this lies on the other side of this Lith. It has bled into Indenos, drawing the Stridors near, although they dare not get too close.”
+
+“Vanen?”
+
+Hawthorne nodded grimly. “If you are to prevail, his mechanations must be put to an end.”
+
+He climbed down into the hollow, preparing to take them back to the world they knew. “Ready yourselves. I know not what we will find on the other side.”
+
+And then there was a bright flash of light.
+
 
 

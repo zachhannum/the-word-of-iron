@@ -9,11 +9,8 @@ for(const chapter of chapters) {
 	wordCounts.push([chapter.file.name, wordCount]);
 	totalCount += wordCount;
 }
-
 wordCounts.push(["Total", totalCount]);
-
 dv.table(["Chapter", "Word Count"], wordCounts);
-
 function countWords(str) {
 	return str.trim().split(/\s+/).length;
 }

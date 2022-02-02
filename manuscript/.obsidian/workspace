@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Word Count.md",
-            "mode": "preview",
-            "source": true
+            "file": "chapter_10.md",
+            "mode": "source"
           }
         }
       }
@@ -19,85 +18,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a1f7a179e9edff1",
-    "type": "split",
+    "id": "cfe1c740ba2f7f3c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "168eae41712e15ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "99b00f56e8e4784e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "f69c643a541c6663",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "30c9da5df4bf1cdd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "bb90e5997c61f999",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "3c1e715e734da261",
-    "type": "split",
+    "id": "7ff65098ded89e5d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "20c5f1fbd6cf56bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ac6437de0d794e2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Word Count.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "b62a0fa92f6e943a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "chapter_10.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "51404fe253df2160",
   "lastOpenFiles": [
-    "Word Count.md",
     "chapter_10.md",
-    "toc.md",
-    "dedication.md",
+    "Word Count.md",
+    "Outline.md",
     "chapter_9.md",
-    "chapter_8.md",
-    "chapter_7.md",
-    "chapter_6.md",
     "chapter_5.md",
+    "chapter_0.md",
+    "chapter_1.md",
+    "chapter_2.md",
+    "chapter_3.md",
     "chapter_4.md"
   ]
 }
