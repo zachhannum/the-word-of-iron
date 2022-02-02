@@ -134,4 +134,14 @@ A shrill wail rose above the tumult. A glimpse behind revealed that one of the S
 
 Marcus waited for his moment. The hairs on the back of his neck prickled as his instincts fired. *Now*. As he turned, he saw Sev. The monster was nearly upon them, mere feet away. Wicked, clawed feet stretched out before the beast, grasping for its prey. The Aeonnar, in one fell motion, pivoted, using his greathammer as a fulcrum, and delivered a blow to the Stridor’s skull. In an instant, the shrieking stopped as festering chunks of flesh and bone painted the forest floor in black blood and swirling smoke. Sev completed his turn and continued to sprint without missing a step.
 
-Protector. Destroyer. Marcus had forgotten the preternatural strength that the otherwise docile goliath possessed.
+Protector. Destroyer. Marcus had forgotten the preternatural strength that the otherwise docile goliath possessed. He was glad that Sev was on their side.
+
+The otherworldly din closed in around them. There were no beasts to single out, anymore. The rest of them seemed to have enough sense to share their prey after what had happened to the other two. *It couldn't be much further, could it?* Marcus wondered. Had Hawthorne told them how much further it was going to be? He wasn't sure. They had mere seconds before the horde of creatures overtook them. Marcus decided to focus straight ahead, eyes fixed firmly on his companions ahead of him, ignoring the ever growing symphony as it crescendoed behind him. His breath was tight in his chest, and a stitch began to claw at his ribs. He strained, his legs on fire, willing himself to go just a bit further. He could almost feel the snapping of jaws and gnashing of teeth just outside of reach. A primal hunger so overwhelming and otherworldly it frightened Marcus, and not just because it wanted to kill him. No, it was deeper than that. The creatures that dogged them were not simply predators. There was a chaos to them. A primordial aspect to them that had escaped Marcus until this singular moment. Bile rose in his throat as a feeling of utter helplessness crashed into him. A bottomless, irrational fear. The end. He was sure of it.
+
+Then all at once, the discord receeded. He gasped out a breath and stumbled as he realized that the others had slowed. He turned and realized that the creatures had fled. He could just make out their cries in the distance, quickly fading.
+
+“What the—” Marcus stopped. His words sent a billow of cold mist from his lips, and his body involuntarily shuddered as if all at once it recognized the now frigid air. He hugged himself, scrubbing his bare arms in an attempt to generate heat.
+
+Hawthorne frowned. “Something is wrong. There are no seasons in Indenos. The Stridors turned back. They sense it, too.”
+
+
