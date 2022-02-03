@@ -28,6 +28,7 @@ module.exports = {
         'chapter_8.md',
         'chapter_9.md',
         'chapter_10.md',
+        'chapter_11.md',
         // {
         //   path: 'epigraph.md',
         //   title: 'Epigraph', // title can be overwritten (entry > file),

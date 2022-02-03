@@ -15,5 +15,8 @@
 - [Chapter Eight: Refuge](chapter_8.html)
 - [Chapter Nine: Answers](chapter_9.html)
 - [Chapter Ten: The Boundless Forest](chapter_10.html)
-
+- [Chapter Eleven: Valley of Frost](chapter_11.html)
+- [Chapter Twelve: The Aratheum](chapter_12.html)
+- [Chapter Thirteen: Whispers on the Wind](chapter_13.html)
+- [Chapter Fourteen: Undying](chapter_14.html)
 </nav>

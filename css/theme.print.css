@@ -25,7 +25,7 @@ p {
     margin-bottom: 0em;
     text-indent: 1.5em;
     orphans: 2;
-    widows: 3;
+    widows: 2;
     hyphens: auto;
 }
 
