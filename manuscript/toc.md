@@ -19,4 +19,5 @@
 - [Chapter Twelve: The Aratheum](chapter_12.html)
 - [Chapter Thirteen: Whispers on the Wind](chapter_13.html)
 - [Chapter Fourteen: Undying](chapter_14.html)
+- [Chapter Fifteen: A Chance Encounter](chapter_15.html)
 </nav>
