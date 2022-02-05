@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&display=swap');
+body {
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'EB Garamond', serif;
+}
+
+hr {
+    border: none;
+}
+
+hr::before {
+    content: "✺";
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: var(--standard-font-size);
+}
+
+p {
+    font-size: 10.5pt;
+    line-height: 1.5;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    text-indent: 1.5em;
+    orphans: 2;
+    widows: 2;
+    hyphens: auto;
+}
+
+h1 {
+    margin-top: 1.5in;
+    font-size: 15pt;
+    text-align: center;
+    letter-spacing: .1em;
+    font-weight: 300;
+}
+
+h1::before {
+    content: "⁙";
+    text-align: center;
+    padding: .1in;
+}
+
+h1::after {
+    content: "⁙";
+    text-align: center;
+    padding: .1in;
+}
+
+h2 {
+    font-family: 'Alegreya SC', serif;
+    font-size: 18pt;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: .1em;
+    string-set: chapter-title content();
+    margin-bottom: .5in;
+}
+
+p:first-of-type {
+    text-indent: 0;
+}
+
+p:first-of-type::first-line {
+    font-style: italic;
+    letter-spacing: .1em;
+    font-weight: 400;
+}
+
+
+/* p:first-of-type::first-letter {
+    font-size: 2em;
+    line-height: 1;
+    padding-right: 1px;
+} */
+
+@page {
+    margin: .5in;
+    margin-top: 1in;
+    font-family: 'EB Garamond', serif;
+    @top-center {
+        font-variant: small-caps;
+        letter-spacing: .1em;
+        font-size: 11pt;
+    }
+    @top-left {
+        font-size: 10pt;
+    }
+    @top-right {
+        font-size: 10pt;
+    }
+}
+
+@page :left {
+    margin-right: .75in;
+    @top-center {
+        content: 'The Word of Iron'
+    }
+    @top-left {
+        content: counter(page);
+        padding-left: .05in;
+    }
+}
+
+@page :right {
+    margin-left: .75in;
+    @top-center {
+        content: string(chapter-title, first);
+    }
+    @top-right {
+        content: counter(page);
+        padding-right: .05in;
+    }
+}
+
+@page :nth(1) {
+    @top-center {
+        content: ""
+    }
+    @top-right {
+        content: ""
+    }
+    @top-left {
+        content: ""
+    }
+}

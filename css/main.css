@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&display=swap');
+
+.main {
+    margin: auto;
+    padding: 20px;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-size: large;
+}
+
+.title {
+   font-family: 'Alegreya SC', serif;
+   line-height: 80%;
+   font-size: 5em;
+   text-align: center;
+   margin-bottom: 0em;
+}
+
+.link-container {
+    margin: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: space-evently;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+}
+
+/*
+=====
+DEPENDENCIES
+=====
+*/
+
+.r-link{
+	display: var(--rLinkDisplay, inline-flex) !important;
+}
+
+.r-link[href]{
+	color: var(--rLinkColor) !important;
+	text-decoration: var(--rLinkTextDecoration, none) !important;
+}
+
+.text-underlined{
+    --uiTextUnderlinedLineHeight: var(--textUnderlinedLineHeight, 2px); /* 1 */
+    --uiTextUnderlinedLineGap: var(--textUnderlinedLineGap, .5rem);
+    --uiTextUnderlinedPaddingBottom: calc(var(--uiTextUnderlinedLineHeight) + var(--uiTextUnderlinedLineGap));
+
+    padding-bottom: var(--uiTextUnderlinedPaddingBottom) !important;
+    position: var(--textUnderlinedPosition, relative) !important;
+		z-index: var(--textUnderlinedZindex, 1) !important;
+
+		/*
+        1. I use pixels units because others units (em, rem, vw, vh, etc) can
+        lead to the mistake of displaying a circumcised line
+    */
+}
+
+.text-underlined::after{
+    content: "";
+    width: var(--textUnderlinedLineWidht, 100%) !important;
+    height: var(--uiTextUnderlinedLineHeight) !important;
+		background-image: var(--textUnderlinedBackgroundImage, linear-gradient(to top, var(--textUnderlinedLineColor, currentColor) 30%, rgba(255, 255, 255, 0) 45%)) !important; /* 1 */
+
+    position: absolute;
+    left: var(--textUnderlinedLineLeft, 0) !important;
+    bottom: var(--textUnderlinedLineBottom, 0) !important;
+		z-index: var(--textUnderlinedLineZindex, -1) !important;
+
+	  /*
+			1. Thank you @LB Corney. rgba(0,0,0,0) works with mistakes in Safari. So I replaxed it to rgba(255, 255 ,255, 0) 
+				 https://stackoverflow.com/questions/70330170/odd-css-differences-between-chrome-and-safari-browser/
+				 https://stackoverflow.com/questions/38391457/linear-gradient-to-transparent-bug-in-latest-safari
+	  */
+}
+
+/*
+=====
+CORE
+=====
+*/
+
+.link {
+	--textUnderlinedLineHeight: 100%;
+	--textUnderlinedLineGap: 0;
+	
+	padding-left: .75rem;
+	padding-right: .75rem;
+}
+
+.link-color-read-online {
+    --textUnderlinedLineColor: #b991d4;
+}
+
+.link-color-print {
+    --textUnderlinedLineColor: #bedb8b;
+}
+
+.link::after{
+	will-change: width;
+	transition: width .1s ease-out;
+	transform: rotate(-2deg);
+	transform-origin: left bottom;
+}
+
+.link:hover{
+	--textUnderlinedLineWidht: 0;
+}
+
+.link:hover::after{
+	transition-duration: .15s;
+}
+
+/*
+* These styles for text decoration. The demo will be work without it
+*/
+
+.link{
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.link:focus{
+	outline: 2px solid #b4c992;
+	outline-offset: .5rem;
+}
