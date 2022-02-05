@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter_11.md",
+            "file": "Outline.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "chapter_11.md",
+            "file": "Outline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,9 +73,9 @@
   },
   "active": "51404fe253df2160",
   "lastOpenFiles": [
+    "Outline.md",
     "chapter_11.md",
     "toc.md",
-    "Outline.md",
     "chapter_10.md",
     "Word Count.md",
     "chapter_9.md",

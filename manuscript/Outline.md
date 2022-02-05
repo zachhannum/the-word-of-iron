@@ -127,3 +127,8 @@ He looked down again, and then the words came pouring out. He hadn't intended fo
 The priest was silent for a moment, then smiled, the creases in his face deepening. "There is a passage in the Book of Selach I'm familiar with. 'When confronted with a block of iron, most believe it to be unchanging, immutable, and unbreakable. The iron will always be what it is, and never what it is not. However, the blacksmith sees the iron for what it can be. And with blazing ardor, he melts it down, reshaping and molding the iron into something new, of his own resolve.' I've always liked that one."
 
 The kind, knowing eyes of the priest studied Viggo. "I know not the truths of your past that make you feel as though you've strayed from some path, but I can assure you: there is no path but the one we forge ourselves."
+
+
+## Viggo hurts vanen final confrontation
+
+Viggo is knocked back against the wall. At this point he is pretty fucked, but still he gets up and picks up Fall's sword and charges Vanen on last time. Vanen catches the sword easily, turning it back on Viggo and stabbing him through the stomach. Viggo reaches behind his back with his other hand, grabbing his blacksmith's hammer that he concealed, and crushes Vanens skull with it. The gang has a heartfelt goodbye with Viggo, but he tells them to go, since Sev is already carrying Annet and they can't afford to be slow. Who knows what the corrupt priests or any other Scathe would do if they found them.
