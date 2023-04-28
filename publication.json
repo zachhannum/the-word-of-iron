@@ -6,7 +6,7 @@
   "type": "Book",
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "Zach Hannum <zacharyhannum@gmail.com>",
-  "dateModified": "2022-02-05T05:16:21.159Z",
+  "dateModified": "2023-04-28T14:05:05.415Z",
   "name": "The Word of Iron",
   "readingOrder": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "url": "chapter_1.html",
-      "title": "Chapter One"
+      "title": "Chapter 1"
     },
     {
       "url": "chapter_2.html",
@@ -69,7 +69,15 @@
     },
     {
       "url": "chapter_11.html",
-      "title": "Chapter 11"
+      "title": "Chapter Eleven"
+    },
+    {
+      "url": "chapter_12.html",
+      "title": "Chapter Twelve"
+    },
+    {
+      "url": "chapter_13.html",
+      "title": "Chapter Thirteen"
     }
   ],
   "resources": [],
