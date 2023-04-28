@@ -2,200 +2,224 @@
 tags: ['chapter']
 ---
 # Chapter Nine
-## Answers
+## Refuge
 
-The owner of *The Silver Spoon* inn was a stout, angry man. His wide face had layers of wrinkles, and he squinted at Mara with disdain. He placed a thick hand on a large, leather-bound book on the counter that he stood behind. It’s pages were yellowed and 
-folded with age.
+“Damn it,” Viggo spat.
 
-“There’s no vacancy,” he said.
+For a few moments, his curse hung in empty silence. His companions, still picking themselves up from the fight, said nothing at first, still dazed from the chaos moments before.
 
-Mara peered up at him and clasped her hands behind her back.
+“What the fuck just happened?” Sira, still sitting with her leg propped up on a stone, looked wildly around, as if one of them might have the slightest idea.
 
-“I find that hard to believe,” she said as she swept her gaze across the nearly empty common room. A lonely man sat at the far end nursing a dark bottle, graying hair falling over his face and obscuring his features. He appeared to be either asleep or dead.
+“I... Have no idea,” Marcus said, shaking his head. He walked over to the space were Vanen stood with Annet only seconds ago, waving his hand through the air as if he might stir something.
 
-The owner looked past Mara, eyeing Rykker and the rest of his party with a discerning look. “They look like troublemakers. I don’t take in troublemakers.”
+“Strange, it’s warm.”
 
-Mara reached into her pack and brought out a pouch that sagged heavily. It clinked as she emptied its contents onto the innkeeper’s countertop, triangular flat chips of glittering metal clattering against the smooth wood.
+“Strange is an understatement,” Rykker muttered. “Who *was* that man? What... What did he *do*? And why did he take Annet? And how did he know so much about Sev...”
 
-“This should be enough to rent all the rooms in your inn for a month,” Mara said, her voice tinting a shade towards frustration. “I just need three rooms for a week, and use of your private dining room.”
+The engineer trailed off, and he turned to his companion, who sat as still as a stone by the remains of the fire, eyes wavering with a faint glow. Sev looked up to Rykker, expression unchanging. “I am... an *Aeonnar*?”
 
-The innkeeper picked up one of the chips. In his hands, the piece looked miniature. His brow furrowed and he held it up to his face. He looked from the coin back to Mara with dark, suspicious eyes.
+Rykker, still shaking his head in bewilderment, placed his hand on the Aeonnar’s stoney shoulder. “I mean, it seems impossible, but it *would* explain a lot.”
 
-“It’s Gyish coin,” she noted. “I’m sorry, I haven’t had time to see a money changer since my arrival in the city. I can assure you, it’s worth what I say it is. Take it to any blacksmith and they’ll pay you handsomely for it.”
+“Did you understand what he said?” Marcus asked.
 
-The owner of the inn grumbled, then placed the coin back down on the table. “I know what it is. What are you doing with it is what I am wondering.”
+“Sort of,” Rykker hedged, rubbing the back of his neck. “I know a little of the time before the dark age, before the falling of the world, from bits of old text I’ve picked up here and there. But not much. And I never could have conceived that Sev could be that old... that must have been, what, thousands of years ago?”
 
-“I’ve been... traveling abroad, lately.”
+“How is that even possible?” Sira adjusted her position to face the Aeonnar.
 
-“That so?”
+“I have no idea.”
 
-“Indeed it is.”
+Viggo climbed to his feet, finally, wiping his hands on his pants. He sighed deeply, and felt the heavy weight of resignation set upon his shoulders. A deep ache, one that he had buried far down inside long ago, crept to the pit of his stomach.
 
-For a long moment, he simply stared. Then he glanced down at the rather large pile of coins atop the table and licked his lips. Evidently, the innkeeper’s greed surpassed his distrust. He began to collect the coins, stacking them neatly into piles ten high. He then took each stack and carefully placed them into a wooden tray on a separate counter against the wall behind him.
+“I can’t explain everything that just happened,” he said. ” But I think there is something I should tell all of you. Something that might hold great importance to what we have just witnessed.”
 
-Once he was done, he reached for something beneath the counter, retrieving two brass keys, their ends looped with lanyards made of coarse yarn.
+They turned their attention from Sev in unison, shock painted clearly on their faces.
 
-“Two rooms,” he said flatly. “Wait here, the dining room will be ready soon.”
+“Well, I haven’t always been a medic in the royal army. Or a blacksmith.”
 
-Without waiting for a response, he turned, picked up the tray of coins, and retreated into the back room.
+He walked back to the circle and sat down, rubbing his chin vigorously. After all this time, he would finally break his promise. Unleash a secret that would surely mean his death and the destruction of the life he had built so carefully for himself over the years. One that he had come to like, maybe even love, in its own right. He had at least been saving lives. All of this had almost all come undone once before, and he had managed to avoid it then. But now? He had no choice. Not after Valla. Vanen. Annet. It was too much.
+
+“Look, what I’m about to tell you, it’s something that I’ve never told anyone. Ever. You have to swear on the gods above, should they exist, not to tell a single soul what I am about to tell you.”
+
+They each nodded in turn.
+
+He must have given something away on his face.
+
+“You’ve seen something like this before, haven’t you?”, said Marcus.
+
+Viggo ignored the direct question. “A lifetime ago, I was an acolyte of the Church of the Triumvirate. I was an orphan, left on their doorstep as a baby. I grew up there. Lived my entire childhood within the walls of the holy city. It was my home. Every friend, enemy, mentor, teacher, family, I ever had was in that place. My entire world ended at the city gates. Then, one day, I saw something. Something that challenged the very nature of my reality.
+
+“I saw Magic. Real, true, magic. I wasn’t supposed to see it, and not only did it fundamentally change my understanding of the world, it destroyed it. They banished me from the church and threatened that if I should ever reveal what I had seen, to anyone, they would kill me. What I saw today, what Vanen did, what it *felt* like, was exactly what it felt like the last time, all those years ago. Vanen, somehow, I don’t know, was using the old Magic. The Magic that was lost millennia ago.”
+
+For a moment, they sat in stunned silence. Marcus looked troubled. Rykker stared inquisitively at Viggo with a newfound interest.
+
+Sira broke the silence. She spoke softly. “Viggo, I’m so sorry that happened to you. I can’t even imagine what that must have been like.”
+
+“It’s okay. It was a long time ago,” Viggo said. “Feels like another life.”
+
+“But why Annet?” Rykker asked.
+
+“I think I might know.” Wincing, Sira leaned forward to stand up.
+
+“You’re leg—” Viggo began.
+
+“It’s okay,” she made a placating gesture, and straightened her leg, still wrapped in a splint. “It feels much better.”
+
+“But how—”
+
+She picked at the wrappings and unraveled them, loop by loop until the splint fell away. “It’s stiff, but I should be able to walk on it.”
+
+“But your leg was shattered,” Viggo cried, incredulous. “It was going to take months to heal, and there was a good chance you wouldn’t be able to walk on it ever again.”
+
+“After everything we’ve seen today, this is what shocks you?” she asked. “Annet was always special.”
+
+“Of course,” he said, understanding dawning on him. Just like the woman he had seen all those years ago. Annet was just like her. Just like Vanen.
+
+Sira nodded.
+
+Marcus glanced at Rykker, then Sira. “What? What is it?”
+
+“Ever since she was a little girl, Annet could do things. Inexplicable things,” Sira explained. “We called it her Gift. Every bird or small creature that would wander into the Prioriem’s courtyard, injured, she would take care of them. No matter how hurt, she would have them good as new in mere hours. At first, Gareth wasn’t sure what to make of it, but when her *gifts* started to manifest further, he started secluding her away. And when her Mother died, well. I’m surprised she had as many friends as she did.
+
+“There was one summer,” Sira said, and a slow smile crept on to her face as she did, “when that girl got so sick of being stuffed indoors, that she ran away from home. Gareth had the guards in a frenzy. He was furious. They searched the city, high and low, to no avail. Eventually, they found her trudging through the forest outside the city, three days worth of food in a pack and nothing else. She was trying to walk to Achenar to find some wizard she read about in a storybook to help her control her powers.”
+
+Her smile faded, and her eyes slid to Gareth’s corpse that still lay collapsed on the stone floor. Her brow furrowed, and suddenly she looked very tired. “He *did* love her, in his own way. Maybe not the right way, but he did his best.”
+
+“What’s going to happen to her?” Rykker said. “What do we do now?”
+
+“I don’t know,” Viggo said. “I don’t know what we should do. But we have to do something.”
+
+“I think I can get us back to Fastaar’s camp from here,” offered Marcus.
+
+“What are the odds they haven’t packed up and left by now?”
+
+“Rykker has a point,” said Viggo. “Whether Fastaar made it to Valla in time or not, they likely have broken camp at this point. And with Valla gone...”
+
+“To Senna, then?” Sira asked.
+
+Marcus shrugged. “It *is* the closest city. Any survivors from Valla will probably end up there. Fastaar and the rest of the army, too. From there, we can regroup, rejoin the army if possible. After that, I’m not sure.”
+
+The rest of the party agreed to the plan, and decided to leave at first light. Sleep did not come to Viggo that night, and so he spent the hours before dawn keeping watch over the camp, peering into the smoldering embers of the dying fire.
+
+—
+
+The way to Senna was not particularly difficult, but was made more-so by their avoidance of any well-traveled roads. Marcus thought it was for the best, in case the Antuzans employed scouts along main paths to look for survivors of the siege. So they stayed deep within the forest, Marcus’ expert tracking preventing their course from straying.
+
+On the third day, they intersected with a small group of refugees, heading in the same direction. Citizens of Valla. Dirt-covered and weary though they were, they offered bright smiles to Viggo and his companions. Even though they had just lost their entire world, he thought, they still keep their heads high. The people of the southern province were hard to break.
+
+Over the next few days, they crossed paths with more Vallan survivors, and with each encounter their cluster grew. Before long, just shy of a hundred folk walked together through the trees.
+
+It seemed that more had made it out of the city than they initially realized. Perhaps Fastaar had come through after all, staving off the enemy long enough for some to escape fate at the hands of the Empire.
+
+On the sixth day since the fall of Valla, their division of refugees arrived at city of Senna.
+
+Senna, the twin-sister city of Valla, looked much the same from the exterior, with tall gray-beige walls, round turrets evenly dispersed in either direction. They came to one of the gates, a tall wood-iron arch, where a small garrison of guards stood watch atop a parapet.
+
+As they approached, Sev pulled the hood of his cloak over his head, covering most of his features in shadow. It took Marcus a moment to realize that he was hiding himself. Over the past few weeks, he had grown accustomed to the Aeonnar’s look and size. Even the refugees from Valla had not taken much notice at first—though they had more pressing concerns, to be fair—and by the end of their journey to Senna barely gave him a passing glance. Still, he supposed it always payed to be cautious around strangers. Likely it was standard practice for Rykker and Sev wherever they went.
+
+Marcus pushed his way to the front of the crowd and called up at them. “Hello there! My name is Captain Marcus Wyr of the Royal Army. With me are refugees from Valla. The Antuzan Empire has invaded Ilris, and Valla has fallen. You must open your gates to any and all survivors. They have no where else to go.”
+
+A few of the guards ducked out of view in response, and for a few moments there was no response.
+
+“Please,” Marcus shouted. “Many of them are tired, and haven’t eaten in days. There are only—”
+
+His words were cut off by a series of metallic clanks. The doors of the gate slowly opened.
+
+On the other side, Marcus was met by the steady gaze of a guard who held up a hand. “Halt. You may go no further until such time that you are searched and deemed safe for entry into the city.”
+
+Marcus raised his hands in a placating gesture. “Of course. We don’t want any trouble. Many of these people are unarmed. They seek only food and shelter.”
+
+He took a few steps back, gesturing for his companions to step to the side.
+
+“Let’s wait here,” he said. “I want to make sure that everyone gets into the city safely.”
+
+The entire process took less than an hour. Once everyone was inside, Marcus breathed a sigh as he and his companions watched the Vallan refugees shuffle into the city. After all the destruction and death they had surely seen less than a week ago, they still held together. He marveled at their resilience.
+
+“Where will they go?” Rykker asked.
+
+Sira tore her eyes from the procession, and Marcus caught a look of sadness or anger, or perhaps both. “Some of them may have family here to stay with, or kept enough coin on them to pay their way. For those that have neither, the guard will set up refugee camps. It won’t be much, but it’ll be enough. For them.”
+
+Marcus felt a pang of sympathy for her. In the midst of all that had happened to them, he’d forgotten that she *was* Vallan. *Her* people—friends, family, loved ones—had just lost everything.
+
+He placed a hand on her shoulder. One corner of her mouth twitched up in a half-hearted smile, acknowledging the gesture of good will.
+
+“I mean it,” she said. Muscles tensed in her jaw and her eyes went dark. “It will be enough. We Vallans are not so easily broken. The Antuzans *will* get what they are owed. That much I can promise.”
+
+For a moment, standing in her armor, blue cloak of Valla, now tarnished with mud from the road, trailing behind her, Sira looked as if she would take on the legions of Antuza by herself. Then she deflated with a sigh. “I suppose it can wait, though. After everything, a hot meal and a warm bed sounds better than revenge right now.”
 
 ***
 
-Rykker’s stomach growled audibly as the sweet aroma of hot food wafted into the dining room. The last decent meal he had was back in Valla, and he’d barely even appreciated it since he was so focused on his research at the time. He resolved to enjoy every 
-bite of this one.
+The streets of Senna were more narrow than the wide two-lane roads of Valla. Buildings along either side of the main thoroughfare clustered tightly together—some sharing walls, others leaving even narrower, dark alleyways.
 
-A server entered through a door towards the back of the room carrying a large round tray filled with plates of steaming food. The server placed the large bowls of food at the center of the table, then gave everyone a clean plate of their own, along with silverware. While the innkeeper had been boorish with their accomodations, Rykker could not deny that the display was impressive.
+It was nearly sundown, and the occasional two-story building cast long shadows across the street, leaving strips of golden sunlight between them. It would be dark soon, so Marcus led them deeper into the city in search of an inn for the night. What little change they had left between them would not afford them much.
 
-Not one for pretense, Rykker reached for one of the plates, helping himself to a large portion of the dish. It seemed to be some kind of breaded and fried meat, coated in a sticky red sauce, laying atop a bed of long grains. He took a bite, and although the steam filled his mouth with heat, the food was delicious. He gave a start when Marcus nudged his arm.
+It was not long before he sensed it.
 
-“Oh,” he said through partially full mouth. “Sorry.”
+Years of trekking the Northern wilds and being in the army had honed this particular sense of his. The hairs on the back of his neck stood on end, and he felt a prickling sensation behind his ears.
 
-He slid the serving plate to Sev, who sat to his right. Sev looked at the plate for a moment, then passed it along. Rykker had never seen Sev eat anything, or even give any indication that he could.
+They were being followed.
 
-Others around the table took more serving trays from the center, helping themselves then passing them around in a similar fashion. The meal included a variety of cooked vegetables, a different kind of meat, this one grilled with a brown gravy, and a dark, 
-fluffy bread, round in shape and mostly hollow on the inside.
+*Not this again*.
 
-For a time, they ate in silence, only the occasional clink and scrape of silverware against ceramic. It seemed to Rykker that the others felt similarly to him—it had been a long while since they had had a moment of peace. A moment to relax.
+Without looking back, he spoke in a quiet tone, just barely audible enough to be heard by the rest of the group. “We’re being followed.”
 
-He studied Mara, who sat at the head of the table. She had taken some food, but had barely eaten any of it. Rykker wasn’t sure what to make of her. In the presence of Vanen, there had been an overwhelming sense of *wrongness*. Marcus and Viggo had mentioned it as an almost physical reaction, and while it hadn’t been that extreme for him, there *was* something. Some feeling that he had. To him, the feeling was akin to walking through a house that was on a slant, as if it hadn’t been built properly. Something broken that couldn’t be fixed unless it was destroyed. On the other hand, Vanen had known what Sev was. An Aeonnar. He seemed to have answers to questions that Rykker had been asking since the day he had dug Sev from the dirt.
+Rykker groaned, making no attempt to hide his surprise.
 
-If Mara was anything like Vanen, he wasn’t sure the answers would be worth the cost. She didn’t give him the same feeling, though. She *was*, admittedly, rather odd, but not in the same, dark way. Perhaps she, too, had knowledge of the Aeonnar and the years before the Dark Age. Her eyes had lingered on Sev for quite some time during their encounter in the alley, though that was not uncommon for folk who saw Sev for the first time. Still, if there was even a chance he could learn more, he had to try.        
+“Shh!” exclaimed Viggo, nearly as quiet as Marcus. “Not so loud. What’s you’re move?”
 
-Shortly after the food was gone, Mara cleared her throat, making a curt noise. All eyes in the room turned towards her, and she tilted her head slightly, flashing a brief smile.
+*What should they do?* Marcus feared that if their stalker was anything like Vanen, there wasn’t much they *could* do. Run and hide? Stand and fight? Neither option seemed like it had a winning chance. The streets at this time of the evening were bustling. What if innocent bystanders got hurt? Or saw something they shouldn’t see? Marcus had no way of knowing how secretive Vanen, and others like him—if there *were* others like him, were prone to being. If word got out that the Antuzans had allies that could create portals and crush your windpipe with their bare hands... he shuddered to think of the consequences.
 
-“Thank you all for agreeing to come with me,” she said. “I know your experiences with strangers of late have been... less than cordial.”
+“Just keep walking, then follow my lead.”
 
-At that, Viggo snorted. “You could say that.”
+He led them a few more blocks down the main street, waiting for the crowds to thin at least a little bit. Then, without warning, he moved. He pivoted on his heel and dashed down one of the narrow alleys.
 
-“I can assure you that I have *nothing* to do with Vanen and his ilk,” she continued. “In fact, my associates and I act in opposition to his organization.”
+The walls here were claustrophobic, less than an arm span. It was also dark—the light from the setting sun did not make it’s way to the dark recesses between the buildings. Marcus ran deeper into the alley, and only when he came to a stop did he turn. His party was fast on his heels, but their would-be assailant was no where to be seen.
 
-“Organization,” Marcus asked, leaning forward in his chair. “There are more out there like him?”
+“Did we lose them?” puffed Rykker between ragged breaths. Cleary the engineer did not have much in the way of athletic ability.
 
-Mara grimaced. “I’m afraid so.”
+“No, I don’t think so.”
 
-“By the trinity,” he muttered, shaking his head. “What do they want?”
+“How can you be sure?” asked Viggo.
 
-“That *is* the golden question, isn’t it?” she said. “One that I’m not entirely qualified to answer. There are great machinations at work in Asdel, far greater than the kidnapping of any one person. There are, though, puzzle pieces that may fit the larger 
-whole. I admit, I’m still working out how they fit together.”
+Without giving an answer, Marcus pushed past them, taking a few steps closer back towards the main road. He could still feel them. He didn’t know *how*, but he could. He always could.
 
-“Alright”, Viggo chimed. “But what can you tell us? Why did they take Annet? What do they want with her? Did it have something to do with her Entra?”
+*Enough games*. *This ends now*.
 
-The air fell silent, and Mara drummed her fingers against the wooden table. She stared at Viggo for a long moment. “It seems the medic knows more than he’s let on. Where did you hear that word?”
+“Come on!” he shouted. “I know you’re there, just around the corner. We’re not afraid of you!”
 
-He floundered, clearly losing his nerve. “I overheard someone say it a long time ago.”
+A dry, feminine laugh rattled down the alley.
 
-“Before I answer,” she said, speaking slowly. “There is something you must understand.”
+A short figure, cloaked in flat gray robes, stepped from around the corner. Their face was obscured by a wide hood. As they stepped closer, delicate hands reached up to remove the hood, revealing a pale face, round as the moon, framed by thick black curls of hair, tumbling down to her shoulders. Her eyes, a bright amber, seemed to pierce into Marcus’ very soul. There was an otherworldly look about her—something that he could not place. It was as if she had all the wisdom of a battle-hardened marshal behind those eyes, but she could not have been more then twenty-five.
 
-She swept her eyes across the room and received a chorus of nods in return.
+“I’m sorry,” the woman said with a smile. “I did not mean to startle you. To be frank, I’m surprised you noticed me at all.”
 
-“What we are to discuss in this room is not to leave it. I tell you only because Vanen has let you live, and clearly taken an interest in you. It is likely that you will cross paths with him again, and it is my hope that this knowledge will aid you in his 
-defeat. However, if the general public were to learn these secrets, it would cause nothing short of mass panic. Another war with Antuza is bad enough without needing to worry about monsters masquerading as humans come to steal you away.”
+“We’ve been through too much already to deal with more of these games,” Marcus spat. “Who the hell are you?”
 
-Another round of nods.
+At this, her pencil-thin eyebrows threatened to jump off her head. “My, I don’t know what I did that would warrant such hostility.”
 
-“The truth is, whether you like it or not, you are now a part of this. Each and every one of you.”
+“It’s not what you did, it’s what your partner, ally, or whoever did,” Viggo growled from behind Marcus.
 
-“We don’t even know what *this* is,” Rykker blustered. The woman was nearly as bad as Vanen, dancing around answers without ever getting to the heart of anything.
+The woman frowned, looking down as if suddenly distracted by something. When she swept her gaze yet again over the group, her frown deepened into a scowl. “Wait, where is the girl?”
 
-“I’m getting to that.” Mara ran her fingers through her hair and sighed. “Where to begin? Vanen, the creature that you met and fought with, is what we call a Scathe. Human, once, but no longer. The Scathe are both more than, and less than human, in some ways. They mostly retain their human form. Physically, at least. But their *humanity*, much of that is lost in their transformation.”
+*She’s talking about Annet*.
 
-“Transformation?” asked Viggo.
+“Or the Lord Governor, for that matter,” she continued, more to herself than to Marcus. “I don’t understand how this could have happened. You were supposed to escort them out of Valla safely.”
 
-“The Scathe are born of a pact with a terrible being, not of this world. This pact changes them, but it also gives them a particular aptitude for the arcane.”
+“Yeah, well, clearly that didn’t happen,” Marcus said flatly.
 
-“Arcane, like... magic?” Len had been quiet for most of the meal and conversation, but now she leaned forward eagerly.
+Something was different about this woman. Around Vanen, Marcus had felt almost sick, as if looking at the man--creature, or whatever he was—was enough to give one vertigo. She, on the other hand, had no such effect. Clearly she had some of the same knowledge that Vanen did, but he got the impression that she was genuinely surprised that Annet and Lord Gareth were not with them, which meant she did not know that Vanen had taken Annet.
 
-”*Exactly* like magic.”
+“They’re gone,” Viggo said. Evidently the medic had the same intuition about trusting her that Marcus did. “A man that went by the name of Vanen killed the Lord Governor and took Annet.”
 
-Marcus tilted back in his chair and puffed out his cheeks, then blow out the air with a sigh. “This is beyond me.”
+Pure rage and disgust played across the woman’s face. She turned away, pinching the bridge of her nose. “By the old gods above, that’s the worst news I’ve heard all week. This doesn’t make any sense...”
 
-Mara stood up and began to pace her side of the room, hands clasped behind her back. “I know this is a lot to take in.”
+“Who are you, exactly?” asked Marcus.
 
-“Where did they come from?” asked Rykker.
+After a moment she looked up, and her face was placid again, the anger wiped away in an instant.
 
-“To answer that, we must first go back to a time when magic flowed freely in Asdel.” At this Mara almost sounded wistful. “Before Ilris, and the Antuzan Empire, before the Dark Age, even, great empires ruled, and the Veritas Guild, an order of great magi had influence on nearly all six continents across the world. Then, in an event known as the Excidium, the world collapsed, taking many empires, including the guild itself, with it. Many theologists and scholars alike believe that this incident coincides with the exodus of magic from the world, or as it was known then, Entra.
+“My name is Silmendara,” she said. “But you can call me Mara.”
 
-“It was thought that this mass departure of magic was like a great blip, as if all the sudden all the lakes and rivers and oceans of Entra in the world were all of the sudden dried up, never to be seen again. But that is not how it works. It’s more like... the faucet was turned off. What we already had we could keep, but very slowly, it would drain from the world, spiraling into nothingness.
+“Well, Mara, how did you know we were going to bring the Lord Governor and his daughter to Senna?”
 
-“For now, at least, not all Entra is gone. But where it was once in abundance, now is terribly scarce, found only in the smallest of quanitites. Residuals of an age long past. To most, almost gone and *gone* are indistinguishable. But for some, they have an extraordinary gift, and aptitude to sense these residuals, and, in some cases, harness them. Annet is one of such disposition.
+She bit her lip in thought. “There is much I need to explain, I think. This turn of events changes things a great deal, and to be honest I’m not quite sure how to proceed—which if you knew me well at all, is terribly out of character.”
 
-“The Scathe, are, by many definitions, an perversion against the natural order of the world as we know it. I do not know when they came about, only that it was some time after the Dark Age began. They worship a dark god—it has gone by many names, but the one you may be familiar with is Odeth. A Scathe is created when a human makes, willingly, a deal with Odeth. With this pact, they are free to *consume* the Entra within others in a way that gives them power far beyond mortal capabilities. What their greater scheme is, I do not know. But one thing is clear: they are growing in numbers. All across Ilris and beyond, individuals like Annet are being taken. Individuals that I have kept a careful eye on—and yet they manage to spirit them away all the same. I fear 
-the capabilities of a Scathe with the innate talent of someone like Annet.”
-
-“So, what? They are going to turn her into one of these... things?” asked Len.
-
-“There is a catch. To become a Scathe, the human must be willing.” Mara sighed. “Though they do have... compulsory ways of getting what they want.”
-
-She sat up a little straighter in her chair. “Annet is strong. They can’t force her to do anything.”
-
-Mara grimaced, clasping her hands together. “There is ulterior motive for the individuals they hunt. If they cannot be coerced into joining their ranks, then I’m afraid they are *consumed*.”
-
-They way she said the word made even Rykker shiver. He did not know whether she meant it in the metaphorical or literal sense. Maybe it was both.
-
-“Annet must be saved,” she said. “But these events will start a chain reaction. The empire invading Ilris. The Scathe growing at an exponential rate. A war is brewing. A war that will be fought on two fronts.” Mara paused, holding her gaze on each of them 
-for a moment. “And all of you in this room are involved in some way.”
-
-Rykker laughed. He couldn’t help it. He tried to stifle it, and he snorted through his nose.
-
-Mara did not react. “You realize this is not a joke.”
-
-“No, no... I know,” Rykker said. His fit was over, and he regained his composure. “It’s not that. I completely believe you, after what we’ve been through this past few days.”
-
-“Then what?”
-
-“It’s just... you are pitching this whole *thing* about being important after telling us the ‘world is in danger’. It’s just so rote. I have a life. I have a job. Don’t get me wrong, I feel bad for the girl, but in what capacity could I even help? What makes you think I want any of what you’re selling?”
-
-Mara smiled at that. “You have a very skeptical mind.”
-
-“Thank you.”
-
-“But you are also very quick to blind yourself. I’m not selling you anything, Rykker. I think you will find that you more than most are tied to what will unfold, whether you like it or not.” She addressed the table again. “I know each and every one of you 
-will have your own doubts and fears at what I have to say. But I also see in each of you a hunger. A drive to know. Let me assure you that the path I offer has what you seek.”
-
-Rykker thought about Sev. About the countless years he had spent trying to understand where he came from. Libraries all across Ilris—access to Universities and personal collections of scholars, governors, and socialites. None of it had turned up a shred of insight into the nature of Sev’s being. And then, after all that, Vanen had just *known*. How much knowledge was locked away, hidden within this clandestine world of Magic and monsters? The possibilities of what he could learn where limitless.
-
-“I guess I’ve got nothing better to do,” he said, adopting a mock casual tone.
-
-“You’re quick to change your tune.” Viggo eyed him with a look of distrust.
-
-Still, though, Rykker could tell his heart wasn’t in it. The craving was there, too, behind his squint.
-
-“We can’t just desert the army,”  asserted Marcus. “Unless you want to be court marshalled when you get back to Achenar.”
-
-“The city of Valla is turned to rubble. It would not be uncommon to assume you are simply another casualty of the seige,” offered Mara.
-
-“We’ll be back eventually.”
-
-“Perhaps. Though the world may look differently by the time you do.”
-
-“What exactly are you asking of us?”
-
-Mara tapped her finger along her jaw. “Now that is the question, isn’t it? In the simplest of terms: Find Annet. Save her from a fate worse than death.”
-
-“Simple terms, yeah.”
-
-“I said simple, not easy. At this point, you all know the conditions of what I ask. For what you seek—knowledge, power—I offer in exchange for your complaisance. If that is not enough, know that you will be serving a greater good. I am not alone in my crusade against the rising darkness to the West. You could think of it as joining a sizeable but decentralized organization dedicated to fighting the war that your armies cannot. A terrible fate awaits your lands at the hand of the Empire and the Scathe should you not act.”
-
-Before anyone could answer, a sharp, formal knock rattled the door.
-
-“Ah, about time,” Mara said. She stood and skated to the door. “I was beginning to worry.”
-
-A tall, slender man wearing a plain but well-cut long coat stepped into the room, bird-like eyes surveying the room with a swift efficiency.
-
-“Hawthorne, I’m glad you could join us,” said Mara. “This is the cohort from Valla I told you about.”
-
-Hawthorne placed his hands behind his back and gave a curt bow in the direction of the table. “The honor is mine.”
-
-“I’ve told him he doesn’t have to do that here,” Mara dismissed. “He’s from Sohntu. One of my associates and an invaluable asset to our cause.”
-
-After a round of introductions, it was Rykker that spoke next. “Let’s say we agree to do this. What’s our next move? I saw that... rift Vanen opened. One second they were there, then nothing. Gone. We have no way of tracking them down.”
-
-At this, Hawthorne stepped forward smoothly, like a reed blowing in the wind. Mara had offered him a chair, but he refused. He spoke softly, but with a deep reverberating basso. “Our intelligence has narrowed Vanen’s location to a region south of Saurkar, in Western Antuza.”
-
-Saurkar was a long way from Senna. Rykker had never been to the continent of Kador, but it lay across the narrow Plys Sea and required the charter of a ship to make the journey. “Wouldn’t that take weeks?”
-
-“If you’re taking a direct route, yes. But we will not be,” explained Hawthorne.
-
-“What does that mean?”
-
-“It’s easier to show than to explain.” Hawthorne spoke with a finality that indicated he would say no more on the matter.
+“I think I speak for all of us in saying that we would very much like some answers,” Marcus said.

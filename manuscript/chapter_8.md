@@ -2,232 +2,216 @@
 tags: ['chapter']
 ---
 # Chapter Eight
-## Refuge
+## The Man With Gray Eyes
 
-“Damn it,” Viggo spat.
+Talking to Annet came easily to Viggo. It had been a long time since he had become such fast friends with anyone. Although they seemingly had nothing in common, they related to each other a great deal. They had a common view of the world, a common empathy, an understanding.
 
-For a few moments, his curse hung in empty silence. His companions, still picking themselves up from the fight, said nothing at first, still dazed from the chaos moments before.
+While she grew up in relative lavishness compared to him, she too felt purposeless, as if the actions of her life did not matter. Sure, her father was the Lord Governor of Valla, and held a great deal of influence over the southern province, but she shared none of that power. Especially now that Valla was gone.
 
-“What the fuck just happened?” Len, still sitting with her leg propped up on a stone, looked wildly around, as if one of them might have the slightest idea.
+“Through all of it,” she said softly. ”It always felt like he cared more about everyone else then he did me.”
 
-“I... Have no idea,” Marcus said, shaking his head. He walked over to the space were Vanen stood with Annet only seconds ago, waving his hand through the air as if he might stir something.
+“That must have been hard,” he said, reaching out to squeeze her hand.
 
-“Strange, it’s warm.”
+She looked at him and smiled, and Viggo felt a warmth come over him that he could not remember feeling.
 
-“Strange is an understatement,” Rykker muttered. “Who *was* that man? What... What did he *do*? And why did he take Annet? And how did he know so much about Sev...”
+She asked him about his past, and he told her of his time as a blacksmith before coming to the army. She looked as though she wanted to ask more, about where he came from, but the look in his eyes must have convinced her otherwise. He was grateful for that. He could not talk to anyone about that time.
 
-The engineer trailed off, and he turned to his companion, who sat as still as a stone by the remains of the fire, eyes wavering with a faint glow. Sev looked up to Rykker, expression unchanging. “I am... an *Aeonnar*?”
+Not ever.
 
-Rykker, still shaking his head in bewilderment, placed his hand on the Aeonnar’s stoney shoulder. “I mean, it seems impossible, but it *would* explain a lot.”
+They talked for what felt like hours, about everything and nothing, all while meandering through the empty rooms of the building. Only the stone had survived the millennia, and most of the rooms they passed through were barren save for the ever-encroaching presence of the wilds creeping in from the open windows and crevices.
 
-“Did you understand what he said?” Marcus asked.
+Eventually, they came so far that they had circled back around to the atrium. Viggo could hear voices up ahead. He recognized Marcus’ steady voice, but it was laced with tension. Another voice that he did not recognize, light and airy, answered. The sound of it made Viggo’s hairs stand on end and his heart beat quickly. He turned to stop Annet from going any further. She was already frozen in place, a mask of fear plastered to her face.
 
-“Sort of,” Rykker hedged, rubbing the back of his neck. “I know a little of the time before the dark age, before the falling of the world, from bits of old text I’ve picked up here and there. But not much. And I never could have conceived that Sev could be that old... that must have been, what, thousands of years ago?”
+Together, they slowly backed around the corner, out of earshot. They breathed a collective sigh.
 
-“How is that even possible?” Len adjusted her position to face the Aeonnar.
+“That voice...” she trailed off, shaking her head. They were close enough that Viggo could see the sweat glisten on her brow in spite of the cool night air that permeated the halls.
 
-“I have no idea.”
+“I feel it too,” he said. “Something about it makes my skin crawl.”
 
-Viggo climbed to his feet, finally, wiping his hands on his pants. He sighed deeply, and felt the heavy weight of resignation set upon his shoulders. A deep ache, one that he had buried far down inside long ago, crept to the pit of his stomach.
+“It’s like... waiting for something bad to happen.”
 
-“I can’t explain everything that just happened,” he said. ” But I think there is something I should tell all of you. Something that might hold great importance to what we have just witnessed.”
+“How could anyone have found us here? It doesn’t make any sense.”
 
-They turned their attention from Sev in unison, shock painted clearly on their faces.
+“What do you think they want?”
 
-“Well, I haven’t always been a medic in the royal army. Or a blacksmith.”
+“I... I don’t know.” He had felt this before, the cold pit of unexplainable fear in his stomach. In the square in Valla, when he was sure someone had been watching him. He had brushed it off then as his over-active imagination, but what if *they* had come for him? But why now, after all these years? He had done what they asked. If they were here for him, he couldn’t let Marcus and the others get involved.
 
-He walked back to the circle and sat down, rubbing his chin vigorously. After all this time, he would finally break his promise. Unleash a secret that would surely mean his death and the destruction of the life he had built so carefully for himself over the years. One that he had come to like, maybe even love, in its own right. He had at least been saving lives. All of this had almost all come undone once before, and he had managed to avoid it then. But now? He had no choice. Not after Valla. Vanen. Annet. 
-It was too much.
+“I’m going to go out there.”
 
-“Look, what I’m about to tell you, it’s something that I’ve never told anyone. Ever. You have to swear on the gods above, should they exist, not to tell a single soul what I am about to tell you.”
+Annet grabbed his arm. “What? Don’t be stupid. We should leave. I don’t know what this is all about, but it isn’t worth staying around for.”
 
-They each nodded in turn.
+He met her eyes and pulled away from her. “I just—I have to, okay? Stay here, out of sight. Don’t come out no matter what. If something happens, just run. Go east, you should eventually find the road to Senna.”
 
-He must have given something away on his face.
+His legs carried him around the corner and towards the atrium before she had a chance to respond.
 
-“You’ve seen something like this before, haven’t you?”, said Marcus.
+The owner of the lilting voice was an extraordinarily tall man dressed in dark leather armor. His head was shaved bald, an easy smile spread across his face when he noticed Viggo. The man took languid strides across the atrium, staying clear of the campfire, his dull gray eyes scanning the room hungrily. When his eyes passed over Viggo, his stomach roiled with discomfort. He stayed near the door, placing himself just beyond the entrance, and placed his hand lightly on the handle of his hammer.
 
-Viggo ignored the direct question. “A lifetime ago, I was an acolyte of the Church of the Triumvirate. I was an orphan, left on their doorstep as a baby. I grew up there, lived my entire childhood within the walls of the holy city. It was my home. Every friend, enemy, mentor, teacher, family, I ever had was in that place. My entire world ended at the city gates. Then, one day, I saw something. Something that challenged the very nature of my reality.
+“Oh look, another one.”
 
-“I saw Magic. Real, true, magic. I wasn’t supposed to see it, and not only did it fundamentally change my understanding of the world, it destroyed it. They banished me from the church, and threatened that if I should ever reveal what I had seen, to anyone, they would kill me. What I saw today, what Vanen did, what it *felt* like, was exactly what it felt like the last time, all those years ago. Vanen, somehow, I don’t know, was using the old Magic. The Magic that was lost millenia ago.”
+“I’m going to ask you again,” Marcus said through gritted teeth. “What are you doing here? How did you find us?”
 
-For a moment, they sat in stunned silence. Marcus looked troubled. Rykker stared inquisitively at Viggo with a newfound interest.
+“One question at a time, please,” the man tisked, wagging his pointer finger. “And you are asking all the wrong questions, besides. You haven’t even asked me my name, yet.”
 
-Len broke the silence. She spoke softly. “Viggo, I’m so sorry that happened to you. I can’t even imagine what that must have been like.”
+Viggo had never seen Marcus so flustered. His body was coiled like a spring into a fighter’s stance, and he circled the room with the man, keeping his body between the man and their campsite. Rykker, Sev, Sira, and Gareth all sat by the fire, sitting uncomfortably.
 
-“It’s okay. It was a long time ago,” Viggo said. “Feels like another life.”
+Swallowing the lump in his throat, Viggo said, “Who are you?”
 
-“But why Annet?” Rykker asked.
+The man’s smile widened. “Finally, someone who knows how to play the game. You can call me Vanen.”
 
-“I think I might know.” Wincing, Len leaned forward to stand up.
+“What do you want?”
 
-“You’re leg—” Viggo began.
+“Now, now, not so fast. It’s my turn.” Vanen stopped circling the room and began to approach the campfire.
 
-“It’s okay,” she made a placating gesture, and straightened her leg, still wrapped in a splint. “It feels much better.”
+Marcus took a step towards him. “Don’t.”
 
-“But how—”
+Vanen held up his hands in a placating gesture. “Please, I’m unarmed. What harm could I possibly cause you?”
 
-She picked at the wrappings and unraveled them, loop by loop, until the splint fell away. “It’s stiff, but I should be able to walk on it.”
+“The crossbow on your back,” said Viggo.
 
-“But your leg was shattered,” Viggo cried, incredulous. “It was going to take months to heal, and there was a good chance you wouldn’t be able to walk on it ever again.”
+He laughed, then unstrapped the crossbow and held it up. “This old thing? I only carry it as a warning to would-be thieves and cretins. I couldn’t hit you where you stood.”
 
-“After everything we’ve seen today, this is what shocks you?” she asked. “Annet was always special.”
+When they did not respond, he laughed again and shrugged. “So be it.” He set the crossbow on the ground and kicked it across the room. It slid to a stop by Viggo’s feet.
 
-“Of course,” he said, understanding dawning on him. Just like the woman he had seen all those years ago. Annet was just like her. Just like Vanen.
+“Happy now?”
 
-Len nodded.
+Marcus was silent a moment, and Viggo thought he would still deny the man’s request. Eventually, though, the captain stood aside begrudgingly.
 
-Marcus glanced at Rykker, then Len. “What? What is it?”
+“My deepest thanks,” Vanen bowed with a quick flourish as he passed Marcus. “I’m famished. It has not been easy to follow you all this way. The lot of you are slippery, I’ll grant you that much.”
 
-“Ever since she was a little girl, Annet could do things. Inexplicable things,” Len explained. “We called it her Gift. Every bird or small creature that would wander into the Prioriem’s courtyard, injured, she would take care of them. No matter how hurt, she would have them good as new in mere hours. At first, Gareth wasn’t sure what to make of it, but when her *gifts* started to manifest further, he started secluding her away. And when her Mother died, well. I’m surprised she had as many friends as she did.
+He crouched by the fire and leaned over the pot, breathing the aromas of the soup deeply. He produced a bowl from his traveling bag and ladled a modest helping of liquid into it. He blew across the bowl, then gingerly took a sip. He licked his lips, then nodded. “Not bad, not bad at all. Could use more salt, but I’m sure you took what you could from the Prioriem’s kitchens.”
 
-“There was one summer,” Len said, and a slow smile crept on to her face as she did, “when that girl got so sick of being stuffed indoors, that she ran away from home. Gareth had the guards in a frenzy. He was furious. They searched the city, high and low, 
-to no avail. Eventually, they found her trudging through the forest outside the city, three days worth of food in a pack and nothing else. She was trying to walk to Achenar to find some wizard she read about in a storybook to help her control her powers.” 
+Vanen sat down on one of the stone blocks of rubble they had dragged from the corner of the room and continued to sip from the bowl.
 
-Her smile faded, and her eyes slid to Gareth’s corpse that still lay collapsed on the stone floor. Her brow furrowed, and suddenly she looked very tired. “He *did* love her, in his own way. Maybe not the right way, but he did his best.”
+“What are the five of you doing with the Lord Governor of Valla? Or rather, should I say ex-Lord?” Vanen said in between sips. His gray eyes shifted to Gareth, who sat across the fire. The Lord Governor did not look particularly keen on answering.
 
-“What’s going to happen to her?” Rykker said. “What do we do now?”
+Marcus sat down across from Vanen, his eyes never leaving the interloper. He was silent for a moment, the said, “He asked us to escort him from the city.”
 
-“I don’t know,” Viggo said. “I don’t know what we should do. But we have to do something.”
+Vanen smiled. He waved the bowl enthusiastically, and drops of soup splattered to the floor.
 
-“I think I can get us back to Fastaar’s camp from here,” offered Marcus.
+“Now you’re getting it,” he said excitedly. “A perfect answer.”
 
-“What are the odds they haven’t packed up and left by now?”
+Viggo circled around the campsite and sat parallel to Marcus, the three of them creating a triangle around the fire.
 
-“Rykker has a point,” said Viggo. “Whether Fastaar made it to Valla in time or not, they likely have broken camp at this point. And with Valla gone...”
+“Why are you here?” He tried to keep his voice from wavering.
 
-“To Senna, then?” Len asked.
+“I’m here for the same reasons you are,” Vanen shrugged. “I too have been given a task.”
 
-Marcus shrugged. “It *is* the closest city. Any survivors from Valla will probably end up there. Fastaar and the rest of the army, too. From there, we can regroup, rejoin the army if possible. After that, I’m not sure.”
+“That doesn’t really answer the question.”
 
-The rest of the party agreed to the plan, and decided to leave at first light. Sleep did not come to Viggo that night, and so he spent the hours before dawn keeping watch over the camp, peering into the smoldering embers of the dying fire.
+“Alright, I suppose that’s fair. I’d better not cheat at my own game.” Vanen’s cool gray eyes locked on to Viggo, and a chill slivered up his spine. “I’m looking for someone.”
 
-—
+*Me. He’s looking for me*. But why? He’d forgotten that part of his life. Cut it out, just as they had asked. And now that his past had returned, the only question is what was to become of him.
 
-The way to Senna was not particularly difficult, but was made more-so by their avoidance of any well-traveled roads. Marcus thought it was for the best, in case the Antuzans employed scouts along main paths to look for survivors of the siege. So they stayed deep within the forest, Marcus’ expert tracking preventing their course from straying.
+“I must say, the lot of you make quite the ensemble. If I weren’t on such a pressing errand, I would insist on learning all about you. Especially you, my towering friend.” He winked at Sev, as if the two of them were in on a joke the rest of the room were unaware of. “If I’m not mistake, there’s an Aeonnar in my midst, now that is *very* interesting. The stories you must know.”
 
-On the third day, they intersected with a small group of refugees, heading in the same direction. Citizens of Valla. Dirt-covered and weary though they were, they offered bright smiles to Viggo and his companions. Even though they had just lost their entire world, he thought, they still keep their heads high. The people of the southern province were hard to break.
+At this, Rykker sat up. “A what? Do you know what Sev is?”
 
-Over the next few days, they crossed paths with more Vallan survivors, and with each encounter their cluster grew. Before long, just shy of a hundred folk walked together through the trees.
+A belly laugh shook Vanen in his seat. He mockingly wiped a tear from his eye. “Don’t tell me you’re in the company of Aeonnar without even realizing it. How quaint.”
 
-It seemed that more had made it out of the city than they initially realized. Perhaps Fastaar had come through after all, staving off the enemy long enough for some to escape fate at the hands of the Empire.
+Rykker gritted his teeth. “Just answer the question.”
 
-On the sixth day since the fall of Valla, their division of refugees arrived at city of Senna.
+“Now, now. That information seems all too precious for a silly game such as this.”
 
-Senna, the twin-sister city of Valla, looked much the same from the exterior, with tall gray-beige walls, round turrets evenly dispersed in either direction. They came to one of the gates, a tall wood-iron arch, where a small garrison of guards stood watch atop a parapet.
+“That’s not fair.”
 
-As they approached, Sev pulled the hood of his cloak over his head, covering most of his features in shadow. It took Marcus a moment to realize that he was hiding himself. Over the past few weeks, he had grown accustomed to the Aeonnar’s look and size. Even the refugees from Valla had not taken much notice at first—though they had more pressing concerns, to be fair—and by the end of their journey to Senna barely gave him a passing glance. Still, he supposed it always payed to be cautious around strangers. Likely it was standard practice for Rykker and Sev wherever they went.
+Vanen seemed to consider, then said, “I suppose it would be a shame to end it so soon, so I’ll tell you this much: the Aeonnar are eternal constructs made by the magi of old—those of the Veritas Guild. They were made to serve the ancient magi, but when the world fell, they vanished. You’re friend there might very well be the last of them. Truly rare and exceptional.”
 
-Marcus pushed his way to the front of the crowd and called up at them. “Hello there! My name is Captain Marcus Wyr of the Royal Army. With me are refugees from Valla. The Antuzan Empire has invaded Ilris, and Valla has fallen. You must open your gates to any and all survivors. They have no where else to go.”
+Rykker seemed to understand what Vanen was talking about, though Viggo had never heard of this guild.
 
-A few of the guards ducked out of view in response, and for a few moments there was no response.
+“I was right,” Rykker muttered. He sat back, dazed.
 
-“Please,” Marcus shouted. “Many of them are tired, and haven’t eaten in days. There are only—”
+Sev gave no perceptible reaction, but his eyes seemed to glow furiously. The Aeonnar stared intently at Vanen.
 
-His words were cut off by a series of metallic clanks. The doors of the gate slowly opened.
+“Lord Governor,” Vanen’s gaze drifted to Gareth. “You have a daughter, do you not?”
 
-On the other side, Marcus was met by the steady gaze of a guard who held up a hand. “Halt. You may go no further until such time that you are searched and deemed safe for entry into the city.”
+The shift in conversation startled Viggo. He barely had time to process everything. What was this man’s true game? All he had done was dance around their questions, never reaching the true heart of why he was here. At first, Viggo had thought that perhaps the man did not know him by his face, and was trying lure him into confessing. To what, exactly? But now, he asked about Annet. It made no sense. No sense at all.
 
-Marcus raised his hands in a placating gesture. “Of course. We don’t want any trouble. Many of these people are unarmed. They seek only food and shelter.”
+The Lord Governor flustered, and his eyes went wide. He looked to Viggo, who just stared hard at him. He hoped that Gareth understood his meaning. Vanen’s intentions with Annet, though unknown, were likely not virtuous. She could still get away.
 
-He took a few steps back, gesturing for his companions to step to the side.
+Gareth’s face sagged into his hands, and he let out a rather convincing sob. “Yes, I did. She did not make it out of the city alive.”
 
-“Let’s wait here,” he said. “I want to make sure that everyone gets into the city safely.”
+His shoulders shook with continued sobs. He was quite good, actually, Viggo thought. The Lord Governor gave a passing performance of his daughter’s demise.
 
-The entire process took less than an hour. Once everyone was inside, Marcus breathed a sigh as he and his companions watched the Vallan refugees shuffle into the city. After all the destruction and death they had surely seen less than a week ago, they still held together. He marveled at their resilience.
+“Is that so?” Vanen’s brow furrowed, and he narrowed his eyes at the sobbing man. He apparently was not convinced. “I don’t like being lied to.”
 
-“Where will they go?” Rykker asked.
+“She’s not here,” Viggo spat. “What are you really after?”
 
-Len tore her eyes from the procession, and Marcus caught a look of sadness or anger, or perhaps both. “Some of them may have family here to stay with, or kept enough coin on them to pay their way. For those that have neither, the guard will set up refugee 
-camps. It won’t be much, but it’ll be enough. For them.”
+Vanen sighed and looked down at his now empty soup bowl. “I think the game is over.”
 
-Marcus felt a pang of sympathy for her. In the midst of all that had happened to them, he’d forgotten that she *was* Vallan. *Her* people—friends, family, loved ones—had just lost everything.
+He stood up and stretched, languid as a cat. “I think I’ll take a stroll around this old place. See what sorts of mysteries I might uncover.”
 
-He placed a hand on her shoulder. One corner of her mouth twitched up in a half-hearted smile, acknowledging the gesture of good will.
+Marcus and Viggo stood in unison. His hand found the comforting wood of his hammer in an instant.
 
-“I mean it,” she said. Muscles tensed in her jaw and her eyes went dark. “It will be enough. We Vallans are not so easily broken. The Antuzans *will* get what they are owed. That much I can promise.”
+“I don’t think so,” Marcus said quietly. “We’re not done here.”
 
-For a moment, standing in her armor, blue cloak of Valla, now tarnished with mud from the road, trailing behind her, Len looked as if she would take on the legions of Antuza by herself. Then she deflated with a sigh. “I suppose it can wait, though. After everything, a hot meal and a warm bed sounds better than revenge right now.”
+Vanen laughed again, cold and bitter this time, the facade of warm amiability stripped away. “You’ve got quite the wrong idea of what’s going on here. I’m afraid you’re out of your depth. I find you all very interesting, and that’s the only reason I’m going to give you this chance. Step aside, and I’ll let you leave here. Don’t push me.”
 
-***
+He turned his backs to them as if to leave. He made it two steps before Marcus charged, lunging forward with incredible speed.
 
-The streets of Senna were more narrow than the wide two-lane roads of Valla. Buildings along either side of the main thoroughfare clustered tightly together—some sharing walls, others leaving even narrower, dark alleyways.
+Vanen turned slowly, and flicked a wrist towards the charging soldier.
 
-It was nearly sundown, and the occasional two-story building cast long shadows across the street, leaving strips of golden sunlight between them. It would be dark soon, so Marcus led them deeper into the city in search of an inn for the night. What little 
-change they had left between them would not afford them much.
+“Stop.”
 
-It was not long before he sensed it.
+The single word resonated throughout the room, and seemed to vibrate somewhere deep inside Viggo. The sound of it, a slimy feeling, trickled into his ears and down his spine. It was disturbing and overwhelming and sickeningly familiar.
 
-Years of trekking the Northern wilds and being in the army had honed this particular sense of his. The hairs on the back of his neck stood on end, and he felt a prickling sensation behind his ears.
+Marcus froze in place, arms stretched out before him. His legs still trailed behind him, one knee bent mid-step. His body was suspended in an impossible position, and his face was a mask of pain and frustration.
 
-They were being followed.
+Vanen turned, and leaned forward, mere inches from Marcus. “What did I tell you? The. Game. Is. Over. I’m doing you a favor.”
 
-*Not this again*.
+Viggo had to act. Now, while he was distracted. He rushed forward. Vanen was completely oblivious, too busy taunting Marcus to notice a blindside attack. Hammer raised, he struck a fierce blow in an arc, straight down on top of his enemy’s head. He was thrown off balance surprised that his weapon found only air.
 
-Without looking back, he spoke in a quiet tone, just barely audible enough to be heard by the rest of the group. “We’re being followed.”
+Vanen now stood a foot away from him, grinning wildly. His fist met Viggo squarely in the stomach, sending him sprawling to the ground with preternatural strength.
 
-Rykker groaned, making no attempt to hide his surprise.
+His breath abandoned him, and his vision swam. He gasped for air, but his lungs would not cooperate. It felt as though he had been struck by a sprinting horse.
 
-“Shh!” exclaimed Viggo, nearly as quiet as Marcus. “Not so loud. What’s you’re move?”
+He blinked, attempting to restore his vision in time to see Sev swing his warhammer.
 
-*What should they do?* Marcus feared that if their stalker was anything like Vanen, there wasn’t much they *could* do. Run and hide? Stand and fight? Neither option seemed like it had a winning chance. The streets at this time of the evening were bustling. What if innocent bystanders got hurt? Or saw something they shouldn’t see? Marcus had no way of knowing how secretive Vanen, and others like him—if there *were* others like him, were prone to being. If word got out that the Antuzans had allies that could 
-create portals and crush your windpipe with their bare hands... he shuddered to think of the consequences.
+As if in slow motion, Vanen sidestepped the attack with ease, then casually swept his leg out, catching Sev’s feet. The goliath tumbled awkwardly to the ground.
 
-“Just keep walking, then follow my lead.”
+Viggo coughed, and spat blood and mucus onto the dusty ground. He wobbled to his feet, forcing his world to stay upright. Slowly, he limped towards Vanen, who still looked down at the fallen Aeonnar with a mixture of curiosity and pleasure.
 
-He led them a few more blocks down the main street, waiting for the crowds to thin at least a little bit. Then, without warning, he moved. He pivoted on his heel and dashed down one of the narrow alleys.
+Viggo swung again, targetting his foe’s center of mass. This time, Vanen had to slap the blow away with and open palm. He moved blindingly quick, and Viggo was powerless as his hand closed around his throat. Viggo’s feet left the ground, and he stared down with bulging eyes at the man who was going to kill him.
 
-The walls here were claustrophobic, less than an arm span. It was also dark—the light from the setting sun did not make it’s way to the dark recesses between the buildings. Marcus ran deeper into the alley, and only when he came to a stop did he turn. His 
-party was fast on his heels, but their would-be assailant was no where to be seen.
+Vanen’s smile vanished, and Vanen’s gray eyes flared to a startling silver. “You’ve given me a great deal of entertainment today, so I’ll do you the favor of ending it quickly.”
 
-“Did we lose them?” puffed Rykker between ragged breaths. Cleary the engineer did not have much in the way of athletic ability.
+It became impossible to breath as his hands tightened around Viggo’s throat. His hammer clattered to the floor. He tried in vain to pry at Vanen’s vice-like grip. It was no use. The world blackened at the edges, and everything began to dull. His arms hung limply at his sides. Dimly, the thought crossed his mind that no mere human could kill in such a manner. Strange, what one thought of in death. His head felt light, as if it might float to the ceiling. He heard the sound of screaming, a woman’s voice. But it was so far away.
 
-“No, I don’t think so.”
+“Stop it, please! Don’t hurt him!”
 
-“How can you be sure?” asked Viggo.
+The force around his throat vanished, and the floor rushed up to meet him. He collapsed in a heap, unable to move. Gravel and stone scratched at his cheeks, the hard ground bruising his hands and elbows. Air filled his lungs again, and he gulped it in hungrily. Dark circles spotted his vision, but he could just make out Annet standing in the doorway to the Atrium, barely ten strides away. Something in her hand glinted in the moonlight and she waved it with a sharp gesture. He tried to call out, to tell her to run, but all that came out was a strangled cough.
 
-Without giving an answer, Marcus pushed past them, taking a few steps closer back towards the main road. He could still feel them. He didn’t know *how*, but he could. He always could.
+Gareth, frantic, shouted what Viggo could not. “Run! Go, now!”
 
-*Enough games*. *This ends now*.
+Vanen’s back was now turned from them, facing Annet. Viggo tried to move, to get up, do something, anything. But he could not. He could only watch.
 
-“Come on!” he shouted. “I know you’re there, just around the corner. We’re not afraid of you!”
+“Well, you must be Annet. Back from the dead, are we?” Vanen strode towards the dooryway.
 
-A dry, feminine laugh rattled down the alley.
+“Stay back,” Annet warned. There was no hint of hesitation or fear in her voice.
 
-A short figure, cloaked in flat gray robes, stepped from around the corner. Their face was obscured by a wide hood. As they stepped closer, delicate hands reached up to remove the hood, revealing a pale face, round as the moon, framed by thick black curls 
-of hair, tumbling down to her shoulders. Her eyes, a bright amber, seemed to pierce into Marcus’ very soul. There was an otherworldly look about her—something that he could not place. It was as if she had all the wisdom of a battle-hardened marshal behind 
-those eyes, but she could not have been more then twenty-five.
+“Do you honestly think that thing is going to do you any good? I’m not going to hurt you, I promise. Just put the knife down.”
 
-“I’m sorry,” the woman said with a smile. “I did not mean to startle you. To be frank, I’m surprised you noticed me at all.”
+“I said stay back.”
 
-“We’ve been through too much already to deal with more of these games,” Marcus spat. “Who the hell are you?”
+She yelped as Vanen came for her and thrust the dagger towards him. In the blink of an eye, Vanen brushed her arm to the side. He wrenched the dagger from her grip and grabbed hold of her in a single motion.
 
-At this, her pencil-thin eyebrows threatened to jump off her head. “My, I don’t know what I did that would warrant such hostility.”
+She struggled, but his grip was firm, and she could not break free.
 
-“It’s not what you did, it’s what your partner, ally, or whoever did,” Viggo growled from behind Marcus.
+Vanen, still as calm as the moment he had stepped in to the atrium, licked his lips, surveying the room. “What a mess I’ve made.”
 
-The woman frowned, looking down as if suddenly distracted by something. When she swept her gaze yet again over the group, her frown deepened into a scowl. “Wait, where is the girl?”
+Viggo heard a grunt and a rustle of canvas, and he turned in time to see Lord Governor Gareth holding Rykker’s crossbow. Though the man did not shake with rage, his eyes burned with cold fury. He took aim, laying the weapon across his arm, carefully, and fired.
 
-*She’s talking about Annet*.
+Steel clinked, and the bolt buried itself in the stone a few feet from Vanen. He twirled the dagger with his free hand, gaze fixed on Gareth, and with a careless flick of his wrist, sent the dagger in a vicious arc.
 
-“Or the Lord Governor, for that matter,” she continued, more to herself than to Marcus. “I don’t understand how this could have happened. You were supposed to escort them out of Valla safely.”
+The sharp steel met its mark, vanishing deep within the Lord Governor’s chest. For a moment, he stood in shock, gaping at the filigreed hilt of his daughter’s dagger, then he collapsed to his knees.
 
-“Yeah, well, clearly that didn’t happen,” Marcus said flatly.
+“It’s been such fun,” Vanen said. “But we must be off now.”
 
-Something was different about this woman. Around Vanen, Marcus had felt almost sick, as if looking at the man--creature, or whatever he was—was enough to give one vertigo. She, on the other hand, had no such effect. Clearly she had some of the same knowledge that Vanen did, but he got the impression that she was genuinely surprised that Annet and Lord Gareth were not with them, which meant she did not know that Vanen had taken Annet.
+“No!” Viggo croaked, stumbling to his feet.
 
-“They’re gone,” Viggo said. Evidently the medic had the same intuition about trusting her that Marcus did. “A man that went by the name of Vanen killed the Lord Governor and took Annet.”
+Vanen spoke in unintelligible mumbles. A sensation hit Viggo like a wave, strange yet familiar. It washed over him, roared in his ears, and then vaporized, leaving a thick fog in its wake.
 
-Pure rage and disgust played across the woman’s face. She turned away, pinching the bridge of her nose. “By the old gods above, that’s the worst news I’ve heard all week. This doesn’t make any sense...”
+The man with gray eyes made a slicing motion with his hand, and the air itself cracked and was torn asunder, leaving a gaping maw of blackness in its place. Dragging Annet behind him, he stepped into the darkness and vanished. The split in the air stitched itself back together. For a moment, the air wavered, like heat waves rising from hot stone, and then there was nothing.
 
-“Who are you, exactly?” asked Marcus.
+All at once, Marcus stumbled forward, grabbing for a body that was no longer there. He collapsed to the ground awkwardly.
 
-After a moment she looked up, and her face was placid again, the anger wiped away in an instant.
-
-“My name is Silmendara,” she said. “But you can call me Mara.”
-
-“Well, Mara, how did you know we were going to bring the Lord Governor and his daughter to Senna?”
-
-She bit her lip in thought. “There is much I need to explain, I think. This turn of events changes things a great deal, and to be honest I’m not quite sure how to proceed—which if you knew me well at all, is terribly out of character.”
-
-“I think I speak for all of us in saying that we would very much like some answers,” Marcus said.
+Gareth let out a wet cough. Viggo stumbled to the back of the room, falling to his knees at the Lord Governor’s side, and saw that the man was already dead. He lay on his back, hands clutching the hilt of the dagger.

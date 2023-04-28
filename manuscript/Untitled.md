@@ -173,3 +173,8 @@ Kallas sat up and put her arms around her chest, grasping her reformed skin, whi
 “No,” Annet said. She rubbed her face as if to clear off the rest of the sickness. “I can keep going.”
 
 She would go as long as she could. Heal as many as she could.
+
+
+
+
+

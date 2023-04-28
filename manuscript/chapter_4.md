@@ -2,205 +2,236 @@
 tags: ['chapter']
 ---
 # Chapter Four
-## The Siege of Valla
+## Midnight Prioriem
 
-The citizens of Valla were suffering. Viggo could see the evidence in their faces. They looked more like trapped animals than people. Surrounded on all sides by the enemy, forced to suffer the slow agony of starvation and disease—It was a wonder that stayed sane. It had been the better part of a month since Antuzan forces closed in. An entire month for food stores to run low, and clean sources of water to run dry. Prices were increasing, eventually leaving the poorest of them without a means to eat.        
+Cold and damp. Those were the only feelings that Rykker could muster as he walked through the dark tunnel. He had wanted to stay behind. He *really* had. But he was going to be damned if he let Marcus go alone. They had been walking for over an hour now, and the uneven rocky terrain was causing his feet to ache.
 
-He walked down a cobbled street, towards the marketplace they had passed the night before. *What in Teldur’s name was he doing here*? When he had awoken early that morning, he left the Prioriem without letting anyone know. He had just walked right out the 
-front doors, without stopping to talk to anyone or tell them where he was going. Why, he couldn’t say. He only knew he had to move his legs. The distraction helped him think.
+He glanced back at Sev, who was strolling down the tunnel, easily keeping pace with the rest of the group. It must be nice not to feel any discomfort. *Oh, Sev, who followed him no matter how stupid the idea. Fantastic idea, Rykker. Follow the crazy, one-handed soldier into a dark cave. I’m right behind you.*
 
-The isolation, the *captivity* was crushing the common people of Valla. In a matter of minutes, he spotted dozens of grimy country folk who had been forced from their homes outside the city. Used to the open spaces of their farms, they now clustered in small pockets, seeking shelter in alleys and under rudimentary tents. Their bodies were thin—beginning to waste away to nothing. The sight was enough to make him shake with frustration.
+His mind, struggling to distract from the dark, rocky tunnel, wondered for the thousandth time since finding him what compelled Sev. Humans, of course, had biological drives at their core. Some semblance of design by nature that gave them purpose. But Sev wasn’t human. He had been designed by *someone*. Or *something*. Every since he had uncovered the automaton—he never really had worked out *what* Sev really was—they became inseparable. Why had Sev *chosen* him? Simply because he was the first person Sev saw? He unconsciously fingered the ring on his right middle finger, the one he had also found amongst the artifacts uncovered that day. Sev remembered nothing from his time before Rykker had awoken him.
 
-They could evacuate through the passage, if the council allowed it. Make their way north, or perhaps west to Cenna. Could he be sure, though, that they would be safe? Who was he anyway to determine the fate of so many lives?
+Marcus’ rough voice cut through the silence, disrupting his train of thought. “I think I see something up ahead.”
 
-A feeling of helplessness threatened to overtake him. It was familiar, like an old enemy, or maybe friend, that he was long acquainted with. There were many times in his life in which he had faced circumstances beyond his control. The mirror showed a very 
-different man than five years ago. Those experiences had shaped who he was today. He supposed this one would, too.
+*He said that a quarter of an hour ago*. As they got closer, however, the unnatural rock gave way to man-made stone. The stones were rough-hewn and looked old, but they were better than the uneven, natural rock. It also meant that they were approaching what he hoped was civilization. After spending all night in the forest it was all he could hope for. *Thank the Trinity*.
 
-He sighed and continued onward, towards Founder’s Square, an outdoor pavilion a few blocks away from the Prioriem. Before retiring last night, Len had mentioned that this was one of the few marketplaces that still operated in the city. When he arrived, he 
-found that many of the merchant stalls were still deserted. Only a few remained open, selling the most basic of necessities—dried meats, hard cheeses, breads, and alcohol. Not many could afford much else, given the circumstances. Though, few people were actually purchasing any goods. Even here, in one of the wealthier parts of the city, peasants and beggars alike filled the square. Most loitered near the public sitting areas, looking for reprieve. Some, however, were hoping one of the merchants would take pity and provide hand-outs. So far, none had.
+The passageway led them to a set of stone stairs that spiraled up out of view. There did not seem to be any other way.
 
-He bought a small bottle of cheap ale for an exorbitant amount of gold from one of the vendors, exhausting a sizeable portion of his reserves. It was still early, but his flask had run out again last night. He took a long pull from the bottle. The liquid was lukewarm, but the familiar flavor eased him.
+“Onwards and upwards, I suppose.” Marcus turned back, giving a nonchalant shrug.
 
-A quiet bench near a statue depicting Vallandra herself became the ideal spot for him to nurse his drink. She stood tall and proud, sword thrust upwards in a salute that bespoke adventure and triumph. Too bad her city is probably going to be sacked soon, he thought. He wondered if is mood would improve or worsen with the alcohol.
+“It’s not like we have a choice at this point,” muttered Rykker.
 
-Dark thoughts brewed in his mind as he swigged the warm ale. Worse, then. All throughout the city, people struggled against the oppression of the siege. And yet the leaders of Valla refused to act. A decision, *any* decision, would be better than nothing. 
-It disgusted him. In his experience, those in power rarely cared about the common folk. The theme seemed common among Ilrian nobility. They acted in their own interests, rather than the interests of the people they swore to serve.
+They ascended the stairs, and as they did the air grew slightly warmer—though it still retained the stale, slightly mildew quality that reminder Rykker of weeks-old bread.
 
-For a time, he sat in the square, watching people come and go through the marketplace, buying what they needed—if they could afford it—to survive. They always walked away with too little for too much.
+Eventually, the stairs came to a trapdoor in the ceiling, abruptly blocking their path. There was a handle on the door, and Marcus pulled on it with no success. The door seemed to be sealed shut.
 
-“I don’t know why, but I knew I’d find you here.”
+“Let me see.” Rykker squeezed past and examined the door. “There must be some kind of latch. If this really was used for smuggling, the smugglers would have wanted a way to seal off their escape route.”
 
-Viggo turned to see Len, her azure armor significantly more disheveled than the night before.
+After examining the door itself to no avail, he moved his attention to the stone walls surrounding them. There he spotted a brick that stood out from the others, ever so slightly a different gray then it’s siblings. He felt it, and found that he could push the brick into the wall.
 
-“I like the solitude.” He shrugged, sliding over to make room for her on the bench. “Did you even sleep last night?”
+A soft click emanated from the trapdoor. Rykker gave the handle a pull, and with little effort, the door swung down, thudding loudly against the top stair. The sound echoed down the tunnel. He cringed. “Sorry about that.”
 
-“Would you believe me if I told you I went to bed wearing this?” She gestured to her armor, giving a half-smile—though her eyes looked serious.
+As it turned out, the trapdoor led them to an empty basement. The cold and damp properties of the cave were also present here, and he made his way hastily to the wooden staircase that he spotted on the far side of the room. He needed some fresh air.
 
-“You know, I think I would. You seem the sort.” He took another sip from his glass, then offered it to her. She shook her head, eying at the bottle. “Hey, it’s good stuff. The lukewarm temperature really brings out the flavor.”
+He ascended the stairs, his companions following close behind, and found himself in a modest but comfortable living room, sparsely decorated with wooden furniture.
 
-“I’m starting to think we are kindred spirits when it comes to dry sarcasm, but I think I’ll pass.” She sat down beside him, resting her arm casually on the back of the bench. They sat in companionable silence for a few moments.
+Across the room was a cozy dining nook. An elderly man sat at a table, spoon halfway to his lips, his eyes wide with shock as he noticed Rykker standing in the living room.
 
-She looked up at the statue that stood over them. “You know, she supposedly founded this city to out-do her sister, Cennadra. The story goes that each of them attempted to one-up the other, until one day they both founded cities, claiming that theirs would outshine the other.”
-
-“I don’t think I’ve heard that one,” Viggo said. “I’m also familiar with the twin sister story—that much is the same. The way I’ve heard it told, though, is that the cities were founded to maintain balance. Each sister, and by extension each city, needed one another. One could not have been established without the other.”
-
-“A very Caeteran way of looking at it. You’re not some religious fanatic, are you?”
-
-He shook his head. “No, far from it. Just something I learned growing up.”
-
- “They’re all just silly children’s stories in the end, I suppose,” she said. “I’m sure Vallandra and Cennadra were wonderful siblings.”
-
-For a few moments neither of them spoke. A cool breeze blew through the square, welcome in the hot autumn weather. As he surveyed the market, something strange caught his eye in an alleyway across from where they were sitting. A cloaked figure lurked in the shadows of a building. And it appeared be watching him. He could almost feel a tangible malice emanating from the alley. His heart began to beat faster.
-
-“Do you see that? Over there. In the alley straight across the way.” Throngs of people milling through the square obfuscated their view.
-
-She looked towards where he was pointing and squinted. “I… don’t see anything. What was it?”
-
-He looked again, and sure enough the figure was gone, the malicious aura along with it. Viggo shook his head in disbelief. “I swear on the sands that I saw someone over there. They looked shady. It felt like they were watching us.”
-
-“Are you sure you should be drinking that stuff?” She arched an eyebrow at him, glancing down at the bottle.
-
-“Probably not,” he admitted, setting the drink aside. “But I know I saw something over there. It felt... wrong.”
-
-She stood up and arched her back in a stretch. “Well, I *am* captain of the guard. If a citizen has a concern, it’s my *duty* to investigate.”
-
-She marched across the square, Viggo trailing in her wake.
-
-The alley, as it turned out, was completely deserted. Not a trace of the shadowy figure remained. If it had ever actually existed at all. A quick investigation of the area yielded no evidence of any kind. Maybe he *had* just imagined it.
-
-“Look, maybe you saw someone, maybe you didn’t,” Len said as she finished poking at a particularly dirty set of rags piled into one corner of the alley.
-
-“I... I don’t know. It was just a quick glimpse.” It was true that he didn’t get a good look, but he had *felt* something. He couldn’t explain away the feeling. Eerily, the wrongness had seemed familiar to him. That frightened him more than anything.      
-
- “Fact is, even if someone really was there, snooping around an alleyway—while it is kinda creepy—isn’t really a crime. Maybe someone was just confused at the Ilrian soldier loitering in the square drinking expensive alcohol,” she said, a hint of mocking in her tone.” We should be getting back now anyways. We’ve got larger concerns. The council met again this morning.”
-
-Viggo, taking one last glance back down the alley, not sure what he was hoping for, turned to go. They left the dark shadows of the alley, heading back into the main pavilion.
-
-“Let me guess. More indecision?”
-
-“You’re starting to get the hang of politics, I see.” She gave another half-smile, but this time it contested with a grimace.
-
-They began their stroll back to the Prioriem, making small talk, trying to avoid the proverbial shadow that loomed over their heads. He realized with dismay that he’d left his drink on the park bench. *Damn, that was an expensive ale*.
-
-The rumbling basso of a horn sounded throughout the city, drowning out their conversation. It persisted for a few moments before stopping. The sound bounced off the walls of buildings, reverberating loudly.
-
- “What in the hell was—“ Viggo’s voice was drowned out by a second blast of the horn. It was distant, but still carried a tremendous volume of sound throughout the city.
-
- Len held up a hand in a wait-a-minute gesture. A few moments later, a third horn rang out.
-
-“Damn it. Damn it all!” She said. “Come on, we’ve got to move.” She grabbed his arm and pulled him forward, walking with a brisk stride. There were other citizens in the street, many of whom began to scramble into the nearest building, looking panicked.   
-
- “What is it?” He asked.
-
- “I wonder what it’ll be this time!” Len shouted into the air, ignoring his question. Her pace increased to the point where she was nearly jogging, and Viggo struggled to keep up. “Hurry up,” she called without looking back.
-
-Before he could ask again, he heard a low rushing sound coming from high above. He stared in shock as a flaming ball of rock hurtled over their heads in a wide arc. The distance was hard to guage, but his best guess was no more than a span or two across. With a thundering impact, the projectile crashed into a building a few hundred paces down the street ahead of them, causing the roof to collapse in on itself; a burst of flames snaked into the sky, and a cloud of embers sprang forth into the air.
-
-Oh. *Oh gods above. This is bad.*
-
-“Oh, Trinity’s *fucking* sake,” Len said. “They’re much closer than before!”
-
-“Much closer to what?” Viggo shouted as another fireball collided with another buliding, this time to their right. People screamed. Shouts could be heard from all over, crying out names, yelling urgently, rising to a caucophony that became unintelligible. 
-
-“The Prioriem,” Len shouted over the din.
-
-In that moment, Viggo realized what direction they were headed, his feet carrying him without thought. The Prioriem.  It’s courtyard was only a block away. The Antuzans were trying to *bomb* the Prioriem.
-
-He heard the sound of a third fireball crash into the street, no more than a hundred paces behind them. A harrowing scream, unlike anything Viggo had ever heard, pierced through the veil of sound around him.
-
-He turned to look back, nearly stumbling in the process, and could see a young girl on her hands and knees. By some miracle the fireball had missed her—had it landed a few feet to one side, she would have been crushed. He watched as she tried to crawl closer to the point of impact, but the rock was still on fire, and the heat was too intense. She shied back, tears streaming down her face.
-
-*No time to think*. He pulled himself away from Len, pivoted, and sprinted back towards the girl. Len called out behind him, but his attention already focused ahead. His feet flew, and he skidded to a stop in front of the massive crater. He had misjudged. 
-The rock was closer to three or four span across, about the size of a horse-drawn carriage.  He caught a glimpse of a body underneath the rock, crushed beneath the weight. An outstretched hand peeked from below, now blackened from the fire. It seemed to be reaching for the girl. Only his years of medical training allowed him to keep his composure. Who was it? Her Mother? Father?
-
-Tearing his eyes from the sight, he scooped the girl up in his arms and ran for the nearest building. At first she tried to pull away, back towards the crater. Towards the body that lie underneath. He kept running, and eventually she gave up, clutching him tightly. Another fireball crashed into the second floor of the building he ran towards, causing it to explode into rubble. *Shit*. He pivoted, diverting their path, and dashed for Len, standing outside the gates of the Prioriem, eyes wide, waving her arms frantically.
-
-They raced to the gate, through the courtyard, and finally into the old building. Len closed the doors behind them, and a sudden quiet filled the space around them. The clamor outside was shut out, leaving a heavy silence. Another crash shook the Prioriem.
-“Follow me,” Len said. “There’s a basement that should keep us safe.”
-
-Viggo followed Len as they navigated their way to safety, down a flight of steep stairs that was hidden in one of the kitchen pantrys. The girl had buried her face into is chest, grabbing him so tight it was hard to breathe.
+“Who in the hell are *you*?” the man cried incredulously.
 
 ***
 
-The basement turned out to be an entire furnished floor—extra bedrooms, living spaces, and even a library. Len explained that the space had been used to harbor fugitives during the collapse of the Sovereignty. This city seemed to have fragmented memories of the old world everywhere.
+The man—who called himself Renold—*insisted* on calling the city guard, although Marcus had repeatedly assured him they meant no harm.
 
-The entire Council of Valla and their families, Lord Governor Gareth Finn and his daughter Annet, Marcus, Rykker, and Sev, and the entirety of the staff had already taken refuge below. They sat in one of the parlor rooms, scattered across a mishmash of chairs that they had pulled together. Conversation was sparse, most sat huddled in small groups, talking nervously.
+He had nearly fallen out of his chair when Sev and the engine came into view. Rykker signaled for Sev to put up his hood. It usually helped a little bit. He powered down the engine and stowed it away.
 
-It was strange to be in such company. He currently sat in the same room as the most important citizens of Valla. Something about seeing them sit about and worry as normal people struck him as odd. It humanized them, if slightly. They were trapped in this city just as much as the rest of them. Whatever bed they chose to make, they would lie in it all the same.
+Warning them to stay where they were, as if the old man could have done anything about it, Renold stopped a guard that was passing by on patrol. The guard was surly, with an unfriendly scowl that seemed permanently etched onto his face. Once Marcus explained who they were, his frown deepened even further—if that were at all possible—and left, to Renold’s dismay, to go find his captain.
 
-He sat the girl sat down in a chair next to him, and she finally released her grip, a vacant expression on her face. Who *had* the body been underneath the rock? He shuddered. To lose someone important at such a young age. He hadn’t ever even known his parents, which was the pleasant scenario by comparison.
+They waited for an excruciatingly long time, especially since Renold refused to share some of the soup he had been eating, before the captain of Valla’s city guard arrived.
 
-Len brought the girl some water and asked her what her name was. She took one sip, responded “Mel” and then returned to her empty staring. Len tried to pry more out of her, but Mel simply ignored her.
+Sira had dark hair, tied into thick braids that came down to her waist. She bore the deep blue of Valla, adorned with half-plate that looked like it was put to good use. A large sword hung from her hip, and she carried a shield on her back.
 
-Viggo—looking for a distraction—noticed Annet, sitting across the parlor talking quietly with her father. She was only slightly younger than him, he guessed. She was also beautiful. The though was probably innapropriate, considering their situation, but the thought barged into his mind, without regard for social propriety. Given her father’s looks, her beauty surprised him. She was, in fact, taller than her father, and had none of his stocky features. Her lively green eyes were their only shared feature. With a start, he realized that she was staring back at him with a discerning look. He pulled his gaze away, scratching the back of his head sheepishly.
+She eyed the four of them with an inscrutable expression for a moment. She talked slowly, as if still trying to process what she saw. “So, the four of you are from the Royal Military—a part of High Marshal Fastaar’s regiment, to be precise—that has been squating outside our doorstep for the last five days. You found an *ancient* smuggling tunnel and followed it all the way here, to Valla, a city which is currently under siege by a sizeable Antuzan legion.”
 
-After an hour of waiting, Len left to investigate the situation top-side. She returned a few minutes later to give the all clear. The bombardment had stopped.
+“Um—yes, that sounds about right,” Marcus said. “Our mission is to assess Valla’s situation, help any way we can, and report back.”
 
-Together, they made their way back upstairs. The girl stuck close to Viggo. Although she hadn’t said a single word to him, it seemed that she considered him her guardian for the time being. Her eyes were still fixed wide with perpetual shock. Dirt—or maybe it was soot—smudged her face. She did manage to hold on to his hand, though, as he guided her.
+“Valla’s *situation* is that we’re fucked,” Sira said flatly, then sighed, shaking her head. “Well, come on then, the council will want to see you as soon as possible.”
 
-“I can take her from here,” Len said as they came to the front entrance. “She said her name was Mel. I think her parents run the smithy down the street.”
+They left Renold’s home and stepped into the warm night air. *Ah, finally*. Rykker breathed deeply, trying to clear his nose of the moldy bread smell.
 
-Len reached her hand towards the girl. She recoiled, taking a step backwards. The image of a burnt and bloodied hand reaching out from underneath rock flashed across his vision. “No,” he said, and squeezed Mel’s hand. “I’ll see this through.”
+Sira took them on a path through the city. As they walked, their surroundings changed from modest but well-built homes to market squares hemmed by taverns and shops, their windows empty. The squares themselves also had vendor stalls, but they too looked barren. Perhaps they would be filled with shopkeepers by morning, or perhaps they had been abandoned, for lack of customers.
 
-“Let me at least come with you,” she said. Her brow furrowed in a look of concern as she noticed his dark expression. He nodded. The truth was, he didn’t *really* want to do this alone.
+Eventually they came upon larger manor homes, and arrived at their destination—an imposing building, ancient looking compared to many of the buildings in the city, built in the architectural style of the Caeteran temples of old, built entirely out of tan stone blocks, with towering spires and a great domed roof.
 
-He left the Prioriem for the second time that day, with Len and Mel in tow. Although none of the fireballs had impacted the building, one had landed in the courtyard, leaving a sizeable creater.
+“Here we are,” Sira said. “The Prioriem. The Council will still be around, I’m sure. They’ve been quite busy as of late. Come along.” She strode through the gates, and they fell into step behind her.
 
-The walk to the smithy was short. Viggo purposefully took them down the opposite side of the street to where the crater had landed, being sure to put himself between it and the girl. There was no need for her to see that again. Once was bad enough.        
+Inside was perhaps even more impressive. They walked through tall, arched hallways, adorned with historical tapestries, many that looked to be as old as—or older than—the Sovereignty. Rykker supposed it made sense. The original city of Valla was founded during a time before the Sovereignty existed. And has continued to exist long past it’s destruction, he mused.
 
-Their destination was only a few blocks further. A row of shops, mostly intact, lined the street. Last in the row, the smithy’s storefront was modest, with a sign hanging above the door that read *Devir’s*, an emblem of a hammer and anvil etched into the wood above the name.
+They were led to a set of double doors, ornate and made of a dark wood. Two guards, dressed in a similar fashion to Sira, flanked the entrance. Sira turned, and she looked almost apprehensive. “Wait here. I’ll introduce you.”
 
-Viggo touched the hammer that hung from his belt. Years ago he had earned it working as an apprentice smith in Turin. Now, though, the hammer’s main use was violence. Or dispensing justice, as he liked to see it. Seeing this place brought back painful, but also fond memories. Becoming a smith had been the first step in his transformation.
+She opened the right-most door slightly, just enough to slide into the room.
 
-Other than the sign, there were no other adornments decorating the facade. Len wrapped her knuckles on the door.
+For a brief moment, Rykker could hear voices inside. 
 
-“Please, have you seen—” A woman’s voice, frantic, called out as the door swung open. Her eyes were wide with panic, cheeks streaked with tears. As soon as she saw Mel, she collapsed to her knees and embraced her, pulling the girl in close. “Oh, thank the 
-Trinity. They told us to stay inside but—but I coudn’t find her.” She sobbed between words. She grabbed at the girl, patting her down as if to check for injuries.
+“The vial was found on—” a male voice spoke, urgency edging his words to a tenor. And then the door shut, leaving them alone in the hall with the two guards, who refused to blink even once since they arrived.
 
-“She’s alright. We found her wandering the street when the raid began,” Len said, her voice careful and soft.
+Minutes later, Sira opened the door and beckoned for them to come inside. They entered a large chamber; a semi-circular table stood in the very center. The floor was laid with patterns of white marble, and the ceiling rose high above, arching into an impressive dome shape.
 
-“Oh my gods, I’m so sorry my love. I shouldn’t have left this morning. When I heard the horns, I came as fast as I could, but I couldn’t find you or Devir and the guards made everyone go inside. I just hoped he had you.” The woman up sharply, voice raising an entire octave. “Wait. Where’s Devir? Where is my husband?”
+There were six people sitting at the table. Four of them, two women and two men, sat in the center of the table, while two men sat near the end, along the far right side. And they were all staring intently at Rykker and his companions.
 
-So, Father, then. Viggo couldn’t keep his reaction hidden.
+With no chairs, the four of them stood awkwardly in front of the table, which was raised slightly on a dias, meaning that although the Vallan council was sitting, they were at eye-level with them. Well, except for maybe Sev.
 
-When she caught the pained look on Viggo’s face, a choking sob caught in her throat. She let go of her daughter, fresh tears streaming down her face. She composed herself slightly after a few moments. “Mel, honey, go wait in the washroom. We need to clean 
-you up.” Her daughter obeyed, leaving without another word or glance back, head bowed. He hoped the poor child would remember little from this day.
+Sira spoke in a formal tone. “Lord Governor Finn, Major Brixom, and the Council of Four—I present to you Marcus, a Captain in the Royal Ilrian Military and his companions. I have confirmed that their identities are who they say they are. They have entered the city through an ancient tunnel known as Tharin’s Passage, and have come bearing the word of High Marshal Fastaar.”
 
-“How?”
+Marcus cleared his throat. “Yes—well, not exactly. You see, Fastaar didn’t send us, per say. Colonel Vincent Reld sent us. He believed that Fastaar has been too modest with his strategy, and sent us to investigate the rumor that there was a way into the city.” He stumbled over the words quickly, as if holding on to the words caused him physical pain.
 
-The solitary word carried a heavy burden with it. “I don’t think—” Viggo began.
+The council was silent for a moment. Perhaps they were in shock, Rykker thought. When said aloud, it certainly sounded crazy to him.
 
-“Please,” she begged, still on her knees. “Tell me how he died.”
+“Yes, you see?” One of the men sitting to the far right spoke, breaking the silence. His accent gave him away as one of the nobility. His head was shaved completely bald, and he had a short, well-kept beard. His piercing green eyes shot daggers at the councilmembers in the center of the room. “I believe this confirms my suspicions. Fastaar has no intentions of coming to our aid. The bastard wishes to keep his *precious record* clean. Despicable, if you ask me. This new information presents an interesting new option for us. A way out of the city, unknown to our enemy. We cannot rely on a washed-up war hero to save us. We should begin evacuations via this so-called passage.”
 
-He caught a sidelong glance from Len, but her expression was inscrutable. He hadn’t told her what he had seen. He took a deep breath. This woman deserved to hear it, if only because she wanted to. “He... One of the fireballs hit him.” Best not to go into detail, or mention that her daughter saw everything.
+One of the women, younger with dark hair and discerning eyes, furrowed her brow in exasperation. “Lord Gareth, you cannot seriously be suggesting that we leave the safety of our walls. If our people evacuate, they’ll be completely exposed. Fastaar is our best hope. There is a reason he has the record he does. He must have the greater picture in mind. I’m quite sure he understands the stakes that are at play here.”
 
-The woman covered her hand with her mouth and let another sob escape, letting her head sag. Eventually, she pulled herself up, taking deep breathes and wiping her face.
+Lord Gareth fumed. “You also seem to forget the ticking clock that looms above us all. You’ve seen the reports. Our merchants collectively have two weeks of food stores left, and that’s with imposed rationing. Are we supposed to sit on our hands and let our people starve while Fastaar polishes his sword?”
 
-“Thank you,” she said, looking at Viggo with red eyes. “Thank you for bringing my daugher back to me.”
+The man next to Lord Gareth, surly with age, said, “You underestimate the length of time that would be required to evacuate the city. It’s going to take days to mobilize tens of thousands of people and funnel them through the passage.”
 
-All Viggo could do was nod. He left to go wait outside while Len talked with the woman, no doubt discussing the logistics of her husband’s death. In other words, when and where to pick up the body. What was left of it, anyways. *You really ought to stop looking at things so negatively. What we do here is make purpose out of that which has no purpose.* He could hear his old master’s words as clear as the sound a hammer makes on heated metal. Unfortunately, his master’s lesson had never really stuck with him. Cynicism was his religion. What lesson could possibly be gleaned from something like this? There was no reason to it. No purpose.
+While the leaders of Valla bickered, Rykker shuffled over towards where Sira was standing. “Er—this feels as if we’ve walked into something.”
 
-After they left, Len flagged down a pair of guards and tasked them with removing the boulder and retrieving the body. Their stoic expressions indicated that the request was not unusual; in fact their reactions were so nonchalant it gave him pause.
+Sira’s hard face softened slightly. “Yes, I suppose you have no idea what’s going on, do you?”
 
-“Has this been a regular occurence?” Viggo asked as they walked back to the Prioriem. He waved his hands in a vague gesture all around him, indicating the bombardment.
+Another of the councilmembers, an older man with frost-white hair, pounded his fist on the table. “Our. Priority. Is. Our. People.” Each word was punctuated with the thud of his fist. “Enel, you are correct that Fastaar may have the best interest of *Ilris* in mind, but if the cost of Valla can ensure an even greater victory, how can we allow him to make such a sacrifice? We must seize our fate with our own hands.” He sat back in his chair, satisfied that his point had been made.
 
-Len kicked a loose rock down the cobbled road. Her expression was sour. “I’m afraid so. It’s been like this for a month now. Every week at least. It’s not always rocks either. A week ago it was the rotting remains of livestock from the farms we abandoned.” She scrunched her face in disgust. “It’s hard to clean up hundreds of corpses off the street. Not before hundreds of people end up in the hospital, ill from disease.”
+Sira leaned in and dropped her voice to a whisper. “The four in the center are the Council of Valla. Elected representatives that speak for the people. To the far right, you have Gareth Finn, the appointed Lord Governor of Valla. Cream of the crop from Achenar. The other man sitting with him is Major Brixom Umrad. He commands the division that is stationed here.”
 
-A thought occurred to him, something curious he had nearly forgotten in the heat of the moment. “During the attack, you suggested that the Antuzans were targeting the Prioriem. How did they know where it is?”
+“Hmm. Good to know,” Rykker pondered. He could see the appeal in an elected council. But it also meant that the decisions of such a governing body could move against you at every turn. Or—in the case of what he was seeing here—hardly move at all.
 
-She shook her head. “They don’t. Well, not exactly, anyways. The Prioriem came first, everything else in Valla built around it. To this day, it lies in the exact center of the city. I guess the Antuzans have been trying to estimate exactly where the center is with each go around. And they’ve been getter closer each time.”
+“Anyways,” Sira continued. “If you just stay quiet and listen, you’ll be fine. You and your team have done your part.”
 
-“I still don’t understand,” he said. “Why go for the Prioriem in the first place? Why not just target the walls and storm the city? They greatly outnumber us. They have to know we are surviving by a thread. Not to mention the strange vial. It doesn’t seem 
-to add up. Why all the theatrics?”
+“There’s also the wealth that the Antuzans would be gaining if we simply left,” a young man with pitch black hair pointed out. “On the other hand, what value can we place on our citizens lives? This is not a decision to be made lightly.”
 
-Len shook her head and shrugged. “I wish I knew, Viggo. One thing is for sure, though, they *are* planning something. I can feel it.”
+The older councilwoman nodded. “I too conclude that more deliberation is required to determination the correct outcome. Too many variables are at play.”
 
-“Well whatever it is, we’re running out of time,” he said.
+“Zigil and Amina, you are undecided, then?” Gareth stared unhappily at the pair. “Time grows shorter by the hour. Deliberation is a luxury we cannot pay for. We’ll need a full majority vote from the council for this.”
 
-“Indeed,” she nodded, her face twisted in a defeated smirk. “I just hope we can get out or beat them back before it’s too late. Maybe Fastaar will pull through.”
+“Well, you know where I stand.” The man who sat near Gareth—Brixom Umrad, Rykker figured—who had been sitting quietly and brooding finally spoke up. He frowned at the lot of them. “You distrust your own people with such ease. Men are risking their lives every day to liberate Valla from the Antuzan threat. And you think to just waste that effort because you’re afraid of a fight? We *will* fight, and we will win.”
 
-They walked the remainder of the way in silence, giving Viggo time to think. The city was cracking under the weight of the Antuzans. They applied pressure from all sides. He did not know what their end game was, or why they had not simply overwhelmed the city with an attack. But it was only a matter of time before the force of their efforts came crashing down, crushing the people below. And yet those in power, both in and outside of the city, those with the power to act, did nothing. Deliberation was a luxury they could not afford. Although he hated to admit it, the Lord of Valla could be right—beginning evacuations as soon as possible might be the only way.
+The room settled to silence. Eventually, Gareth broke the stillness. “It seems we will not make any more progress tonight. We shall reconvene in the morning to further discuss matters. Perhaps we will reach an agreement at that time.”
 
-On the other hand, Vallans were tougher than they appeared. Mel’s Mother was proof of that. He had seen a fire in her eyes. A burning hatred for their common enemy. She showed immeasurable strength in the face of her tragedy. Perhaps they could rally the people, stand, and fight. Gather every able-bodied soul and push back. Would they stand a better chance at survival? They could even motivate Fastaar to join the fight, and surround their attackers.
+“There’s still the matter of the vial,” Zigil said.
 
-Great, now I’m debating myself back and forth, he thought.
+“I’ve tripled the guard patrols along the perimeter walls, but my men are stretched thin as it is.” Brixom withdrew a glass sphere, large enough to fit into both palms comfortably, and placed it on the table. It was filled with a dark ichor that swirled chaotically, of it’s own volition, against the glass. “I assure you, if we find any more Antuzans with one of these, they will be apprehended immediately.”
+
+“What is that, exactly?” Rykker cursed himself. The question just slipped out, unconsciously.
+
+The council turned in unison to look at him. For a moment, no one spoke. Then Brixom said, “We... don’t know.”
+
+“That is to say, we know a Antuzan spy was caught sneaking with this container near the outer perimeter of the city’s walls earlier this evening,” added Zigil. “Although, as Brixom has pointed out, we know not what it’s purpose is.”
+
+Rykker knew he should have stopped then and there. He should have just ignored it. But he couldn’t help himself. It was *too* damn interesting. “I have a fair hand at alchemy. I could take a look at the vial, try and deduce what’s inside.”
+
+At this, Lord Gareth laughed. “We have our own alchemists for that. I’m grateful to you for your part in giving us hope at a way out of the city, but to impart a task such as this to a stranger whom I have no way of judging worthy is nothing short of absurd.”
+
+“Wait.” Brixom looked keenly at Rykker. “You’re Rykker Adarien, aren’t you?”
+
+“You’ve heard of me?”
+
+“I saw you at an exposition in Achenar once. Your demonstrations were far better than any of the other engineers. I remember you had those goggles that could magnify your vision, and a small device that could fly all on its own...”
+
+With the flourish of a stage magician, Rykker removed the engine from his traveling pack, activating it as he released it from his grip. The engine hummed to life, glowing with a bright orange, and began to hover, bobbing slightly up and down.
+
+A few of the councilmembers audibly gasped. Lord Gareth’s eyebrows raised slightly, but he otherwise gave no reaction.
+
+“If anyone can figure out what this stuff is, it’s him. In any case, it was my men who found the vial, so I have the final say in how it is handled.” Brixom stood with the vial in hand, looking down at Lord Gareth expectantly.
+
+“Very well. Don’t make me regret this.”
+
+Rykker approached the table at Brixom’s request and took possession of the vial. It was surprisingly heavy. *The liquid inside must be dense*. “I’ll need access to tools.”
+
+Lord Gareth was, at this point, already turning his attention to other matters. “Yes of course, Sira can show you to the workshop here. Your companions are welcome to rooms here in the Prioriem as well. You are all to stay here until we’ve made a decision. We will reconvene tomorrow at first light.”
+
+With that, they were ushered out of the meeting chamber, Sira following closely behind them. Rykker clutched the vial with both hands. He was eager to get to work.
+
+“Do they ever sleep?” Viggo asked.
+
+“Not much, as of late.” Sira herself showed signs of exhaustion. Dark circles masked her eyes, which where twinged with red. “They’re doing the best they can, I think, given the circumstances.”
+
+“Why was Lord Gareth so insistent on beginning an evacuation?” Rykker asked. “It seems a little brash—even reckless—to abandon the safety of the city already.”
+
+Sira shifted her eyes towards the doors, then dropped her voice to nearly a whisper. “It’s his *daughter*, Annet. It’s just been the two of them here in Valla, ever since he was given lordship. He would do anything to get her out of harm’s way.”
+
+Suddenly things made more sense. Gareth didn’t care about his people, he just wanted to evacuate for his own personal reasons.
+
+Before they could leave, the doors behind them opened. Brixom stepped out, alone. He looked back to make sure the doors fully closed before coming over to them.
+
+“Captain Wyr.” He nodded to Marcus. “I wanted to talk with you before you retired for the night. Although the final decision is yet to be made, I’d like to send one of my men back through the tunnel to deliver a message to Fastaar.”
+
+Marcus looked hesitant. “Oh. Wouldn’t it be better to wait until the council decides?”
+
+“I fear that we may be running out of time.” He glanced at the vial still in Rykker’s hands. “We don’t know what *that* is; perhaps the Antuzans do not intend to lay an extended siege.”
+
+Rykker saw conflict in Marcus’ face. The soldier clearly wanted to help, but seemed to dislike the idea of disobeying the council. Ironic, considering his reason for being here.
+
+Marcus sighed. “What can I do to help?”
+
+“If you’ll come with me, we can brief my runner on the location of Fastaar’s camp.”
+
+He then turned to the captain of the city guard, her face a mask of concern. “Sira?”
+
+She hesitated. ”*Nilos incarnate*, Brix. You can’t ask me to do that. I’ve already quarantined the entrance with a dozen guards. No one is going in there without my—and by extension, the council’s—permission.”
+
+“Please, Sira. We’ve got to get word to Fastaar or this city is going to fall apart from the inside. What would Panra would have done? She always wanted you to do what you thought was best.”
+
+A flash of fire in her eyes seemed to suggest she might hit him. Instead, she took a deep breath. “Damn you for being right. The council *is* in disarray, and what they don’t know won’t hurt them.”
+
+She punched him lightly on the shoulder. “I’ll let one of your men through, but on one condition. Send Callin. That boy’s always had a good head on his shoulders. If anyone deserves to get out, he does.”
+
+The pair left. Rykker stared after them. He was intrigued by Marcus. At first, he had thought the man a simple soldier. But the longer he worked with him, he came to realize his depth.
+
+Clearly he was very skilled at combat, though he carried no weapon. And he was a survivalist, able to navigate his way through the forest at night and even find a cave that had been lost for centuries. On top of all of that, he seemed to have a strange sense of morality. A duality of duty and righteousness.
+
+“If you’ll follow me.” Sira interrupted his thoughts. “I can show you to your rooms.”
+
+She guided them through the halls and led them to a part of the Prioriem that contained guest suites. She showed Viggo to a room, and he bid them farewell.
+
+She tried giving Sev a room, but Rykker had to awkwardly explain that they would be sharing. He was sure she had noticed the glow of Sev’s eyes, but she said nothing. It was good when people didn’t mind—or at least were indifferent—about Sev.
+
+Eventually they entered a room that looked to be half-bedroom, half-workshop.
+
+“We used to have a councilwoman who was an alchemist,” Sira explained. “Ryveria. Brilliant woman. She insisted on having her equipment moved to the Prioriem when she was elected. Lord Gareth decided to keep it here, even after she was gone. It’s come in handy a few times. For now, you may use it as you see fit.”
+
+Rykker thanked her, and she left. After the door closed, he went over to the bed—dropping the vial on a pillow—and tossed himself onto it, groaning. “Oh, *burned sands*, my feet. What I wouldn’t give to be you right now.”
+
+“But you cannot *be me*, Rykker. That is impossible.”
+
+“It’s just a figure of speech, Sev.” He groaned, and shifted in the bed to face Sev.
+
+“Ah yes, I remember you telling me about those. The use of speech in a figurative fashion, usually to denote hyperbole.”
+
+“Uh-huh, exactly.”
+
+For a few minutes, they did not speak. Rykker much preferred the company of Sev in that regard. He was content to sit. Perhaps his thoughts wandered, or perhaps they did not. Either way, Rykker appreciated the time to think. He closed his eyes, letting his mind drift.
+
+This was officially the strangest day he had experienced in a long time. Only a few weeks ago had he decided—on a whim—to join the reserve force when it left to march south. The truth was, he had been bored. His life had grown easy and comfortable in Achenar.
+
+A steady, and not insignificant, stream of income was paid to him for his designs. Schematics for more efficient crossbows, binoculars, blast furnaces—all of which had been acquired by the Ilrian military for a handsome sum.
+
+Those designs, of course, were made possible by his archaeological discoveries. That was what people usually forgot. He was an archaeologist by trade, if his degree meant anything. But, as it turned out, the old Magi from ages past were quite good at engineering. His studies at the university had given him a wide range of skills, from alchemy to architecture. Still, even the most simple of their designs had taken him months to decipher. Now, even after years of study, understanding of their more complex creations remained a mystery to him.
+
+The greatest of all—as far as he could gather—was Sev. He knew he couldn’t be sure. But he *had* found Sev, buried in the ground, not far from the dig site. It was the most logical conclusion.
+
+He sighed and opened his eyes. Sev still stood, quiet as a statue. Not once had Rykker ever seen him sleep. He didn’t think sleep would come from him either. Not yet. He had work to do.
+
+*May as well take a look at this vial.* He sat up, scooping the vial off the pillow, and made his way over to the other half of the room. Examining his surroundings, he concluded that this Ryveria had good taste in equipment. It was old, but well maintained. The tubes were relatively clean, if a little stained, and the glass of the beakers gleamed.
+
+He placed the vial of black ichor on a stand that was too small. It would have to do. *First things first. I have to remember that whatever this stuff is, it’s probably dangerous*. The vial itself was stoppered by a cork. Perhaps the liquid was to be used as a catalyst of some sort?
+
+He found a specialized vacuum chamber on a shelf and worked to set it up. It consisted of a small round vial, a hand pump, and a rubber gasket to connect tubing. He would need to extract a small sample of the liquid from the vial for testing, but he had to be careful. There was no telling what the liquid would react to.
+
+He sterilized the equipment, along with a set of tubing and a small two-way syringe, with some strong alcohol he had found in a cabinet. He hoped that would be sufficient.
+
+Using rubber gaskets, he attached the syringe, tubing, and chamber. He worked the pump, a simple push-pull mechanism, to evacuate the air from the system. He pumped until it became too difficult. The vacuum wouldn’t be completely devoid of air, but it would be good enough.
+
+Carefully, he inserted the syringe through the cork, wincing as he did so, until the needle entered the liquid. He breathed a sigh of relief when nothing happened. He slowly pulled the plunger on the syringe, allowing it to suck in a small amount of the black ichor. He pressed the plunger back down, and the extracted liquid left through a secondary valve, into the waiting chamber.
+
+He observed his prize—a small glass vial no larger than his thumb containing the dark liquid—with satisfaction. With this small amount, performing experiments on it would hopefully prove to be more safe, if only a little.
+
+Now the real work could begin.

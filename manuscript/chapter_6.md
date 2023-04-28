@@ -2,266 +2,370 @@
 tags: ['chapter']
 ---
 # Chapter Six
-## Escape
+## The Stone Falls
 
-The pain in Marcus’ arm grew worse. He tried to ignore the sharp sensations as they crept up his shoulder. He led the way through a ruined alley, keeping to the shadows. As they approached the entrance to Tharin’s Passage, Antuzan forces became more frequent, and remaining unseen became more difficult. Each intersection they came to presented a new challenge.
+Rykker carefully placed the round vial of dark liquid on the table before the leaders of Valla. Today, he addressed them alone. He had left Sev back in the room, and he hadn’t seen Viggo and Marcus in days. An entire week had passed since he and his crew arrived in Valla, and he had spent nearly the entire time secluded in his room, working with the dark elixir.
 
-He peered back at his companions. The Lord Governor followed close behind him. Annet and Viggo partially supported Len as she limped along, putting her weight on her still-good leg. Rykker and Sev brought up the rear. Marcus hoped that Sev’s keen senses would prevent anyone from getting the jump on them.
+“You’re not going to like this,” he said. He slowly turned to meet each of their eyes directly, hoping to impress upon them the gravity of his news. They remained silent, eyeing him warily. *Press on, then.* He cleared his throat. “I have deduced the liquid’s purpose.”
 
-He stopped just before the alley connected with a larger street. Across the way, he could see the old man Renold’s house that contained the entrance to the passage.
+“That much we surmised when you called this meeting,” Lord Gareth said. “Any less would have been detrimental to your authority. Please continue.”
 
-And it was on fire.
+Rykker ground his teeth, forcing himself to hold back a retort. The Lord Governor of Valla dragged every word through a slurry of nobility and meaningless babble in a way that made Rykker want to damn the whole thing and escape while he still could. But he knew he couldn’t. This was bigger than a single—if infuriating—man.
 
-The windows had been broken in, and angry flames snaked from them, curling up the brick walls. Thick black smoke curled from the edges of the roof and out of the chimney. Thankfully, the structure still seemed to be in tact. The fire had not been active for long.
+“My initial assumption was that this was some type of alchemical reagent. At first, I extracted a small sample of the liquid, ensuring it remained in a vacuum. I couldn’t rule out air as a potential catalyst. Many alchemical bombs are made this way, to react violently with the air when thrown and broken against their target.
 
-*Shit*. Of all the houses the brutes had decided to burn down, Marcus thought, why did it have to be this one?
+“Unfortunately, this meant that air *would* be the most likely candidate for a catalyst. Testing on a small sample of the liquid would ensure the explosion would be contained to a small radius. As it turned out, when exposing the reagent to air, nothing happened.”
 
-Then he saw the bodies. Vallan guards, no doubt the ones who where assigned to watch over the house lay in a bloody pile on the side of the road, tossed carelessly to the side. He thought perhaps the Antuzans realized something was special about the house, but did not know what, so they decided to burn it to the ground.
+Gareth rolled his eyes, crossing his arms. “Might you get to the point? I’m not interested in your process, Rykker, only in your results.”
 
-He turned back to the group. They looked tired. More than that, they looked like they had been to the blightlands and back. They were broken and battered, and had been through too much this day.
+Biting back another insult, Rykker skipped to the end. “I tested another thirty or so substances, all likely candidates for reaction. None were successful. Then I remembered *where* the vial was found. The Antuzan soldier was detained at the base of Valla’s walls. I took a trip to the ramparts and collected some of the mortar used to bind the wall’s stones. As it turns out, it seems that this liquid has been specially devised to react, quite strongly, to the mortar contained within the city’s walls.”
 
-“What do we do now?” Rykker asked.
+Finally, Rykker saw the reaction he expected. Even Lord Gareth’s eyes widened.
 
-“We can try the northern gate,” Len said. “There’s a chance what’s left of my garrison is still trying to evacuate people.”
+“What are the precise implications of this revelation?” Zigil asked. His brow was furrowed in concern, but he otherwise held composure.
 
-“We’ll never make it that far, especially with your leg the way it is.” The Lord Governor looked particularly bad off. His head wound had started bleeding again, and he sagged against one of the alley walls.
+“In alchemy, you can create a potion by binding the reagent, many of which have different properties, to a reactant. It’s messy and complex, but once this binding process has occurred, your reagent will react to any substance that is exactly like, or even similar to, the reactant used in the original binding process,” Rykker explained. “The mortar was most likely made using the limestone rock that is common in this region. It seems the Antuzans have guessed this. The small droplet of liquid I tested with created a... rather unexpectedly large explosion. On a related note, some of the equipment in the lab may need to be replaced.”
 
-“You seeing any other option?” She countered. “I can... make do. I think it’s feeling better already.”
+At this, a few of the council retreated slightly from the vial that sat a few feet away.
 
-Gareth gave her a flat look, then frowned. “No, I suppose I don’t.”
+“What can be done?” Brixom spoke with the even tone of a soldier in control of his emotions. “Is there a way to counteract this effect?”
 
-“I do.”
+“Not unless you want to rebuild the miles of walls that surround the city,” Rykker said. “I suppose if I knew enough, I could create a reagent that would counter the reaction, but the alchemist who created this is beyond me. I’ve only dabbled in the art. As far as I know, few are few true masters at the skill.”
 
-All eyes went to Marcus. He took a deep breath. Was he really prepared for this? He decided it did not matter. He knew that he had no choice. It was their only way.
+“It seems clear to me that this resolved our prior dilemma,” interjected Zigil. “I was uncertain if abandoning the city was the right move, but given this advantage, I fear we have no choice.”
 
-“I’m going in there,” he said, pointing back at the burning building. “I’ll see if I can clear a path to the basement. Then you guys can follow.”
+The other councilmembers began to nod, murmuring their agreement.
 
-“Don’t be daft,” Gareth snapped. “Look at the thing! You’ll burn alive and leave us here.”
+“Hold now,” Brixom said. His jaw was set tight, mild frustration flashing across his face. “This changes nothing. It’s been a week since the spy was found, and my patrols have seen nothing since then. Is it possible that was all they had? Or perhaps it was merely a decoy to set us into a panic.”
 
-“But you’re right, we won’t make it to the southern gate. I have to try.”
+“Alchemy is a slow and intensive process,” Rykker said. “I would not be surprised if this reagent took multiple days to bind.”
 
-“I’ll go.”
+“If what Rykker says is true, then—” Lord Gareth was cut off mid-sentence by a guard bursting through the chamber doors.
 
-They all turned to look at Sev. The goliath pulled the hood from his head and released the clasp at his neck, shrugging the purple cloak off his broad shoulders. He gently handed the bundle of cloth to Rykker, who stared dumbstruck at his companion.       
+The man, dressed in the uniformed attire of the Ilrian military, looked wide-eyed. His mouth gaped open, breathing heavily. Catching his breath and regaining some of his composure, he spoke. “Council, the Antuzans are mounting a full-scale attack near the Southern gate. They bring with them siege towers and a battering ram, alongside a force of three thousand, perhaps more.”
 
-“Are you sure about this?”
+After delivering his message, the soldier looked as if he wanted to collapse. He glanced at Brixom, awaiting orders. With a nod from his commanding officer, he retreated through the doors with haste.
 
-“Yes, Rykker. I’m quite sure. I believe I can survive the flames.”
+“It seems as if this alchemy is the least of our concerns now, council,” Brixom said through pursed lips. He stood and pushed back his chair. Rykker thought he almost saw the mask slip—a glimpse of the real face behind the harsh, blunt exterior. A face of fear. “If you’ll excuse me, I have a city to defend.” He strode from the chambers, leaving a stunned council behind.
 
-“You *believe*? Have you ever actually tried?”
+Rykker could see the rest of their masks slipping. Cracks of fear began to shine through. Noble or poor, the city was as good as a paper cage surrounded by hungry wolves.
 
-“No, but, somehow I know I can.”
+He wondered if he too felt that same fear. He supposed he did, but for some reason he felt detached from it. As if his current situation were happening to someone else, and he was merely a witness.
 
-The engineer shook his head, but allowed the giant to pass. Without his cloak to shroud him, Marcus was struck once again by how massive he was. His stone body looked ancient and formidable. As he passed, he handed his warhammer to Marcus. The weight of it nearly pulled him to the ground. *Unbelievable. He carries it with one hand as if it weighs nothing.*
+“Adarien Rykker, you are dismissed.”
 
-Sev stopped at the edge of the shadows, watching the street for a moment, then with bounding strides, ran to the house and up it’s short set of stairs to the front door. He flung it open and vanished inside.
+Lord Gareth’s words startled him from his thoughts. He nodded absentmindedly and turned to leave, only barely paying attention to the panicked discussion the council began to have behind him.
 
-They could only watch in silence as the flames continued eat away at the house. The common architecture in Valla, at least, was limestone brick, which did not burn easily. Their worry would be the burning contents of the house, and fear of the roof collapsing upon them. Sev could solve their first problem and give them a chance. They needed to hurry, though, for the longer the building burned, the more dangerous it became.
+He set a brisk pace down the corridors, deep in troubled thought. His task had kept him busy these days passed, but now, with nothing to distract him, reality struck. Everything that they did--—sneaking through the passage, contacting the council, even investigating the mysterious black liquid, they were merely delay tactics. A means to pass the time until the inevitable struck.
 
-After a span of minutes, the door swung open. Sev poked his head through and waved, motioning to come.
+Soon, the city would fall. An optimist might hope that they could ward off their attackers, but Rykker was no optimist. A pragmatist saw their actions for what they truly are: the desperate acts of a cornered animal. Already, Antuzan forces marched upon the walls. How long would the city guard and Brixom’s limited forces be able to fend them off? A day, perhaps two?
 
-They all but darted across the street and up the stairs. Viggo and Annet struggled to pull Len along. They were taking too long, exposed out in the open, but with Len’s injury, they could only move so fast.
+Once they breached the city walls, the vicious invaders would sack the city, burning homes, looting, and killing. If you were lucky, you’d be killed quickly. He figured, given hearsay of the Antuzan’s savage nature, that most would not be so lucky. If one was truly blessed by the forsaken gods themselves, they might be taken prisoner and shipped to the Empire to become a slave. The Antuzans were not known for their restraint or mercy. He continued pacing through the halls of the Prioriem for nearly half an hour, his thoughts grew dark, but his resolve was hardening.
 
-Just as they made it to the bottom of the stairs, Marcus’ worst nightmare came true. A group of Antuzans turned the corner onto the avenue, nearly a hundred yards away. They all wore bold black and white uniforms and carried wicked spears, save for one of 
-them, who was dressed differently, carrying no weapon that Marcus could see. He tried to look more closely, but there was no time. By the time Len made it to the top of the stairs, the Antuzans had spotted them, and sprinted towards the house.
+His head was beginning to clear now, and see the full picture. He had to leave. Get out now, while he still could. He needed to head back to his rooms, retrieve Sev and his belongings, and make his way to the passage. Sira had said they were granted special access. He thought he could remember the way back to camp. Straight up the river, then due west. Once he was back to camp, he could—
 
-Marcus let his companions pass, then slammed the door behind them.
+His thoughts were cut off when he nearly crashed into Marcus, who had appeared from around a corner. “Shit!” He called, stumbling back.
 
-It was hot. Not summer’s day hot. More like inside-of-an-oven hot. Much of the furniture, still ablaze, had been pushed to either side, and they had a short path to the basement stairs. Flames stroked the ceiling rafters, threatening to bring the entire roof crashing down upon them.
+Viggo trailed behind him, and both were dressed for battle. Marcus wore his half-plate, his short sleeves exposing rippled muscle beneath. As usual, he carried no weapons, but his mechanical fist gleamed viciously. Viggo bore his leather jerkin, and his hand rested lightly on his blacksmith’s hammer. Rykker could only assume they too had heard the news.
 
-Marcus searched around for something to bar the door with, but everything was on fire. Sweat was already beginning to glisten on his forehead, and he felt it drip down his back. The acrid taste of smoke filled his mouth and bit at his lungs, making him cough. His shoulder pulsed with pain, the heat bringing a burning sensation to his wound.
+“Rykker!” Marcus said. “Where have you been? The Antuzans are marching on the walls.”
 
-“We’ve been seen!” he shouted above the roaring of the fires. “Sev, help me block the door. The rest of you, down to the tunnel. Quickly!”
+“My work has kept me busy these past few days. Look, I’ve, uh, got to go.” He pushed past them and continued down the hall.
 
-Sev bounded over to the door, then slid a heavy oak table, now streaked with black scorch marks, in front of the entrance. Marcus returned Sev’s warhammer, grateful that his shoulders did not have to bear the weight of it anymore.
+“Wait, where are you going?” Marcus called after him. “Viggo and are going to the wall. Major Brixom has ordered his forces to man a defense, and we are going to join him.”
 
-“Good enough,” he said, nodding at the table. “We should go.”
+“Good for you,” Rykker said, still not looking back. “I’m getting out of this city.”
 
-They made it to the top of the basement stairs when something slammed into the front door.
+“After all this, you’re just going to leave?”
 
-*Damn they’re quick.*
+There was no enmity in Marcus’ voice. No disappointment, even. He simply sounded surprised. “I’m sure you have your own reasons for being here, Rykker. You seem the type to always have ulterior motives. But I thought some part of you was here because you cared. At least a little bit.”
 
-Down in the basement, a musty underground smell replaced the bitterness of the smoke. It took a moment for Marcus’ eyes to adjust to the darkness, still burning and teary from the fire. As the shapes swimming in his vision took focus, he saw that Rykker had already flung open the hidden trapdoor leading to the passage. They just had to make it through, then they could seal the entrance behind them. If it was good enough for smugglers, it would have to be good enough for them.
+Rykker stopped, but did not turn to face him. “You thought wrong.”
 
-One by one, they climbed down into the tunnel. Len struggled, but not nearly as much as Marcus would have thought. To bear the pain of a broken leg through all of this staggered him.
+“I know you aren’t technically a soldier, and I can’t give you orders, so I can’t make you stay. But we could use your help, not to mention Sev’s. Back in the forest, I saw you fight. You could make a difference.”
 
-Marcus stepped onto the tunnel stairs just as an explosion of cracking wood sounded above. *What could have done that?* There was no point in trying to find out. He back-stepped half-way down the stairs, then closed the trapdoor. With simple push of the recessed brick, a quiet *click* locked the trapdoor in place.
+Rykker sighed. Damn all of this. “I made a mistake coming here. I should have never left Achenar.” He continued down the hall, leaving Marcus and Viggo.
 
-He met the others waiting at the bottom of the stairs.
+***
 
-“Let’s go,” he said. He pushed past them to the front, then looked back. “They made it into the house. Hopefully they don’t find the trapdoor, but even if they do there’s no way they can get through.”
+Back in his room, Rykker hastily packed his bag. Sev hovered quietly, watching him. The right thing was to leave. There was nothing he could do for them now. He had helped them get into the city, even discovered the dark liquid’s purpose. But the dice had now been cast, and there was nothing he could do.
 
-“You sound confident,” Rykker said, a hint of sarcasm in his voice and one eyebrow arched in doubt. Then, more seriously: “I hope you’re right.”
+“Are we leaving?” Sev asked.
 
-“Me too,” Marcus muttered, turning towards the darkness of the tunnel.
+“Yes, Sev. We’re getting out of here. The city is going to fall soon.”
 
-Their pace was slow, not only because of Len’s leg, but because they were exhausted. Marcus guessed that it was probably only mid-afternoon, but it felt as though he hadn’t slept in days. His muscles and joints ached, and the pain in his shoulder was getting worse. He worried that it indicated infection. Left untreated, death would be slow and painful. He could not let the pain he felt distract him. Navigation through  the tunnels required complete concentration. A wrong turn could lead them to a dead end, 
-trapping them, and if they came across an unstable part of the cave system, it could collapse. He was their only chance for survival.
+“Fall?”
 
-Strangely enough, being underground comforted him and eased his aches and worries, if only a little. It reminded him of home. Of Sen. The most fun they ever had together was exploring the wilds, seeking out caves and pretending to live like the Githum. His life was far more simple, then.
+“Sacked. Destroyed. The enemy will be here soon.” Rykker continued to pack, throwing clothes carelessly into his travelling bag. Fortunately, he had packed lightly.
 
-Sev’s voice broke the silence, pulling him from his reverie. “Marcus, someone’s coming.”
+“I see.” If he didn’t know Sev, Rykker almost would have thought Sev was being short with him.
 
-“Fuck.”
+Sev was quiet for a few minutes. Slinging his bag across his shoulder, Rykker headed for the door, motioning for Sev to follow.
 
-He quickened his pace. He had to think, and think fast. His heart began to race, and the adrenal response of the chase, of being prey, kicked in. There was no way they could have broken through the trapdoor so quickly. It made no sense. And yet they had.  
+“What about everyone else? Marcus? Viggo?”
 
-He knew there was only one option. It could kill them all, but it was the only way.
+He turned to face Sev. As always, he could read no emotion on Sev’s stone face. Golden eyes, however, seemed to gleam questioningly. Sev was still standing in the room, not moving towards the door.
 
-He stopped and moved to the side. “Everyone, keep moving. Follow the tunnel, keep going straight. I have an idea.”
+“They are staying to fight.” Looking away, Rykker pushed the door open. “Come on, Sev.”
 
-He allowed everyone to pass except for Sev, placing a hand on his stone chest. “Hey big guy, remember when I asked you to open up the cave entrance with your hammer?”
+“But shouldn’t we help them?”
 
-The goliath bobbed his stone head, eyes gleaming in the darkness of the tunnel.
+Rykker stopped, hand on the door. Groaning, he let it close. He retreated into the room. Leave it to Sev to suddenly have a conscience. “What do we owe them? Sev, we barely even know them.”
 
-“I’m gonna need you to do it again. But this time, harder, and instead of making an entrance, we’re gonna do the opposite.”
+“But we came to help, didn’t we?”
 
-The sounds of quick footsteps echoed quietly from the direction they had come, the sound of boots against gravel. *Four of them, or maybe five*. They were running out of time.
+Rykker felt a twinge of guilt. He was acting a coward. A selfish coward. But why shouldn’t he? He wasn’t a soldier. There was no need for him to risk his life over this. The justification felt hollow. The moment he had stepped outside of camp, he had become a soldier. He had joined the fight. And now he’d have to see it through. Nilos take him, he had to stay. “Alright, Sev. You win.”
 
-He studied the tunnel behind them, looking for the optimal target. If these tunnels had been used for centuries, chances are they were reinforced to prevent cave-ins. His search was rewarded when he spotted them: steel bolts embedded in the ceiling of the 
-tunnel, placed at regular three-foot intervals, no doubt installed to prevent imperfections in the rock from causing the tunnel to collapse.
+He emptied his pack onto the bed, and kept only the essentials—his crossbow, bolts, engine, and a pair of binoculars. “Come on. Time to save a city.”
 
-“See that, Sev?” He pointed to one of the bolts nearest to them. “I want you to hit that as hard as you can.”
+***
 
-“Won’t that cause the tunnel to collapse?”
+The only emotion Viggo could muster as he watched the Antuzan army approach was terror. The black and white clad soldiers looked formidable as they marched to the beat of a drum that thundered a steady rhythm, like a heartbeat. Perhaps it was meant to represent the beating heart of Valla, drawing its last breaths, he thought. Their only hope was that High Marshal Faastar would act, bringing the full might of his regiment with him.
 
-“That’s the idea.”
+Standing with Marcus upon the ramparts, he looked out across the fields in which the Antuzans made their approach. Four siege towers, built of wood and wrought iron, were slowly being pushed towards the walls. A group of ten men carried a large wooden pillar on its side—a battering ram. Bringing up the rear was a row of trebuchets, more than likely the same that had launched the attack against the Prioriem nearly a week ago. Viggo guessed that they still had a little less than a mile until they reached the walls. The archers would begin shooting long before that.
 
-The footsteps grew louder.
+Major Brixom had climbed to a high perch on the ramparts and was addressing the battalions that manned the wall, a mixture of Ilrian soldiers and city guardsmen. No doubt his speech was rousing, but Viggo wasn’t listening. His hand traced the handle of his hammer as the beating of the drums thundered through his chest. Surely, they could not be that loud, given their distance. And yet, the pounding was there. Or perhaps that was his own heartbeat? Either way, it was impossible to hear anything over the thumping.
 
-Marcus retreated down the tunnel, giving Sev enough room. The behemoth readied his warhammer, bending his knees slightly, then swung it upwards, towards the bolt. A thundering crack reverberated throughout the tunnel, but the bolt held. Once more, and another sound of splitting rock. The third and final hit sent a large fissure across the span of the ceiling. A spiderweb of cracks formed, and dust and pebbles rained down. A moment later, the immense tensile pressure released, and large chunks of rock began 
-to fall.
+He turned to look at Marcus, who was fixated on Brixom’s speech. Was he the only one who could hear it? It was so loud, overpowering everything else. The surrounding men rattled their swords to their shields. Their mouths opened wide, letting loose fierce battle cries to rally their spirits. And yet, all he heard was the booming of the drums.
 
-Sev ducked out of the way, leaping around the debris.
+Soldiers prepared a great ballista that was mounted to the nearest bastion, loading a heavy looking bolt into the skeins and drawing the bow back.
 
-Together, they ran.
+Archers took to their posts, lining the parapet. They drew in unison, pointing towards the sky. A command he could not hear must have been uttered, for they let their arrows free, and the blue-feathered shafts arced through the sky before meeting the enemy. Viggo watched as the Antuzan forces took formation, using shields to fend off the attack. Many found their mark anyway. Some of the arrows met with the soldiers atop the siege towers, and they toppled off the edge, plummeting fifty feet to the ground.
 
-The sound of crashing rock was deafening in his ears. He chanced a look back, and saw that the ceiling had collapsed entirely, sealing the passage and stopping their would-be pursuers.
+Volley after volley flew, bringing many of the enemy to the ground, and yet more came. The siege towers continued their slow crawl towards the wall. They would be upon them in minutes.
 
-After few minutes of jogging down the tunnel, they caught up with the rest of the group.
+A black tipped arrow flew past Viggo. He blinked, as if waking from a daze, and realized that the siege towers themselves housed archers of their own. Vallan bowman fell to the ground, black feathered shafts sprouting from their chests.
 
-He came to a stop before them, placing is hands on his knees, breathing hard. He looked up, slowing his breathing, and his heartbeat receded back into his ribcage, no longer threatening to explode from his chest.
+In a rush, the sounds of the world crashed into his silence with a force that struck him, shouting, the clang of steel, the twang of bowstrings. Someone was shouting in his ear.
 
-“Did you just—” Viggo stopped himself, unable to find the words.
+“Get down! Viggo, get down!” Marcus yelled, pulling at his shirt as he ducked for cover.
 
-“Yeah. Yeah, we did,” he gasped.
+Viggo obliged, kneeling beside his companion as more arrows soared overhead.
 
-“I can’t believe it.” Rykker shook his head.
+Together, they retreated to the rear of the ramparts and surveyed the scene. Archers exchanged volleys back and forth, and a battalion of Ilrian soldiers erected a wall of shields along portions of the parapet where bowman had fallen.
 
-“That was damn foolish,” Gareth said. “You could have killed us all.”
+The nearest siege tower came within a few hundred spans of the walls, and Viggo watched as the ballista, operated by two city guards, took aim. The bolt shot through the air, colliding with the tower, exploding into a shower of wood shards. They fired again, this time connecting with the top platform where Antuzan bowmen perched. The tower, unable to withstand the second impact, seemed to sag, as if it were suddenly too tired to carry on, and collapsed in on itself, crashing to the ground below.
 
-“We’re still hear though, aren’t we?” Len glared daggers at the back of Gareth’s head as she supported herself against the rock wall of the tunnel.
+Men on the wall suddenly cried out, their eyes searching the skies. Viggo watched with horror as the familiar sight of a large chunk of rock came hurtling through the air towards the walls. With a deafening crunch of earth shattering, the rubble struck the wall a few hundred feet to their right taking a large portion of the rampart with it. Screams filled the air. A second projectile descended from above, obliterating the bastion that held the ballista, scattering fragments of wall across the ramparts.
 
-“Yes, well, I suppose that’s true.” The Lord Governor waved his hands dismissively. “It doesn’t matter now, anyways. What’s done is done.”
+The walls were in chaos. Their line of bowmen was broken, and soldiers lay dead or dying, crushed by rubble, stuck with an arrow, or both.
 
-“On that, we can agree,” Marcus said. “We should keep moving.”
+The second of the siege towers made its final approach. The draw bridge began to lower, and Viggo saw Antuzan spearmen on the other side ready themselves for battle.
 
-Marcus estimated they were nearly half way to the opening they had created on their way in to the city. He only hoped he had remembered the path correctly, since they could no longer turn back.
+Marcus stood upon the ramparts, shouting to the soldiers that remained on the wall. “Get up, soldiers! It’s time to meet the Maker face-to-face. We’ve a city of thirty thousand souls to defend. We’re not going to let these invaders come to our home and take what they desire. Get up—if you can stand—and fight with me!”
 
-Free of the chase, he finally had time to think and reflect on the events of the day. Valla was lost. The Antuzans surely had swept across the entire city. Evidently, the attack at the southern gate was nothing more than a distraction, so that they could get close enough to the eastern wall and breach it with the explosion. It was such a simple gambit to be fooled by. Such a simple mistake to have caused the destruction of an entire city. Perhaps some people made it out, though, through the southern gates. 
+And so they did. A surprising number of survivors remained on the wall, and rallied to Marcus. When the bridge finally came down upon the wall, he led the charge against the enemy. Viggo ran alongside him, into the fray.
 
-His thoughts turned to Vincent, and the rest of their Ilrian battalion that had been lying in wait outside of Valla. Why had they not come to Valla’s aid? Did the boy Brixom sent never make it to his destination? Or perhaps Fastaar acted the coward and decided Valla was a lost cause. Marcus did not know whether their intervention would have turned the tides of the battle, but any chance would have been better than what they were given. He could only hope that next time, they would be more prepared. The next target for the Antuzans would likely be Cenna, but nothing about this invasion made any sense, so it felt a fool’s gambit trying to guess their enemy’s plans. Why this far south? Why Valla? The mystery of how an entire legion of Antuzan soldiers evaded detection for so long also troubled him. Something felt off about it all, like a picture on the wall that’s slightly crooked.
+A scrum formed along the wall, a mass of bodies clashing together, metal grinding against metal.
 
-More concerning, though, was the strange figure he caught a glimpse of with the Antuzan soldiers just before they escaped through the tunnels. He did not appear to be a part of the Antuzan legion for lack of any uniform. He tried to recall any details about the man—all he could muster was that the mysterious figure had been bald, remembering the glint of sunlight across the shining dome.
+Viggo, caught in at the epicenter of the struggle, flailed his hammer about in an attempt to clear a space. An Antuzan soldier pushed up against him, and he bashed the man’s helmet, sending him crumpling to the ground.
 
-What could the man have been doing in Valla, working with the Antuzans? It confounded Marcus. The man had honed in on the house like a bloodhound leading his pack to prey. He realized that he terrified him, even though he had no right to. He knew nothing of the man beyond his alliance with the Antuzans and his lack of hair. And yet, something about the mere thought of the man sent shivers down his spine and curdled his blood. Marcus was equal parts confused and frightened.
+Slowly, the Antuzans pushed the scrum line inwards, and the Vallan defense faltered. The battle thinned, giving the Antuzans a chance to use their spears to greater effect.
 
-His fear melted into excitement when he spotted daylight ahead.
+In the confusion, Viggo had lost sight of Marcus. A pair of Antuzans cornered him, backing him against the parapet along the outer perimeter of the wall. It would be a hundred-foot drop for him, or the tip of a spear. No great choice either way.
 
-The world opened into a small clearing, flanked on all sides by cliffs. The monotonous drone of nature filled his ears, as he hopped down out of the tunnel, landing on the soft ground below, his descent cushioned by dry leaves.
+Instead, he threw his hammer as hard as he could towards one while unsheathing his dagger and approaching the other. He dodged in close, stepping on the spear that was thrust toward him, and stabbed the man through the neck.
 
-It was early evening, and the sun set the treetops ablaze, casting a warm glow into the clearing. Marcus listened for any sounds of fighting, but only the quiet sound of cicadas greeted him. It seemed the tunnels had carried them far enough away from the city to avoid the battle. He allowed himself a moment of serenity. If he closed his eyes, he could almost forget about the horrors of the day—beyond the drone of insects, he heard the gentle breeze nudging the trees, imploring them to part with their leaves. Moments such as this one transported him twenty-five years and a thousand miles.
+He turned to see the other man charging him. His hammer lay far to the side, behind his enemy. Viggo ducked and rolled to the side, narrowly avoiding the attack. His back was to the edge again, and this time he had no hammer.
 
-But then the moment is gone, unfrozen by the rest of his companions as they climbed from the tunnel, blinking at the light.
+The Antuzan approached more cautiously now, adopting a defensive stance. Viggo held his knife ready. He lunged forward, hoping to close the gap. This time, the spear grazed his side. His jerkin caught some of the damage, but he felt a hot flash of pain near his ribs as the blade of the spear sliced his flesh. He winced, crying out, but continued his lunge. He tackled the man, piercing him through his stomach with the dagger. Twisting his body, he wrenched the knife out, rolling away, towards his hammer.
 
-Rykker threw himself to the ground, stretching his arms and legs in the fallen leaves, a smile touching his face.
+Struggling to his feet, he gripped his weapon, ready to push through the pain and continue the fight. But the Antuzan did not rise.
 
-“Thank the trinity,” he said gleefully.
+More came. The third and fourth siege towers made contact with the wall, uncontested, and even more Antuzans poured in, scattering the Vallan defenses.
 
-Viggo and Annet led Len to a nearby tree, helping her lean against it.
+The weight of his hammer felt heavy, but Viggo fought. Soon they would be entirely overrun, and the Antuzans would breach the walls entirely. And there was nothing Viggo could do to stop it.
 
-“Not a bad place for camp,” Viggo said, appraising the cliff walls that would provide them with cover from the elements, as well as prying eyes.
+Although it was nearly winter, sweat dropped from every pore in his body. He could feel the strain on his muscles, tearing them bit by bit until there was nothing left of him. He was sure he would die here.
 
-“Indeed,” said the Lord Governor. “We will be well protected here, I think.”
+At some point, Marcus had fought his way back to him, and he, alongside two dozen other men, fought against the invaders.
 
-“How’s your leg, Len?” Annet crouched down to examine the splint, touching it lightly.
+“Reinforcements should be here soon,” Marcus shouted as he threw a jab at a Antuzan, caving in helm and face alike. “Brixom has gone missing, but I overheard a runner saying Sira has a hundred men on the way.”
 
-“Better, honestly.” Surprise lit her face. “It actually feels a lot better. I think the swelling has gone down.”
+“Lot of good that’ll do,” retorted Viggo.
 
-Viggo began to clear a space in the brush, then pulled out a tinder kit.
+Marcus glanced out over the parapet, into the fields were the remainder of the Antuzan force say in wait. “Dammit, Fastaar, where are you?”
 
-“No,” Marcus said quickly. “No fires. Not here.”
+More Antuzans came, and yet they held the line. Reinforcements came, and they pushed against the might of the enemy, refusing to break.
 
-“What, why?”
+Every muscle and bone in Viggo’s body screamed. It could not have been more than a half hour since the fighting began, but in the heat of battle, every minute stretched to an eternity.
 
-“We’re still too close to the city. We can’t risk it.” Marcus shook his head. “And... I know everyone won’t want to here this, but, we have to keep moving until dark. We must further our distance from the city as much as possible. The Antuzans are sure to 
-send out hunting parties looking for survivors sooner than later, and we’ll want to be as far away as we can before that happens.”
+“Agh!” Marcus cried. Viggo turned to see Marcus clutching his bare arm. Blood spilled from a deep gash across his tricep. The wound looked painful, and would not stop bleeding on its own.
 
-The disappointment in their faces was palpable.
+“Fall back!” Viggo called to him.
 
-“I know you’re all tired. I am too. But we have to keep going. Just a little further. Rest now, but when the sun disappears behind those trees, we leave.”
+Together, they pushed to the rear side of the wall, where they were sheltered from the worst of the battle.
 
-The sun gave them a few minutes more, and when the last rays of light finally died, they set forth into the forest.
+Marcus lowered himself to the ground with his good arm, wincing in pain. He leaned back against the parapet, resting his head, and sighed. “The fucker got the wrong arm, at least.”
 
-Marcus guided them on a course due west, hoping to catch the road leading to Cenna. The city might be in danger, and they could warn the city council before it was too late.
+Viggo noticed that the wound was on Marcus’ good arm, allowing him to continue using his prosthetic as a weapon.
 
-They had perhaps and hour of light left until night truly came. It would not be safe to travel the forest at night. They had no trails to follow, and the rough terrain would be hazardous in the dark.
+He kneeled beside Marcus, fishing a suture kit from his pack. He also removed the flask, which he had fortuitously filled the day before, unscrewed the top, and passed it to his comrade. “Drink this. Should help with the pain.”
 
-They pressed on, and when the stars began to peek through the spaces between the treetops, a lone gray slab of a building cam into view. The building had long since been defeated by nature, hordes of creepers sprawling up the walls, covering the building with a green veneer. A single pointed spire reached for the sky in vain, unable to pierce through the forest ceiling.
+Marcus took the flask wordlessly and brought the metal container to his lips, tossing his head back. A wet cough escaped his lips; some of the clear liquid dribbled onto his chin. He used a dirty sleeve to wipe his face.
 
-The place looked like it had not seen a living thing in a many years. Sections of wall and roof were missing, and branches of trees were sprouting from the cavities.
+Viggo set to work on the gash, first cleaning the wound and surrounding area with an alcohol solution, and then beginning to stitch the skin back together. Luckily, it was a clean slice, and he was able to close the gash up easily. He glanced up from his work, surveying the battle. They were losing. The Vallans fought well, but this was a war of attrition, and more Antuzans continued to pour through siege towers.
 
-They crept closer, and came to a small quad of broken stone. The remains of a fountain lay at the center, the statues too shattered to be recognizable as human.
+He returned to his work, shaking his head. All of this, everything they had fought for—finding Tharin’s Passage, warning the Council, it was going to be for nothing. He didn’t know High Marshal Fastaar personally, but odds were Viggo would dislike the man. He was a coward, and the reason they were all going to die.
 
-Marcus placed his hand on the fountain, the stone rough and cracked beneath his fingers. “What is this place?”
+Finishing the suture, he clipped the excess thread and gave the wound one last once-over with alcohol. After returning his equipment to his bag, he lowered himself beside Marcus, resting his back against the parapet. He was still young, but the fighting had exhausted him. Now that he had stopped moving, a fire was swelling in his arms and legs. The strain of the battle had taken its toll. He felt worse than he had after an entire day of swinging a hammer in the forges.
 
-“It’s an old Caeteran church, if I’m not mistaken,” Viggo said. He was staring up at the building.
+“So this is it, huh?” He said aloud. He wasn’t really talking to Marcus in particular, just thinking out loud. For all the twists and turns his life had taken—to end up here, farther South than he had ever been in his entire life, was not what he had expected.
 
-From this vantage, the skeleton of a large domed roof could be seen, beams of some kind of metal forming a frame now devoid of glass.
+“I guess so,” Marcus answered, not realizing Viggo had spoken rhetorically.
 
-“This place must be over a thousand years old,” Rykker said.
+They watched the fighting continue from afar. Both Vallan and Antuzan fell, and more stepped in from behind to take their place. But their ranks were thinning. Each moment that passed, however, fewer defenders, clad in the azure blue of Valla and the crimson of Ilris, still stood. They were caught in a vicious cycle that would eventually come to an end, once the defenders had no one left.
 
-“Probably closer to three thousand, actually.”
+“I hope, at least, some people have been evacuated,” Viggo said, turning to look at Marcus. “The least we can do is give them a chance. Maybe Rykker and Sev got out.”
 
-“What’s a blacksmith-turned-medic doing with knowledge like that?” Marcus asked.
+Marcus nodded wordlessly, not turning to look at him.
 
-The medic shrugged, eyes searching the stone beneath his feet. He looked uncomfortable. “Just something I picked up, I guess. Saw a drawing in a book once that looked just like it.”
+He turned his eyes back to the battle. The worst of it everything was that he thought that perhaps he had been doing something special. Perhaps, for once in his life, he would have a greater purpose. Do something good. But, as it turned out, the gods spat on anyone who thought themselves to be anything more than what they were: creatures without purpose, wandering aimlessly until they died. There was no grand plan, no great vision that could be seen if only from afar. There was only chaos.
 
-Marcus could not help but think that Viggo was holding something back But everyone had skeletons in their closet. He decided not to press the man.
+At that moment, Viggo’s world shook. The wall beneath him tossed violently, and an explosion filled his ears. He was sure the entire wall would come crashing down around them. Cracks formed between the stones, leaving wide fissures in the wall. Eventually, the air calmed, and echoing vibrations continued for a moment before subsiding, the ground beneath him becoming still.
 
-“Well, the gods might no longer be here, but their shelter will still serve our needs.”
+“What the hell was that?” Marcus said. He struggled to stand, his injured arm clutched to his chest.
 
-They made their way through the open entrance, the doors having long since rotted to nothing. A wide entrance hall, overgrown with vines, led them to a spacious atrium, slivers of moonlight casting a pale glow.
+Viggo rose, his muscles protesting against the movement.
 
-Here, they set up camp. Marcus permitted a small fire; given the distance they put behind them today, he guessed that they would be safe. The fall days were getting cooler, and the warmth was worth the small risk.
+The tremor had caused a shift in the battle upon the wall. Viggo stared in shock as realization dawned on him. The siege towers were *gone*. The place that they had occupied on the wall was now empty, and the Antuzans had been cut off from their source.
 
-Marcus cooked a basic soup using equipment and some provisions they had pilfered from the Prioriem kitchens—some broth, mushrooms, leafy greens, and a pinch of salt hardly made a meal, but to his ravenous appetite, it smelled amazing.
+All hope was not lost. The rough wood of his hammer felt comforting as he removed it from his belt once more. Passing a sidelong glance at Marcus, he saw that his friend displayed a fierce grin. Again, they joined fray.
 
-He looked up from his preparations and saw that Viggo and Annet were missing from the group. He looked to Gareth, arching an eyebrow.
+The remaining attackers faltered, and they were soon overtaken by what was left of the Vallan defense.
 
-The Lord Governor shrugged. “They run off to somewhere. Said they wanted to explore the place. Seems that boy has taken a liking to my Annet.”
+The fighting subsided after ten more brutal minutes. No Antuzan had been spared.
 
-If the man seemed concerned about this fact, he did not show it. He carried the same dismissive expression he usually did.
+Perhaps a hundred soldiers were all that remained of their defense. Although many looked just as exhausted as Viggo felt, and others now nursed severe wounds, the Vallans cheered at their victory, and most remained on the wall, too tired yet to do anything else. Viggo and Marcus found brief respite, returning to their seats along the parapet, enjoying the last dregs of Viggo’s flask.
 
-Marcus had not realized the two were getting close. He supposed they stayed together through the tunnels and in the forest. He *was* out of practice, so he was not surprised he could not see the signs. It had been many years since he had felt smitten with 
-anyone. He smiled, thinking back on happier times.
+Viggo was relieved. Not happy, by any stretch, but compared to his prospects a half hour ago, he could not complain. Perhaps not all was so lost as he had once thought. His hunch about the Vallan people had been right. Their iron will had allowed them to persevere to victory. Yet, the uneasy feeling in the pit of his stomach bothered him. Something did not sit right with him, and he realized it was the same uneasy feeling he’d gotten in the square nearly a week ago, when he’d thought he saw someone watching him. It was the feeling that not all was as perfect as it seemed, that waiting just beneath the shiny veneer was an unpleasant mold.
 
-He tended to the soup, stirring the contents of the pot. The leaves wilted, and the mushrooms were starting to break down. He inhaled the steam, and his stomach growled in protest.
+Sure enough, their reprieve did not last. Celebratory chatter turned to panicked shouting. Viggo and Marcus had set themselves apart from the rest, and they wandered back to the main group to investigate the commotion.
 
-“Someone is coming.”
+One soldier, a captain, who did not have the look of battle upon, his armor still rather clean and free of the scrapes and dents, was shouting above the rest. “Quiet! Listen here!” The crowd of soldiers quieted, and he spoke again. “The eastern wall has been breached. Some kind of explosion has reduced a portion of the wall, perhaps a hundred span in length, to rubble. With our forces concentrated here, the Antuzans have seized a large portion of the Warrens. We were able to mount a counterattack, setting up choke points nearer the city proper, but we need more men. Report to your Lieutenants, and ready yourselves. The last fight for Valla has begun.”
 
-Marcus looked up, stirred from his romance with the soup, to see Sev, standing on high alert.
+The shouting began again, and the soldiers upon the wall, still recovering from the last attack, readied themselves yet again. Some looked angry, others too tired to carry on, but many had a look of stone, having reached too far, too deep to care for such emotions any longer. They were driven by the feet that carried them, and the rough voices of their commanding officers.
 
-“Viggo?”
+“I suppose I should be reporting to you,” Viggo said, giving Marcus a questioning glance. “What do we do now?”
 
-“No. One pair of footsteps. Coming from there.” The giant pointed to towards the entrance hall.
+Marcus stretched his injured shoulder, wincing. He hesitated a moment, then said, “We fight.”
 
-Marcus stood quickly, stepping away from the fire to put himself between the entrance and the rest of the group. His body went rigid. Someone followed them? How?
+He hadn’t known Marcus for more than a week, but Viggo had expected that answer. “I thought you might say that.”
 
-He stood there, ready for anything, as the footsteps grew closer.
+They had only just made it back down to street level when Viggo noticed a familiar hulking shape travelling towards them, against the flow of soldiers to the east.
 
-“There’s no need for that,” a cool voice said. It had a lilting, poet’s cadence to it.
+“I thought you were leaving,” he said as Rykker and Sev approached. “Thought your business was done here.”
 
-The poet stepped into view, a bald man, tall and lean, wearing dark brown hunter’s leathers. He carried no sword at his hip, but the tip of a large crossbow peeked from behind his back. His dull gray eyes glinted in the firelight as his gaze rested on Marcus, still poised to fight.
+Rykker carried his crossbow, and a quiver of bolts hung from his belt. He glanced back at Sev, then shrugged his shoulders. “Yeah, well, you know. Plans change. We’re here to help now. What’s going on? Where is everyone going?”
 
-“Oh my, what a gift this is,” the poet said, and he grinned.
+“We managed to repel the attack here, but something happened. The eastern wall was breached. Some kind of explosion,” Marcus explained.
+
+Rykker’s fell, and he smacked his forehead. “Dammit. *That’s* what that was. I thought maybe... but I wasn’t certain.”
+
+“You know what that was?” Viggo asked.
+
+“Yeah. Yeah, I do. I’ll explain later. So, you’re headed there now?”
+
+Marcus nodded. “We’re going to do what we can.”
+
+The engineer sighed, giving Sev another sidelong glance. “You happy now?”
+
+The behemoth stared, then said, “Yes, Rykker. I am.”
+
+Rykker blinked, startled by the response.
+
+“Come on,” Marcus said. “Let’s get moving.”
+
+Marcus led them through the city streets, and it became clear that the Vallan defenses had not held. The city was already swathed in chaos. Distant fighting could be heard from all sides, and the main thoroughfares were littered with bodies. It seemed that the Antuzan invaders had begun to sweep the city, leaving death in their wake.
+
+They trod with care, slowly. Somehow, the active fighting always remained at a distance, always a few streets over. At one point, they rushed down an alleyway to avoid an Antuzan patrol as it marched through the street.
+
+Their path took them close to the heart of the city. Even here, near the Prioriem, signs of fighting were everywhere. They passed by Devir’s shop, and Viggo was relieved to see that the door was still intact. Perhaps the woman and her daughter had made it out.
+
+They came to the Prioriem itself, ancient and sturdy, and the evidence of conflict was here too. The wrought-iron gates to the courtyard had been forced in, hanging precariously from their hinges. If the city’s heart had been taken, then the city truly was lost, Viggo thought.
+
+“We should investigate,” Marcus said. “There may be survivors.”
+
+The great wooden doors leading in to the Prioriem were splintered and torn asunder, leaving a gaping hole wide and tall enough to fit through. They stepped carefully into the dimly lit entryway. The precious ornaments that decorated the halls were torn down, destroyed.
+
+They followed Marcus through the desecrated halls, and when they came to an atrium, one of the many open rooms in the Prioriem dedicated to public forums, discovered a nightmarish landscape. Bodies were scattered on the floor, those of servants and soldiers alike. Many of them were Vallan guards, but Viggo could see a few of the black and white Antuzan uniforms.
+
+“Burned sands,” Marcus said. His moth curled into a disgusted snarl, his fist clenching and unclenching. “They butchered them.”
+
+A spluttering cough disturbed the somber quiet of the atrium. In the far corner of the room, they found a man, slumped against the wall. A streak of dark across the floor led them to him. The man, who Viggo recognized as Zigil, the young dark-haired councilor, stared blankly towards the ceiling, a bloom of dark blood covering his mouth and neck. His hands, stained the same dark red, hung limply at his sides.
+
+Viggo kneeled beside the man, checking his wounds. His throat had been slashed cleanly. By some miracle, the large vein had been missed, though the wound had still had time to bleed a great deal.
+
+“Can you speak?” He said, keeping his voice quiet and steady.
+
+The man’s eyes shifted to Viggo, and his mouth opened as if to speak, but all that came was a gurgle as blood trickled down his chin.
+
+Viggo bowed his head. *Shit*.
+
+“Aren’t you going to stop the bleeding?” Marcus called from behind him.
+
+“There’s no point,” he replied, keeping his head low. He unsheathed the small dagger he kept in his belt. “The bleeding has progressed for too long. His lungs have already begun to fill. There’s nothing I can do except ease his passing.”
+
+And he did.
+
+They did not spend much more time in the atrium after that.
+
+They continued their search through the winding halls of the building, and Viggo felt a gnawing in his stomach. He hadn’t eaten since the early morning, and the day’s events and left him ragged. Every step left his body more feeble. He needed to eat soon, and he was sure the others felt the same. Perhaps they could scavenge something from the kitchens. And then a thought occurred to him.
+
+“The kitchens,” Viggo said.
+
+Marcus came to a stop. “What?”
+
+“The secret basement through the kitchens,” he explained. “There could be survivors holed up there.”
+
+“Of course,” Marcus said, his face lighting up with recognition.
+
+The kitchens were undisturbed by the marks of battle. Rows of dishes and silverware were stacked neatly on shelves near the back wall. Dry goods—a variety of spices, powders, dried fruits, and pastas, lay carefully arranged along the counters. An abandoned pot simmered quietly on a stove-top burner, puffs of steam rising to the ceiling.
+
+Viggo took the lead, pushing his way to the back of one of the pantries, and pushed the sliding door, hidden in plain view, aside. Down the winding staircase, they came to a cozy sitting area, and found what they had been searching for.
+
+Lord Governor Gareth Finn sat in a dark leather chair, leaning forward, elbows resting on his knees. His hands were steepled, and his head bowed, as if in prayer. His daughter, Annet, sat cross-legged on the floor across from him, turning a dagger over in her hands. Sira, captain of the Vallan city guard, lay face-up on a couch, her right leg suspended on a stack of pillows. She wore a quilted tunic, and her armor had been deposited in a crumpled heap on the floor. Her eyes were closed, but her chest rose and fell with steady breaths.
+
+Gareth looked up when they entered, and Viggo saw that his face was hollow, sunken. Dried blood caked the left side of his head. He stood, and his brow creased when he saw them.
+
+“Well, you’re not who I was expecting to show up,” he croaked, his voice rough, and he sounded disappointed.
+
+“What’s that supposed to mean?” Rykker snapped from behind.
+
+The Lord Governor’s face softened, and he held his hands up in a placating gesture. “Peace. I only mean that I sent Brixom out an hour ago to retrieve more men, and he has yet to return.”
+
+Gareth sank back down into his chair, eyes cast downward. “How bad is it? We heard a great deal of commotion above not long after Brixom departed.”
+
+“It’s... bad,” Marcus said. The big man stepped forward. “They have all but taken the city.”
+
+Gareth’s frown deepened, and he closed his eyes. Viggo had never seen the man somber. “So that’s it, then. Valla has fallen.”
+
+They were all quiet for a moment.
+
+Viggo went to Sira’s side, kneeling. “What happened to her?”
+
+“She hurt her leg.” Viggo turned to see Annet, looking up from her spot on the floor.
+
+She stood up, coming over to him. She crouched beside him, setting the dagger on the ground. Her shoulder brushed against his, and he was surprised to find that she smelled of lavender. “Major Brixom brought her in. We think it’s broken or something, so we tried to straighten it and raise it up.”
+
+Viggo glanced towards her, long dark hair partially obscuring her face. She lightly touched Sira’s arm, pinching the fabric between two fingers. Her emotion played across her face. It was a look Viggo was well acquainted with.
+
+He examined her leg, carefully rolling the pant leg up. Her shin was swollen, and an angry, dark bruise the size of a fist had formed.
+
+“Probably broken,” he said. “At least it didn’t break through the skin. Her leg doesn’t look too terribly bent, which means as long as we can keep it straight, and assuming the fractures inside aren’t too severe, it should heal. It won’t ever be the same, but she might be able to walk again.”
+
+He cleaned and dressed the wound, wrapping it tightly with linen. They broke down one of the unused chairs with Rykker’s help, and he fashioned a makeshift splint, which he set in place with more linen strips. It wasn’t his best work, but he hoped it would do.
+
+“Thank you,” Annet said, just as he finished tying the last strap in place. “You couldn’t know how much it means to me.”
+
+“I—it was nothing, really. It’s what I do,” he said, rubbing the back of his neck.
+
+She turned away and looked at Sira, watching her chest rise and fall. Viggo stared after her, and he could not make sense of his emotions.
+
+He did not get the chance. He looked up at a tap on his shoulder and found Marcus standing over him.
+
+“I’ve spoken with the Lord Governor,” he said. “We decided that our best chance is to head for the passage.”
+
+“You mean—”
+
+Marcus nodded. “We’re headed towards the breach.”

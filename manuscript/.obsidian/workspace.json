@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "81db462bb167dcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7858419aeb8c479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b9b4b920523a3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1decd268a384a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter_5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fca48f36ca82bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1552197aaabd53c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12c3036ec64c0a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18ea32ba09fdefad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c7ce8d782b490798",
+    "type": "split",
+    "children": [
+      {
+        "id": "61580fe4652ea31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ece36211fec070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter_5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "d1decd268a384a63",
+  "lastOpenFiles": [
+    "Word Count.md",
+    "toc.md",
+    "title_page.md",
+    "Outline.md",
+    "chapter_3.md",
+    "chapter_4.md",
+    "chapter_5.md",
+    "chapter_2.md",
+    "chapter_6.md",
+    "chapter_7.md",
+    "chapter_8.md",
+    "chapter_9.md",
+    "chapter_10.md",
+    "chapter_11.md",
+    "chapter_12.md",
+    "chapter_13.md",
+    "Untitled.md",
+    "chapter_1.md",
+    "chapter_0.md"
+  ]
+}
